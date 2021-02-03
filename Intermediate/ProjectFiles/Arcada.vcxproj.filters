@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Arcada.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DB5ADF74-5554-466B-B871-BFD3F3350E8B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arcada.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ArcadaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F32C817E-0821-423D-8FD1-94BAC480F641}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Arcada">
+      <UniqueIdentifier>{B6EC12E9-90B3-47E8-BEBA-9E20DC226E55}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arcada\Arcada.Build.cs">
+      <Filter>Source\Arcada</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Arcada\Arcada.cpp">
+      <Filter>Source\Arcada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Arcada.h">
+      <Filter>Source\Arcada</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcada\ArcadaGameModeBase.cpp">
+      <Filter>Source\Arcada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\ArcadaGameModeBase.h">
+      <Filter>Source\Arcada</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcada\ShootComponent.cpp">
+      <Filter>Source\Arcada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\ShootComponent.h">
+      <Filter>Source\Arcada</Filter>
+    </ClInclude>
+    <Filter Include="Source\Arcada\Actors">
+      <UniqueIdentifier>{6735B10F-5C2E-480D-8D5F-1A78F566A812}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Arcada\Actors\PlayGroundBorder.cpp">
+      <Filter>Source\Arcada\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Actors\PlayGroundBorder.h">
+      <Filter>Source\Arcada\Actors</Filter>
+    </ClInclude>
+    <Filter Include="Source\Arcada\Actors\Bonuses">
+      <UniqueIdentifier>{21F7DF9B-FDC4-4B11-A579-62148EA1CD09}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Arcada\Actors\Bonuses\Bonus.cpp">
+      <Filter>Source\Arcada\Actors\Bonuses</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Actors\Bonuses\Bonus.h">
+      <Filter>Source\Arcada\Actors\Bonuses</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcada\Actors\Bonuses\BonusPoints.cpp">
+      <Filter>Source\Arcada\Actors\Bonuses</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Actors\Bonuses\BonusPoints.h">
+      <Filter>Source\Arcada\Actors\Bonuses</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcada\Actors\Bonuses\BonusShield.cpp">
+      <Filter>Source\Arcada\Actors\Bonuses</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Actors\Bonuses\BonusShield.h">
+      <Filter>Source\Arcada\Actors\Bonuses</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcada\Actors\Bonuses\BonusShootLevelUp.cpp">
+      <Filter>Source\Arcada\Actors\Bonuses</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Actors\Bonuses\BonusShootLevelUp.h">
+      <Filter>Source\Arcada\Actors\Bonuses</Filter>
+    </ClInclude>
+    <Filter Include="Source\Arcada\Actors\Other">
+      <UniqueIdentifier>{9A6E9CA9-8C8F-4A63-BD04-6145E9E64C95}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Arcada\Actors\Other\PawnShield.cpp">
+      <Filter>Source\Arcada\Actors\Other</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Actors\Other\PawnShield.h">
+      <Filter>Source\Arcada\Actors\Other</Filter>
+    </ClInclude>
+    <Filter Include="Source\Arcada\Actors\ProjectTiles">
+      <UniqueIdentifier>{33AF1EEA-70B3-4A98-BCE8-606E02C5D79D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Arcada\Actors\ProjectTiles\ShootProjectile.cpp">
+      <Filter>Source\Arcada\Actors\ProjectTiles</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Actors\ProjectTiles\ShootProjectile.h">
+      <Filter>Source\Arcada\Actors\ProjectTiles</Filter>
+    </ClInclude>
+    <Filter Include="Source\Arcada\Components">
+      <UniqueIdentifier>{9B7907E3-B55B-4EBF-8189-8C80AE26E7C2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Arcada\Components\EnemysSpawnController.cpp">
+      <Filter>Source\Arcada\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Components\EnemysSpawnController.h">
+      <Filter>Source\Arcada\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcada\Components\GameHealthComponent.cpp">
+      <Filter>Source\Arcada\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Components\GameHealthComponent.h">
+      <Filter>Source\Arcada\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcada\Components\HealthComponent.cpp">
+      <Filter>Source\Arcada\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Components\HealthComponent.h">
+      <Filter>Source\Arcada\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\Arcada\Pawns">
+      <UniqueIdentifier>{EB4A77FC-6F3B-4BE7-A327-E8CB02DA69E6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Arcada\Pawns\BasePawn.cpp">
+      <Filter>Source\Arcada\Pawns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Pawns\BasePawn.h">
+      <Filter>Source\Arcada\Pawns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcada\Pawns\PlayerPawn.cpp">
+      <Filter>Source\Arcada\Pawns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcada\Pawns\PlayerPawn.h">
+      <Filter>Source\Arcada\Pawns</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

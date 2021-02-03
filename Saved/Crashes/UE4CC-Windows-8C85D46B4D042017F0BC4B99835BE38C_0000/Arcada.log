@@ -1,0 +1,783 @@
+﻿Log file open, 11/01/18 20:53:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Arcada
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-496326607) SRandInit(-496326607).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185988
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file C:/Users/Servets/Documents/Unreal Projects/Arcada/Binaries/Win64/UE4Editor-Arcada-7188.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: E:/Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.01-19.53.44:998][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.01-19.53.44:998][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.01-19.53.45:014][  0]LogInit: Computer: DESKTOP-C8BO9BR
+[2018.11.01-19.53.45:014][  0]LogInit: User: Servets
+[2018.11.01-19.53.45:014][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.01-19.53.45:014][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.11.01-19.53.45:014][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.01-19.53.45:014][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.01-19.53.45:014][  0]LogMemory: Process Physical Memory: 272.22 MB used, 272.22 MB peak
+[2018.11.01-19.53.45:014][  0]LogMemory: Process Virtual Memory: 269.88 MB used, 269.88 MB peak
+[2018.11.01-19.53.45:014][  0]LogMemory: Physical Memory: 6961.06 MB used,  9304.02 MB free, 16265.08 MB total
+[2018.11.01-19.53.45:014][  0]LogMemory: Virtual Memory: 4779.89 MB used,  9304.02 MB free, 134217728.00 MB total
+[2018.11.01-19.53.45:167][  0]LogInit: Using OS detected language (en-GB).
+[2018.11.01-19.53.45:167][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.01-19.53.45:170][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.11.01-19.53.45:568][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.01-19.53.45:848][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.01-19.53.45:898][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.11.01-19.53.45:898][  0]LogD3D11RHI:       4065/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.01-19.53.45:906][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.01-19.53.45:906][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.01-19.53.45:908][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.01-19.53.45:909][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.01-19.53.45:909][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.01-19.53.45:930][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.01-19.53.45:930][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.11.01-19.53.45:930][  0]LogWindows: EnumDisplayDevices:
+[2018.11.01-19.53.45:931][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.01-19.53.45:931][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.01-19.53.45:931][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.01-19.53.45:931][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.01-19.53.45:931][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.11.01-19.53.45:931][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.01-19.53.45:931][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.01-19.53.45:931][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.11.01-19.53.45:966][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.01-19.53.45:977][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.01-19.53.45:978][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Servets/Documents/Unreal Projects/Arcada/Intermediate/Shaders/WorkingDirectory/1472/).
+[2018.11.01-19.53.45:978][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Servets/AppData/Local/Temp/UnrealShaderWorkingDir/554C01AB46DA30768E85AB90FFD1B78A/'.
+[2018.11.01-19.53.45:978][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.01-19.53.46:890][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.01-19.53.46:943][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.01-19.53.46:991][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.01-19.53.47:039][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.01-19.53.47:091][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.01-19.53.47:138][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.01-19.53.47:196][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.01-19.53.47:250][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.01-19.53.47:291][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.01-19.53.47:339][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.01-19.53.47:394][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.01-19.53.47:441][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.01-19.53.47:512][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.01-19.53.47:562][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.01-19.53.47:665][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.01-19.53.47:665][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.01-19.53.47:713][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.01-19.53.47:762][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.01-19.53.47:859][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.01-19.53.47:884][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.01-19.53.47:931][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.01-19.53.47:998][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.01-19.53.48:047][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.01-19.53.48:094][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.01-19.53.48:094][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.01-19.53.48:553][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.01-19.53.48:633][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.01-19.53.48:633][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.01-19.53.48:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Servets/Documents/Unreal Projects/Arcada/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.01-19.53.48:633][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.01-19.53.48:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Servets/Documents/Unreal Projects/Arcada/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.01-19.53.48:633][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.01-19.53.48:649][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.01-19.53.48:662][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Servets/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.01-19.53.48:674][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.01-19.53.48:675][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.01-19.53.48:675][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.01-19.53.48:675][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.01-19.53.49:018][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.01-19.53.49:379][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.01-19.53.49:418][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.01-19.53.49:418][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.01-19.53.49:418][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.01-19.53.49:418][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.01-19.53.49:418][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.01-19.53.49:449][  0]LogNetVersion: Arcada , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2674010682)
+[2018.11.01-19.53.49:627][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.11.01-19.53.50:138][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.065511 seconds
+[2018.11.01-19.53.50:144][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.11.01-19.53.50:144][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.11.01-19.53.50:144][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.01-19.53.50:191][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.01-19.53.53:091][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.01-19.53.53:137][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.01-19.53.53:917][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.01-19.53.54:391][  0]SourceControl: Source control is disabled
+[2018.11.01-19.53.54:391][  0]SourceControl: Source control is disabled
+[2018.11.01-19.53.54:447][  0]SourceControl: Source control is disabled
+[2018.11.01-19.53.54:508][  0]SourceControl: Source control is disabled
+[2018.11.01-19.53.55:408][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.01-19.53.55:722][  0]LogOcInput: OculusInput pre-init called
+[2018.11.01-19.53.56:008][  0]LogEngine: Initializing Engine...
+[2018.11.01-19.53.56:010][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.01-19.53.56:207][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.01-19.53.56:207][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.01-19.53.56:327][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.01-19.53.56:338][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-19.53.56:413][  0]LogInit: FAudioDevice initialized.
+[2018.11.01-19.53.56:489][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.01-19.53.56:500][  0]LogInit: Texture streaming: Enabled
+[2018.11.01-19.53.56:592][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.01-19.53.56:593][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={10B928DF-4F18-C93E-4E22-1FB60B96F4B8}
+[2018.11.01-19.53.56:724][  0]LogInit: Transaction tracking system initialized
+[2018.11.01-19.53.57:027][  0]BlueprintLog: New page: Editor Load
+[2018.11.01-19.53.57:913][  0]LocalizationService: Localization service is disabled
+[2018.11.01-19.53.58:981][  0]LogConsoleResponse: Display: 
+[2018.11.01-19.53.59:149][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.01-19.53.59:149][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.01-19.53.59:149][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.01-19.53.59:876][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/' took 0.01s
+[2018.11.01-19.53.59:876][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.11.01-19.53.59:876][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.11.01-19.53.59:876][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2018.11.01-19.54.00:407][  0]SourceControl: Source control is disabled
+[2018.11.01-19.54.00:407][  0]Cmd: MAP LOAD FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.01-19.54.00:408][  0]LightingResults: New page: Lighting Build
+[2018.11.01-19.54.00:458][  0]MapCheck: New page: Map Check
+[2018.11.01-19.54.00:458][  0]LightingResults: New page: Lighting Build
+[2018.11.01-19.54.00:479][  0]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-19.54.00:483][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.01-19.54.00:493][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.01-19.54.00:534][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.406ms to complete.
+[2018.11.01-19.54.00:534][  0]LogFileHelpers: Loading map 'M_GamePlay' took 0.127
+[2018.11.01-19.54.00:641][  0]LogCollectionManager: Loaded 0 collections in 0.001761 seconds
+[2018.11.01-19.54.00:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Collections/' took 0.01s
+[2018.11.01-19.54.00:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Developers/Servets/Collections/' took 0.01s
+[2018.11.01-19.54.00:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Collections/' took 0.01s
+[2018.11.01-19.54.00:727][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.01-19.54.00:739][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2369 classes and 525 folders.
+[2018.11.01-19.54.00:810][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.11.01-19.54.00:856][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.11.01-19.54.00:957][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.11.01-19.54.01:034][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.01-19.54.01:037][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.01-19.54.01:040][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.01-19.54.01:160][  0]LogRenderer: Reallocating scene render targets to support 860x720 Format 9 NumSamples 1 (Frame:1).
+[2018.11.01-19.54.01:369][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.11.01-19.54.01:370][  0]LogLoad: (Engine Initialization) Total time: 19.28 seconds
+[2018.11.01-19.54.01:370][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.01-19.54.01:370][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.01-19.54.01:387][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.01-19.54.01:406][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.11.01-19.54.01:429][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.01-19.54.01:463][  1]LogAssetRegistry: Asset discovery search completed in 11.8588 seconds
+[2018.11.01-19.54.01:465][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.01-19.54.01:465][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.11.01-19.54.02:411][ 40]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.01-19.54.19:381][ 57]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.01-19.54.19:813][ 57]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0030 seconds. Added 116 classes and 0 folders.
+[2018.11.01-19.54.20:418][ 57]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.01-19.54.20:485][ 57]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.01-19.54.20:548][ 58]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.01-19.54.44:957][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.11.01-19.54.44:989][462]LogSavePackage: Save=17.36ms
+[2018.11.01-19.54.44:989][462]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnCDE870E74A292C5C8D1238A1AD13C889.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.11.01-19.54.44:991][462]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.11.01-19.55.07:090][641]LogHotReload: New module detected: UE4Editor-Arcada-8633.dll
+[2018.11.01-19.55.07:774][644]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-19.55.07:897][644]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-19.55.07:897][644]LogClass: ShootInfo HotReload.
+[2018.11.01-19.55.07:901][644]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0013 seconds. Added 6 classes and 6 folders.
+[2018.11.01-19.55.07:903][644]Display: HotReload successful (3 functions remapped  2 scriptstructs remapped)
+[2018.11.01-19.55.08:227][644]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2371 classes and 529 folders.
+[2018.11.01-19.55.08:233][644]Display: HotReload took  0.5s.
+[2018.11.01-19.55.37:909][733]LogHotReload: New module detected: UE4Editor-Arcada-9708.dll
+[2018.11.01-19.55.38:593][736]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-19.55.38:706][736]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-19.55.38:707][736]LogClass: ShootInfo HotReload.
+[2018.11.01-19.55.38:710][736]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0011 seconds. Added 6 classes and 6 folders.
+[2018.11.01-19.55.38:712][736]Display: HotReload successful (3 functions remapped  2 scriptstructs remapped)
+[2018.11.01-19.55.38:998][736]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2371 classes and 529 folders.
+[2018.11.01-19.55.39:001][736]Display: HotReload took  0.4s.
+[2018.11.01-19.55.54:902][941]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.01-19.55.54:951][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.01-19.55.54:952][941]PIE: New page: PIE session: M_GamePlay (1 Nov 2018 21:55:54)
+[2018.11.01-19.55.54:952][941]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.11.01-19.55.54:953][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000767s)
+[2018.11.01-19.55.54:953][941]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-19.55.54:953][941]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2018.11.01-19.55.54:953][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001607s)
+[2018.11.01-19.55.55:003][941]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-19.55.55:028][941]LogInit: FAudioDevice initialized.
+[2018.11.01-19.55.55:136][941]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.11.01-19.55.55:138][941]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.11.01-20.55.55
+[2018.11.01-19.55.55:139][941]LogWorld: Bringing up level for play took: 0.000559
+[2018.11.01-19.55.55:197][941]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.11.01-19.55.55:205][941]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 1.12
+[2018.11.01-19.55.56:819][ 34]LogTemp: OVERLAP
+[2018.11.01-19.55.56:819][ 34]LogTemp: OVERLAP
+[2018.11.01-19.55.56:936][ 41]LogTemp: OVERLAP
+[2018.11.01-19.55.56:969][ 43]LogTemp: OVERLAP
+[2018.11.01-19.55.57:053][ 48]LogTemp: OVERLAP
+[2018.11.01-19.55.57:120][ 52]LogTemp: OVERLAP
+[2018.11.01-19.55.57:137][ 53]LogTemp: OVERLAP
+[2018.11.01-19.55.57:203][ 57]LogTemp: OVERLAP
+[2018.11.01-19.55.57:203][ 57]LogTemp: OVERLAP
+[2018.11.01-19.55.57:270][ 61]LogTemp: OVERLAP
+[2018.11.01-19.55.57:304][ 63]LogTemp: OVERLAP
+[2018.11.01-19.55.57:386][ 68]LogTemp: OVERLAP
+[2018.11.01-19.55.57:453][ 72]LogTemp: OVERLAP
+[2018.11.01-19.55.57:454][ 72]LogTemp: OVERLAP
+[2018.11.01-19.55.57:637][ 83]LogTemp: OVERLAP
+[2018.11.01-19.55.57:637][ 83]LogTemp: OVERLAP
+[2018.11.01-19.55.57:720][ 88]LogTemp: OVERLAP
+[2018.11.01-19.55.58:003][105]LogTemp: OVERLAP
+[2018.11.01-19.56.03:712][423]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.01-19.56.04:100][443]LogTemp: OVERLAP
+[2018.11.01-19.56.04:267][453]LogTemp: OVERLAP
+[2018.11.01-19.56.04:433][463]LogTemp: OVERLAP
+[2018.11.01-19.56.04:466][465]LogTemp: OVERLAP
+[2018.11.01-19.56.04:634][475]LogTemp: OVERLAP
+[2018.11.01-19.56.04:634][475]LogTemp: OVERLAP
+[2018.11.01-19.56.04:799][485]LogTemp: OVERLAP
+[2018.11.01-19.56.04:983][496]LogTemp: OVERLAP
+[2018.11.01-19.56.05:099][503]LogTemp: OVERLAP
+[2018.11.01-19.56.05:133][505]LogTemp: OVERLAP
+[2018.11.01-19.56.06:702][597]LogTemp: OVERLAP
+[2018.11.01-19.56.06:868][607]LogTemp: OVERLAP
+[2018.11.01-19.56.06:901][609]LogTemp: OVERLAP
+[2018.11.01-19.56.07:068][619]LogTemp: OVERLAP
+[2018.11.01-19.56.07:068][619]LogTemp: OVERLAP
+[2018.11.01-19.56.07:235][629]LogTemp: OVERLAP
+[2018.11.01-19.56.07:418][640]LogTemp: OVERLAP
+[2018.11.01-19.56.07:536][647]LogTemp: OVERLAP
+[2018.11.01-19.56.07:569][649]LogTemp: OVERLAP
+[2018.11.01-19.56.07:703][657]LogTemp: OVERLAP
+[2018.11.01-19.56.07:869][667]LogTemp: OVERLAP
+[2018.11.01-19.56.07:903][669]LogTemp: OVERLAP
+[2018.11.01-19.56.08:797][684]LogTemp: OVERLAP
+[2018.11.01-19.56.08:798][684]LogTemp: OVERLAP
+[2018.11.01-19.56.09:212][705]LogTemp: OVERLAP
+[2018.11.01-19.56.09:945][748]LogTemp: OVERLAP
+[2018.11.01-19.56.10:463][779]LogTemp: OVERLAP
+[2018.11.01-19.56.11:563][845]LogTemp: OVERLAP
+[2018.11.01-19.56.11:729][855]LogTemp: OVERLAP
+[2018.11.01-19.56.11:896][865]LogTemp: OVERLAP
+[2018.11.01-19.56.11:946][868]LogTemp: OVERLAP
+[2018.11.01-19.56.12:079][876]LogTemp: OVERLAP
+[2018.11.01-19.56.12:113][878]LogTemp: OVERLAP
+[2018.11.01-19.56.12:279][888]LogTemp: OVERLAP
+[2018.11.01-19.56.12:446][898]LogTemp: OVERLAP
+[2018.11.01-19.56.12:447][898]LogTemp: OVERLAP
+[2018.11.01-19.56.14:652][ 30]LogTemp: OVERLAP
+[2018.11.01-19.56.14:853][ 42]LogTemp: OVERLAP
+[2018.11.01-19.56.15:068][ 55]LogTemp: OVERLAP
+[2018.11.01-19.56.15:085][ 56]LogTemp: OVERLAP
+[2018.11.01-19.56.15:252][ 66]LogTemp: OVERLAP
+[2018.11.01-19.56.15:252][ 66]LogTemp: OVERLAP
+[2018.11.01-19.56.15:252][ 66]LogTemp: OVERLAP
+[2018.11.01-19.58.04:946][ 48]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.11.01-19.58.05:710][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.11.01-19.58.05:736][ 69]LogSavePackage: Save=17.51ms
+[2018.11.01-19.58.05:736][ 69]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnBF9CEE34413DAD3FCD9D1699947BB440.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.11.01-19.58.05:740][ 69]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.11.01-20.08.29:156][864]LogHotReload: New module detected: UE4Editor-Arcada-9383.dll
+[2018.11.01-20.08.29:842][867]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-20.08.29:967][867]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-20.08.29:967][867]LogClass: ShootInfo HotReload.
+[2018.11.01-20.08.29:972][867]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 6 classes and 6 folders.
+[2018.11.01-20.08.29:975][867]Display: HotReload successful (3 functions remapped  2 scriptstructs remapped)
+[2018.11.01-20.08.30:309][867]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2371 classes and 529 folders.
+[2018.11.01-20.08.30:312][867]Display: HotReload took  0.5s.
+[2018.11.01-20.08.37:979][ 36]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.01-20.08.38:004][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.01-20.08.38:004][ 36]PIE: New page: PIE session: M_GamePlay (1 Nov 2018 22:08:38)
+[2018.11.01-20.08.38:005][ 36]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.11.01-20.08.38:006][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000819s)
+[2018.11.01-20.08.38:006][ 36]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-20.08.38:007][ 36]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2018.11.01-20.08.38:007][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002250s)
+[2018.11.01-20.08.38:060][ 36]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-20.08.38:083][ 36]LogInit: FAudioDevice initialized.
+[2018.11.01-20.08.38:169][ 36]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.11.01-20.08.38:171][ 36]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.11.01-21.08.38
+[2018.11.01-20.08.38:171][ 36]LogWorld: Bringing up level for play took: 0.000901
+[2018.11.01-20.08.38:176][ 36]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.091
+[2018.11.01-20.11.10:091][379]Running E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada Win64 Development -editorrecompile "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" -invalidatemakefilesonly
+[2018.11.01-20.11.10:398][379]Invalidating makefiles only in this run.
+[2018.11.01-20.11.10:714][379]Candidate modules for hot reload:
+[2018.11.01-20.11.10:714][379]  Arcada
+[2018.11.01-20.11.10:715][379]Launching UnrealBuildTool... [E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada -ModuleWithSuffix Arcada 6580 Win64 Development -editorrecompile -canskiplink "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" ]
+[2018.11.01-20.11.30:061][379]CompilerResultsLog: New page: Compilation - 1 Nov 2018 22:11:30
+[2018.11.01-20.11.30:061][379]CompilerResultsLog: Creating makefile for hot reloading Arcada (no existing makefile)
+[2018.11.01-20.11.30:061][379]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.01-20.11.30:061][379]CompilerResultsLog: Parsing headers for ArcadaEditor
+[2018.11.01-20.11.30:061][379]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Servets\Documents\Unreal Projects\Arcada\Arcada.uproject" "C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\ArcadaEditor\Development\ArcadaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.01-20.11.30:062][379]CompilerResultsLog: Reflection code generated for ArcadaEditor in 12.0782954 seconds
+[2018.11.01-20.11.30:062][379]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.11.01-20.11.30:062][379]CompilerResultsLog: Arcada.init.gen.cpp
+[2018.11.01-20.11.30:062][379]CompilerResultsLog: HealthComponent.cpp
+[2018.11.01-20.11.30:062][379]CompilerResultsLog: HealthComponent.gen.cpp
+[2018.11.01-20.11.30:062][379]CompilerResultsLog: [4/5] Link UE4Editor-Arcada-6580.dll
+[2018.11.01-20.11.30:062][379]CompilerResultsLog: [5/5] Link UE4Editor-Arcada-6580.lib
+[2018.11.01-20.11.30:062][379]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-6580.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-6580.exp
+[2018.11.01-20.11.30:062][379]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-6580.suppressed.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-6580.suppressed.exp
+[2018.11.01-20.11.30:063][379]CompilerResultsLog: Total build time: 19.11 seconds (Local executor: 1.72 seconds)
+[2018.11.01-20.11.30:063][379]LogMainFrame: MainFrame: Module compiling took 19.351 seconds
+[2018.11.01-20.11.30:163][379]LogClass: Could not find existing class HealthComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-20.11.30:167][379]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-20.11.30:168][379]LogClass: ShootInfo HotReload.
+[2018.11.01-20.11.30:172][379]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 7 classes and 6 folders.
+[2018.11.01-20.11.30:175][379]Display: HotReload successful (3 functions remapped  2 scriptstructs remapped)
+[2018.11.01-20.11.30:591][379]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2372 classes and 529 folders.
+[2018.11.01-20.11.30:591][379]Display: HotReload took 20.1s.
+[2018.11.01-20.11.30:592][379]Warning: HotReload operation took 20.1s.
+[2018.11.01-20.11.30:735][379]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/HealthComponent.h'
+[2018.11.01-20.11.30:902][379]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/HealthComponent.cpp'
+[2018.11.01-20.11.30:931][379]LogHotReload: New module detected: UE4Editor-Arcada-6580.dll
+[2018.11.01-20.11.31:012][380]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-20.11.31:185][380]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0023 seconds. Added 7 classes and 6 folders.
+[2018.11.01-20.11.31:187][380]Display: HotReload successful (0 functions remapped  2 scriptstructs remapped)
+[2018.11.01-20.11.31:549][380]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2372 classes and 529 folders.
+[2018.11.01-20.11.31:552][380]Display: HotReload took  0.5s.
+[2018.11.01-20.12.38:810][666]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/HealthComponent.h'
+[2018.11.01-20.12.38:895][666]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/HealthComponent.cpp'
+[2018.11.01-20.34.51:745][825]LogHotReload: New module detected: UE4Editor-Arcada-2925.dll
+[2018.11.01-20.34.52:424][828]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-20.34.52:556][828]LogClass: Could not find existing class HealthComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-20.34.52:557][828]LogClass: Function ChangeHealth is new.
+[2018.11.01-20.34.52:557][828]LogClass: Function GetHealth is new.
+[2018.11.01-20.34.52:557][828]LogClass: Function OnOwnerDamage is new.
+[2018.11.01-20.34.52:562][828]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-20.34.52:562][828]LogClass: ShootInfo HotReload.
+[2018.11.01-20.34.52:566][828]LogHotReload: Re-instancing HealthComponent after hot-reload.
+[2018.11.01-20.34.52:670][828]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 7 classes and 6 folders.
+[2018.11.01-20.34.52:673][828]Display: HotReload successful (3 functions remapped  2 scriptstructs remapped)
+[2018.11.01-20.34.52:995][828]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2372 classes and 529 folders.
+[2018.11.01-20.34.52:999][828]Display: HotReload took  0.6s.
+[2018.11.01-20.42.48:101][314]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.01-20.42.48:131][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.01-20.42.48:132][314]PIE: New page: PIE session: M_GamePlay (1 Nov 2018 22:42:48)
+[2018.11.01-20.42.48:132][314]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.11.01-20.42.48:133][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2018.11.01-20.42.48:134][314]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-20.42.48:134][314]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2018.11.01-20.42.48:134][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002513s)
+[2018.11.01-20.42.48:188][314]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-20.42.48:210][314]LogInit: FAudioDevice initialized.
+[2018.11.01-20.42.48:295][314]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.11.01-20.42.48:297][314]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.11.01-21.42.48
+[2018.11.01-20.42.48:297][314]LogWorld: Bringing up level for play took: 0.000823
+[2018.11.01-20.42.48:302][314]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.217
+[2018.11.01-20.47.05:106][845]LogHotReload: New module detected: UE4Editor-Arcada-7942.dll
+[2018.11.01-20.47.05:785][848]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-20.47.05:879][848]LogClass: Could not find existing class BasePawn in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-20.47.05:885][848]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-20.47.05:885][848]LogClass: ShootInfo HotReload.
+[2018.11.01-20.47.05:889][848]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2018.11.01-20.47.06:310][848]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 7 classes and 6 folders.
+[2018.11.01-20.47.06:312][848]Display: HotReload successful (6 functions remapped  2 scriptstructs remapped)
+[2018.11.01-20.47.06:639][848]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2372 classes and 529 folders.
+[2018.11.01-20.47.06:642][848]Display: HotReload took  0.9s.
+[2018.11.01-20.47.10:495][907]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.01-20.47.10:518][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.01-20.47.10:518][907]PIE: New page: PIE session: M_GamePlay (1 Nov 2018 22:47:10)
+[2018.11.01-20.47.10:518][907]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.11.01-20.47.10:519][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000846s)
+[2018.11.01-20.47.10:520][907]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-20.47.10:520][907]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2018.11.01-20.47.10:520][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002007s)
+[2018.11.01-20.47.10:567][907]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-20.47.10:603][907]LogInit: FAudioDevice initialized.
+[2018.11.01-20.47.10:680][907]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.11.01-20.47.10:682][907]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.11.01-21.47.10
+[2018.11.01-20.47.10:682][907]LogWorld: Bringing up level for play took: 0.000711
+[2018.11.01-20.47.10:687][907]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.602
+[2018.11.01-21.11.40:108][869]LogHotReload: New module detected: UE4Editor-Arcada-5456.dll
+[2018.11.01-21.11.40:791][872]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-21.11.40:898][872]LogClass: Could not find existing class BasePawn in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-21.11.40:898][872]LogClass: Function DestroyPawn is new.
+[2018.11.01-21.11.40:899][872]LogClass: Could not find existing class HealthComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-21.11.40:899][872]LogClass: Function ChangeHealth is new.
+[2018.11.01-21.11.40:899][872]LogClass: Function GetHealth is new.
+[2018.11.01-21.11.40:900][872]LogClass: Function OnOwnerDamage is new.
+[2018.11.01-21.11.40:903][872]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-21.11.40:903][872]LogClass: ShootInfo HotReload.
+[2018.11.01-21.11.40:908][872]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2018.11.01-21.11.41:387][872]LogHotReload: Re-instancing HealthComponent after hot-reload.
+[2018.11.01-21.11.41:483][872]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0011 seconds. Added 7 classes and 6 folders.
+[2018.11.01-21.11.41:486][872]Display: HotReload successful (3 functions remapped  2 scriptstructs remapped)
+[2018.11.01-21.11.41:777][872]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2372 classes and 529 folders.
+[2018.11.01-21.11.41:781][872]Display: HotReload took  1.0s.
+[2018.11.01-21.11.48:132][929]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.01-21.11.48:154][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.01-21.11.48:154][929]PIE: New page: PIE session: M_GamePlay (1 Nov 2018 23:11:48)
+[2018.11.01-21.11.48:154][929]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.11.01-21.11.48:155][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000813s)
+[2018.11.01-21.11.48:156][929]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-21.11.48:156][929]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2018.11.01-21.11.48:157][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002407s)
+[2018.11.01-21.11.48:214][929]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-21.11.48:239][929]LogInit: FAudioDevice initialized.
+[2018.11.01-21.11.48:319][929]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.11.01-21.11.48:321][929]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.11.01-22.11.48
+[2018.11.01-21.11.48:322][929]LogWorld: Bringing up level for play took: 0.000945
+[2018.11.01-21.11.48:328][929]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.243
+[2018.11.01-21.22.36:679][448]LogHotReload: New module detected: UE4Editor-Arcada-9049.dll
+[2018.11.01-21.22.37:370][451]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-21.22.37:507][451]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-21.22.37:507][451]LogClass: ShootInfo HotReload.
+[2018.11.01-21.22.37:511][451]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 7 classes and 6 folders.
+[2018.11.01-21.22.37:514][451]Display: HotReload successful (7 functions remapped  2 scriptstructs remapped)
+[2018.11.01-21.22.37:905][451]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2372 classes and 529 folders.
+[2018.11.01-21.22.37:909][451]Display: HotReload took  0.5s.
+[2018.11.01-21.32.24:458][637]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2018.11.01-21.36.07:049][316]Running E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada Win64 Development -editorrecompile "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" -invalidatemakefilesonly
+[2018.11.01-21.36.07:356][316]Invalidating makefiles only in this run.
+[2018.11.01-21.36.07:472][316]Candidate modules for hot reload:
+[2018.11.01-21.36.07:472][316]  Arcada
+[2018.11.01-21.36.07:472][316]Launching UnrealBuildTool... [E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada -ModuleWithSuffix Arcada 4832 Win64 Development -editorrecompile -canskiplink "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" ]
+[2018.11.01-21.36.24:977][316]CompilerResultsLog: New page: Compilation - 1 Nov 2018 23:36:24
+[2018.11.01-21.36.24:977][316]CompilerResultsLog: Creating makefile for hot reloading Arcada (no existing makefile)
+[2018.11.01-21.36.24:977][316]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.01-21.36.24:978][316]CompilerResultsLog: Parsing headers for ArcadaEditor
+[2018.11.01-21.36.24:978][316]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Servets\Documents\Unreal Projects\Arcada\Arcada.uproject" "C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\ArcadaEditor\Development\ArcadaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.01-21.36.24:978][316]CompilerResultsLog: Reflection code generated for ArcadaEditor in 10.305739 seconds
+[2018.11.01-21.36.24:978][316]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.11.01-21.36.24:979][316]CompilerResultsLog: GameHealthComponent.cpp
+[2018.11.01-21.36.24:979][316]CompilerResultsLog: BasePawn.cpp
+[2018.11.01-21.36.24:979][316]CompilerResultsLog: Arcada.init.gen.cpp
+[2018.11.01-21.36.24:979][316]CompilerResultsLog: GameHealthComponent.gen.cpp
+[2018.11.01-21.36.24:979][316]CompilerResultsLog: [5/6] Link UE4Editor-Arcada-4832.dll
+[2018.11.01-21.36.24:979][316]CompilerResultsLog: [6/6] Link UE4Editor-Arcada-4832.lib
+[2018.11.01-21.36.24:979][316]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-4832.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-4832.exp
+[2018.11.01-21.36.24:980][316]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-4832.suppressed.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-4832.suppressed.exp
+[2018.11.01-21.36.24:980][316]CompilerResultsLog: Total build time: 17.30 seconds (Local executor: 1.94 seconds)
+[2018.11.01-21.36.24:980][316]LogMainFrame: MainFrame: Module compiling took 17.511 seconds
+[2018.11.01-21.36.25:116][316]LogClass: Could not find existing class GameHealthComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-21.36.25:122][316]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-21.36.25:122][316]LogClass: ShootInfo HotReload.
+[2018.11.01-21.36.25:126][316]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 8 classes and 6 folders.
+[2018.11.01-21.36.25:129][316]Display: HotReload successful (7 functions remapped  2 scriptstructs remapped)
+[2018.11.01-21.36.25:522][316]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2373 classes and 529 folders.
+[2018.11.01-21.36.25:522][316]Display: HotReload took 18.1s.
+[2018.11.01-21.36.25:523][316]Warning: HotReload operation took 18.1s.
+[2018.11.01-21.36.25:821][316]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/GameHealthComponent.h'
+[2018.11.01-21.36.25:991][316]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/GameHealthComponent.cpp'
+[2018.11.01-21.36.26:018][316]LogHotReload: New module detected: UE4Editor-Arcada-4832.dll
+[2018.11.01-21.36.26:075][317]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-21.36.26:206][317]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0016 seconds. Added 8 classes and 6 folders.
+[2018.11.01-21.36.26:210][317]Display: HotReload successful (0 functions remapped  2 scriptstructs remapped)
+[2018.11.01-21.36.26:534][317]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2373 classes and 529 folders.
+[2018.11.01-21.36.26:537][317]Display: HotReload took  0.5s.
+[2018.11.01-21.44.45:666][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.11.01-21.44.45:693][942]LogSavePackage: Save=11.71ms
+[2018.11.01-21.44.45:693][942]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnE2460B8B407042023A037A8E7E854179.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.11.01-21.44.45:695][942]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.11.01-21.44.47:433][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BasePawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset" SILENT=true
+[2018.11.01-21.44.47:470][ 44]LogSavePackage: Save=22.50ms
+[2018.11.01-21.44.47:470][ 44]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_BasePawn0FBE2E0B4F20DE3D26063FA2208F6C82.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset'
+[2018.11.01-21.44.47:472][ 44]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset
+[2018.11.01-21.44.48:057][ 74]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.01-21.44.49:182][129]LogSavePackage: Save=22.08ms
+[2018.11.01-21.44.49:182][129]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_GamePlayD23BDF174941B16AE47C969E317F4FAC.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap'
+[2018.11.01-21.44.49:184][129]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap
+[2018.11.01-21.48.05:707][  0]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/HealthComponent.h'
+[2018.11.01-21.48.06:436][  0]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/HealthComponent.cpp'
+[2018.11.01-21.49.05:785][179]LogHotReload: New module detected: UE4Editor-Arcada-118.dll
+[2018.11.01-21.49.30:339][401]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/GameHealthComponent.h'
+[2018.11.01-21.49.30:987][401]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/GameHealthComponent.cpp'
+[2018.11.01-21.49.46:669][449]LogHotReload: New module detected: UE4Editor-Arcada-791.dll
+[2018.11.01-21.52.28:337][934]LogHotReload: New module detected: UE4Editor-Arcada-8708.dll
+[2018.11.01-21.52.29:018][937]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-21.52.29:139][937]LogClass: Could not find existing class GameHealthComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-21.52.29:139][937]LogClass: Function ChangeHealth is new.
+[2018.11.01-21.52.29:139][937]LogClass: Function GetHealths is new.
+[2018.11.01-21.52.29:143][937]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-21.52.29:143][937]LogClass: ShootInfo HotReload.
+[2018.11.01-21.52.29:147][937]LogHotReload: Re-instancing GameHealthComponent after hot-reload.
+[2018.11.01-21.52.29:247][937]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0019 seconds. Added 8 classes and 6 folders.
+[2018.11.01-21.52.29:250][937]Display: HotReload successful (7 functions remapped  2 scriptstructs remapped)
+[2018.11.01-21.52.29:551][937]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2373 classes and 529 folders.
+[2018.11.01-21.52.29:555][937]Display: HotReload took  0.5s.
+[2018.11.01-21.52.42:718][108]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/GameHealthComponent.h'
+[2018.11.01-21.52.43:308][108]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/GameHealthComponent.cpp'
+[2018.11.01-21.55.18:995][576]LogHotReload: New module detected: UE4Editor-Arcada-254.dll
+[2018.11.01-21.55.19:677][579]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-21.55.19:830][579]LogClass: Could not find existing class ArcadaGameModeBase in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-21.55.19:841][579]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-21.55.19:841][579]LogClass: ShootInfo HotReload.
+[2018.11.01-21.55.19:844][579]LogHotReload: Re-instancing ArcadaGameModeBase after hot-reload.
+[2018.11.01-21.55.19:941][579]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 8 classes and 6 folders.
+[2018.11.01-21.55.19:943][579]Display: HotReload successful (9 functions remapped  2 scriptstructs remapped)
+[2018.11.01-21.55.20:253][579]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2373 classes and 529 folders.
+[2018.11.01-21.55.20:256][579]Display: HotReload took  0.6s.
+[2018.11.01-22.00.52:627][576]LogHotReload: New module detected: UE4Editor-Arcada-9726.dll
+[2018.11.01-22.00.53:309][579]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-22.00.53:430][579]LogClass: Could not find existing class GameHealthComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-22.00.53:430][579]LogClass: Function ChangeHealth is new.
+[2018.11.01-22.00.53:430][579]LogClass: Function GetHealths is new.
+[2018.11.01-22.00.53:435][579]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-22.00.53:435][579]LogClass: ShootInfo HotReload.
+[2018.11.01-22.00.53:439][579]LogHotReload: Re-instancing GameHealthComponent after hot-reload.
+[2018.11.01-22.00.53:538][579]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0013 seconds. Added 8 classes and 6 folders.
+[2018.11.01-22.00.53:541][579]Display: HotReload successful (7 functions remapped  2 scriptstructs remapped)
+[2018.11.01-22.00.53:835][579]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2373 classes and 529 folders.
+[2018.11.01-22.00.53:838][579]Display: HotReload took  0.5s.
+[2018.11.01-22.02.29:848][867]LogHotReload: New module detected: UE4Editor-Arcada-9380.dll
+[2018.11.01-22.02.30:528][870]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-22.02.30:666][870]LogClass: Could not find existing class GameHealthComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-22.02.30:666][870]LogClass: Function ChangeHealth is new.
+[2018.11.01-22.02.30:666][870]LogClass: Function GetHealths is new.
+[2018.11.01-22.02.30:670][870]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-22.02.30:671][870]LogClass: ShootInfo HotReload.
+[2018.11.01-22.02.30:675][870]LogHotReload: Re-instancing GameHealthComponent after hot-reload.
+[2018.11.01-22.02.30:763][870]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0019 seconds. Added 8 classes and 6 folders.
+[2018.11.01-22.02.30:766][870]Display: HotReload successful (7 functions remapped  2 scriptstructs remapped)
+[2018.11.01-22.02.31:071][870]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2373 classes and 529 folders.
+[2018.11.01-22.02.31:074][870]Display: HotReload took  0.5s.
+[2018.11.01-22.04.18:298][221]LogHotReload: New module detected: UE4Editor-Arcada-9988.dll
+[2018.11.01-22.04.19:312][225]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-22.04.19:477][225]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-22.04.19:477][225]LogClass: ShootInfo HotReload.
+[2018.11.01-22.04.19:479][225]LogHotReload: Re-instancing ArcadaGameModeBase after hot-reload.
+[2018.11.01-22.04.19:554][225]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 8 classes and 6 folders.
+[2018.11.01-22.04.19:557][225]Display: HotReload successful (9 functions remapped  2 scriptstructs remapped)
+[2018.11.01-22.04.19:872][225]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2373 classes and 529 folders.
+[2018.11.01-22.04.19:875][225]Display: HotReload took  0.6s.
+[2018.11.01-22.05.29:303][756]LogHotReload: New module detected: UE4Editor-Arcada-7573.dll
+[2018.11.01-22.05.30:311][760]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-22.05.30:445][760]LogClass: Could not find existing class GameHealthComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-22.05.30:445][760]LogClass: Function ChangeHealth is new.
+[2018.11.01-22.05.30:445][760]LogClass: Function GetHealths is new.
+[2018.11.01-22.05.30:452][760]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-22.05.30:452][760]LogClass: ShootInfo HotReload.
+[2018.11.01-22.05.30:454][760]LogHotReload: Re-instancing ArcadaGameModeBase after hot-reload.
+[2018.11.01-22.05.30:725][760]LogHotReload: Re-instancing GameHealthComponent after hot-reload.
+[2018.11.01-22.05.30:820][760]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 8 classes and 6 folders.
+[2018.11.01-22.05.30:822][760]Display: HotReload successful (7 functions remapped  2 scriptstructs remapped)
+[2018.11.01-22.05.31:155][760]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2373 classes and 529 folders.
+[2018.11.01-22.05.31:159][760]Display: HotReload took  0.8s.
+[2018.11.01-22.06.05:832][864]LogHotReload: New module detected: UE4Editor-Arcada-9932.dll
+[2018.11.01-22.06.06:518][867]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-22.06.06:649][867]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-22.06.06:649][867]LogClass: ShootInfo HotReload.
+[2018.11.01-22.06.06:650][867]LogHotReload: Re-instancing ArcadaGameModeBase after hot-reload.
+[2018.11.01-22.06.06:922][867]LogHotReload: Re-instancing GameHealthComponent after hot-reload.
+[2018.11.01-22.06.07:729][867]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.806 s
+[2018.11.01-22.06.07:729][867]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: 
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: Ensure condition failed: bArchetypeReinstanced [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp] [Line: 1563]
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: Reinstancing non-actor (/Engine/Transient.Default__BP_MyArcadaGameMode_C:HealthsComponent); failed to resolve archetype object - property values may be lost.
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: Stack: 
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: [Callstack] 0x000000002C2C2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: [Callstack] 0x000000002C06123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: [Callstack] 0x000000002C07B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: [Callstack] 0x000000002775E29E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: [Callstack] 0x000000002775C686 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.01-22.06.07:730][867]LogOutputDevice: Error: [Callstack] 0x000000002775BA28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.01-22.06.07:731][867]LogOutputDevice: Error: [Callstack] 0x000000002775684A UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.01-22.06.07:731][867]LogOutputDevice: Error: [Callstack] 0x0000000027757AB0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.01-22.06.07:731][867]LogOutputDevice: Error: [Callstack] 0x00000000193ECB3F UE4Editor-HotReload.dll!UnknownFunction []
+[2018.11.01-22.06.07:731][867]LogOutputDevice: Error: [Callstack] 0x00000000193ECE05 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.11.01-22.06.07:731][867]LogOutputDevice: Error: [Callstack] 0x00000000193E4DE6 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.11.01-22.06.07:731][867]LogOutputDevice: Error: [Callstack] 0x000000002B909AC5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.01-22.06.07:731][867]LogOutputDevice: Error: [Callstack] 0x000000002BC07D18 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x000000002BBEB426 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x000000002B992547 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x000000002BEFE6C0 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x000000002C152282 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x000000002C151593 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x00000000193E309F UE4Editor-HotReload.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x00000000193E2D1B UE4Editor-HotReload.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x00000000193F41BA UE4Editor-HotReload.dll!UnknownFunction []
+[2018.11.01-22.06.07:732][867]LogOutputDevice: Error: [Callstack] 0x000000002BF422B8 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-22.06.07:733][867]LogOutputDevice: Error: [Callstack] 0x0000000073C37A32 UE4Editor.exe!UnknownFunction []
+[2018.11.01-22.06.07:733][867]LogOutputDevice: Error: [Callstack] 0x0000000073C45430 UE4Editor.exe!UnknownFunction []
+[2018.11.01-22.06.07:733][867]LogOutputDevice: Error: [Callstack] 0x0000000073C454AA UE4Editor.exe!UnknownFunction []
+[2018.11.01-22.06.07:733][867]LogOutputDevice: Error: [Callstack] 0x0000000073C52379 UE4Editor.exe!UnknownFunction []
+[2018.11.01-22.06.07:733][867]LogOutputDevice: Error: [Callstack] 0x0000000073C53D57 UE4Editor.exe!UnknownFunction []
+[2018.11.01-22.06.07:733][867]LogOutputDevice: Error: [Callstack] 0x00000000795B3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.01-22.06.07:733][867]LogOutputDevice: Error: [Callstack] 0x0000000079D51471 ntdll.dll!UnknownFunction []
+[2018.11.01-22.06.07:733][867]LogOutputDevice: Error: 
+[2018.11.01-22.06.07:740][867]LogStats:                SubmitErrorReport -  0.000 s

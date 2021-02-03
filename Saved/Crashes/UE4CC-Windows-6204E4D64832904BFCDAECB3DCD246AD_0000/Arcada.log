@@ -1,0 +1,1043 @@
+﻿Log file open, 10/31/18 13:45:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Arcada
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(171289131) SRandInit(171289131).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181260
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file C:/Users/Servets/Documents/Unreal Projects/Arcada/Binaries/Win64/UE4Editor-Arcada.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal  -epicusername="Servets" -epicuserid=cf90b0d0243a4ee5af219e8aa2c50e7b -epiclocale=en-GB
+LogInit: Base directory: E:/Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.31-12.45.15:641][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.31-12.45.15:641][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.31-12.45.15:653][  0]LogInit: Computer: DESKTOP-C8BO9BR
+[2018.10.31-12.45.15:653][  0]LogInit: User: Servets
+[2018.10.31-12.45.15:653][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.31-12.45.15:653][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.10.31-12.45.15:654][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.31-12.45.15:654][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.31-12.45.15:654][  0]LogMemory: Process Physical Memory: 272.28 MB used, 272.28 MB peak
+[2018.10.31-12.45.15:654][  0]LogMemory: Process Virtual Memory: 271.98 MB used, 271.98 MB peak
+[2018.10.31-12.45.15:654][  0]LogMemory: Physical Memory: 6017.55 MB used,  10247.53 MB free, 16265.08 MB total
+[2018.10.31-12.45.15:654][  0]LogMemory: Virtual Memory: 4781.96 MB used,  10247.53 MB free, 134217728.00 MB total
+[2018.10.31-12.45.15:828][  0]LogInit: Using OS detected language (en-GB).
+[2018.10.31-12.45.15:828][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.31-12.45.15:831][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.10.31-12.45.16:281][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.31-12.45.16:607][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.31-12.45.16:664][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.10.31-12.45.16:664][  0]LogD3D11RHI:       4065/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.31-12.45.16:672][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.10.31-12.45.16:672][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.31-12.45.16:674][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.31-12.45.16:674][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.31-12.45.16:674][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.31-12.45.16:698][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.31-12.45.16:698][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.10.31-12.45.16:698][  0]LogWindows: EnumDisplayDevices:
+[2018.10.31-12.45.16:698][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.10.31-12.45.16:699][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.31-12.45.16:699][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.31-12.45.16:699][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.31-12.45.16:699][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.10.31-12.45.16:699][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.31-12.45.16:699][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.31-12.45.16:699][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.10.31-12.45.16:729][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.31-12.45.16:741][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.31-12.45.16:743][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/Servets/Documents/Unreal Projects/Arcada/Intermediate/Shaders/WorkingDirectory/11128/).
+[2018.10.31-12.45.16:743][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Servets/AppData/Local/Temp/UnrealShaderWorkingDir/20669B6443D5C63A54ECCD9B9FD675E3/'.
+[2018.10.31-12.45.16:743][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.31-12.45.17:845][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.31-12.45.17:907][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.31-12.45.17:963][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.31-12.45.18:024][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.31-12.45.18:080][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.31-12.45.18:133][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.31-12.45.18:191][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.31-12.45.18:243][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.31-12.45.18:296][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.31-12.45.18:351][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.31-12.45.18:414][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.31-12.45.18:481][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.31-12.45.18:534][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.31-12.45.18:595][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.31-12.45.18:708][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.31-12.45.18:708][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.31-12.45.18:768][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-12.45.18:822][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.31-12.45.18:922][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.31-12.45.18:958][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.31-12.45.19:019][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.31-12.45.19:069][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.31-12.45.19:126][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.31-12.45.19:176][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.31-12.45.19:176][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.31-12.45.19:695][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.31-12.45.19:791][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.10.31-12.45.19:792][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.10.31-12.45.19:792][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Servets/Documents/Unreal Projects/Arcada/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.31-12.45.19:792][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.31-12.45.19:792][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Servets/Documents/Unreal Projects/Arcada/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.31-12.45.19:792][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.31-12.45.19:816][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.31-12.45.19:828][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Servets/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.31-12.45.19:840][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.31-12.45.19:840][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.31-12.45.19:841][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.31-12.45.19:841][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.31-12.45.20:235][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.31-12.45.20:614][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.31-12.45.20:664][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.31-12.45.20:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.31-12.45.20:664][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.31-12.45.20:664][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.31-12.45.20:664][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.31-12.45.20:694][  0]LogNetVersion: Arcada , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2674010682)
+[2018.10.31-12.45.20:884][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.10.31-12.45.21:417][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.068970 seconds
+[2018.10.31-12.45.21:425][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.10.31-12.45.21:425][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.10.31-12.45.21:425][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.31-12.45.21:483][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.10.31-12.45.24:626][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.31-12.45.24:681][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.31-12.45.25:527][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.10.31-12.45.26:034][  0]SourceControl: Source control is disabled
+[2018.10.31-12.45.26:034][  0]SourceControl: Source control is disabled
+[2018.10.31-12.45.26:095][  0]SourceControl: Source control is disabled
+[2018.10.31-12.45.26:153][  0]SourceControl: Source control is disabled
+[2018.10.31-12.45.27:075][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.31-12.45.27:392][  0]LogOcInput: OculusInput pre-init called
+[2018.10.31-12.45.27:718][  0]LogEngine: Initializing Engine...
+[2018.10.31-12.45.27:721][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.31-12.45.27:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.31-12.45.27:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.31-12.45.28:083][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.31-12.45.28:094][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-12.45.28:130][  0]LogInit: FAudioDevice initialized.
+[2018.10.31-12.45.28:215][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.10.31-12.45.28:244][  0]LogInit: Texture streaming: Enabled
+[2018.10.31-12.45.28:349][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.31-12.45.28:489][  0]LogInit: Transaction tracking system initialized
+[2018.10.31-12.45.28:845][  0]BlueprintLog: New page: Editor Load
+[2018.10.31-12.45.29:946][  0]LocalizationService: Localization service is disabled
+[2018.10.31-12.45.30:803][  0]LogConsoleResponse: Display: 
+[2018.10.31-12.45.30:982][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/' took 0.01s
+[2018.10.31-12.45.30:982][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.31-12.45.30:982][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.31-12.45.30:982][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.31-12.45.32:394][  0]SourceControl: Source control is disabled
+[2018.10.31-12.45.32:395][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.10.31-12.45.32:400][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.10.31-12.45.32:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.10.31-12.45.32:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.10.31-12.45.32:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.10.31-12.45.32:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.10.31-12.45.32:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.10.31-12.45.32:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.10.31-12.45.32:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.10.31-12.45.32:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.10.31-12.45.32:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.10.31-12.45.32:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.10.31-12.45.32:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.10.31-12.45.32:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.10.31-12.45.32:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.10.31-12.45.32:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.10.31-12.45.32:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.10.31-12.45.32:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.10.31-12.45.32:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.10.31-12.45.32:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Fire01.uasset"
+[2018.10.31-12.45.32:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.10.31-12.45.32:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.10.31-12.45.32:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.10.31-12.45.32:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Light01.uasset"
+[2018.10.31-12.45.32:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.10.31-12.45.32:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Light02.uasset"
+[2018.10.31-12.45.32:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.10.31-12.45.32:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.10.31-12.45.32:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.10.31-12.45.32:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.10.31-12.45.32:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.10.31-12.45.32:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.10.31-12.45.32:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.10.31-12.45.32:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.10.31-12.45.32:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.10.31-12.45.32:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Steam01.uasset"
+[2018.10.31-12.45.32:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.10.31-12.45.32:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.10.31-12.45.32:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.10.31-12.45.32:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.10.31-12.45.32:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.10.31-12.45.32:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.10.31-12.45.32:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.10.31-12.45.32:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.10.31-12.45.32:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.10.31-12.45.32:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.10.31-12.45.32:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.10.31-12.45.32:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.10.31-12.45.32:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.10.31-12.45.32:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.10.31-12.45.32:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.10.31-12.45.32:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.10.31-12.45.32:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.10.31-12.45.32:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.10.31-12.45.32:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.10.31-12.45.32:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.10.31-12.45.32:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.10.31-12.45.32:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.10.31-12.45.32:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/StarterMap.umap"
+[2018.10.31-12.45.32:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.10.31-12.45.32:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.10.31-12.45.32:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.10.31-12.45.32:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.10.31-12.45.32:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.10.31-12.45.32:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.10.31-12.45.32:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.10.31-12.45.32:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.10.31-12.45.32:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.10.31-12.45.32:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.10.31-12.45.32:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.10.31-12.45.32:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.10.31-12.45.32:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.10.31-12.45.32:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.10.31-12.45.32:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.10.31-12.45.32:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.10.31-12.45.32:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.10.31-12.45.32:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.10.31-12.45.32:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.10.31-12.45.32:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.10.31-12.45.32:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.10.31-12.45.32:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.10.31-12.45.32:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.10.31-12.45.32:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.10.31-12.45.32:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.10.31-12.45.32:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.10.31-12.45.32:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.10.31-12.45.32:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.10.31-12.45.32:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.10.31-12.45.32:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.10.31-12.45.33:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.10.31-12.45.33:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.10.31-12.45.33:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.10.31-12.45.33:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.10.31-12.45.33:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.10.31-12.45.33:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.10.31-12.45.33:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.10.31-12.45.33:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.10.31-12.45.33:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.10.31-12.45.33:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.10.31-12.45.33:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.10.31-12.45.33:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.10.31-12.45.33:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.10.31-12.45.33:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.10.31-12.45.33:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.10.31-12.45.33:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.10.31-12.45.33:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.10.31-12.45.33:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.10.31-12.45.33:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.10.31-12.45.33:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.10.31-12.45.33:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.10.31-12.45.33:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.10.31-12.45.33:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.10.31-12.45.33:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.10.31-12.45.33:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.10.31-12.45.33:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.10.31-12.45.33:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.10.31-12.45.33:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.10.31-12.45.33:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.10.31-12.45.33:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.10.31-12.45.33:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.10.31-12.45.33:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.10.31-12.45.33:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.10.31-12.45.33:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.10.31-12.45.33:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.10.31-12.45.33:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Door.uasset"
+[2018.10.31-12.45.33:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.10.31-12.45.33:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.10.31-12.45.33:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.10.31-12.45.33:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.10.31-12.45.33:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.10.31-12.45.33:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.10.31-12.45.33:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.10.31-12.45.33:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.10.31-12.45.33:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.10.31-12.45.33:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.10.31-12.45.33:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.10.31-12.45.33:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.10.31-12.45.33:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.10.31-12.45.33:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.10.31-12.45.33:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.10.31-12.45.33:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.10.31-12.45.33:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.10.31-12.45.33:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.10.31-12.45.33:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.10.31-12.45.33:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.10.31-12.45.33:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.10.31-12.45.33:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.10.31-12.45.33:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.10.31-12.45.33:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.10.31-12.45.33:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.10.31-12.45.33:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.10.31-12.45.33:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.10.31-12.45.33:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.10.31-12.45.33:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.10.31-12.45.33:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.10.31-12.45.33:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.10.31-12.45.33:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.10.31-12.45.33:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.10.31-12.45.33:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.10.31-12.45.33:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.10.31-12.45.33:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.10.31-12.45.33:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.10.31-12.45.33:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.10.31-12.45.33:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.10.31-12.45.33:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.10.31-12.45.33:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.10.31-12.45.33:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.10.31-12.45.33:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.10.31-12.45.33:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.10.31-12.45.33:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.10.31-12.45.33:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.10.31-12.45.33:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.10.31-12.45.33:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.10.31-12.45.33:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.10.31-12.45.33:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.10.31-12.45.33:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.10.31-12.45.33:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.10.31-12.45.33:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.10.31-12.45.33:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.10.31-12.45.33:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.10.31-12.45.33:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.10.31-12.45.33:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.10.31-12.45.33:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.10.31-12.45.33:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.10.31-12.45.33:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.10.31-12.45.33:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.10.31-12.45.33:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.10.31-12.45.33:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.10.31-12.45.33:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.10.31-12.45.33:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.10.31-12.45.33:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.10.31-12.45.33:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.10.31-12.45.33:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.10.31-12.45.33:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.10.31-12.45.33:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.10.31-12.45.33:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.10.31-12.45.33:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.10.31-12.45.33:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.10.31-12.45.33:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.10.31-12.45.33:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.10.31-12.45.33:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.10.31-12.45.33:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.10.31-12.45.33:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.10.31-12.45.33:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.10.31-12.45.33:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.10.31-12.45.33:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.10.31-12.45.33:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.10.31-12.45.33:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.10.31-12.45.33:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.10.31-12.45.33:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.10.31-12.45.33:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.10.31-12.45.33:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.10.31-12.45.34:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.10.31-12.45.34:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.10.31-12.45.34:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.10.31-12.45.34:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.10.31-12.45.34:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.10.31-12.45.34:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.10.31-12.45.34:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.10.31-12.45.34:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.10.31-12.45.34:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.10.31-12.45.34:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.10.31-12.45.34:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.10.31-12.45.34:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.10.31-12.45.34:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.10.31-12.45.34:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.10.31-12.45.34:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.10.31-12.45.34:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.10.31-12.45.34:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.10.31-12.45.34:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.10.31-12.45.34:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.10.31-12.45.34:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.10.31-12.45.34:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.10.31-12.45.34:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.10.31-12.45.34:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.10.31-12.45.34:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.10.31-12.45.34:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.10.31-12.45.34:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.10.31-12.45.34:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.10.31-12.45.34:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.10.31-12.45.34:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.10.31-12.45.34:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.10.31-12.45.34:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.10.31-12.45.34:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.10.31-12.45.34:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.10.31-12.45.34:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.10.31-12.45.34:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.10.31-12.45.34:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.10.31-12.45.34:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.10.31-12.45.34:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.10.31-12.45.34:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.10.31-12.45.34:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.10.31-12.45.34:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.10.31-12.45.34:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.10.31-12.45.34:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.10.31-12.45.34:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.10.31-12.45.34:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.10.31-12.45.34:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.10.31-12.45.34:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.10.31-12.45.34:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.10.31-12.45.34:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.10.31-12.45.34:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.10.31-12.45.34:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.10.31-12.45.34:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.10.31-12.45.34:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.10.31-12.45.34:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.10.31-12.45.34:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.10.31-12.45.34:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.10.31-12.45.34:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.10.31-12.45.34:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.10.31-12.45.34:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.10.31-12.45.34:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.10.31-12.45.34:682][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.10.31-12.45.34:825][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.10.31-12.45.34:853][  0]LogSavePackage: Save=18.35ms
+[2018.10.31-12.45.34:853][  0]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Floor_400x4001C6A946C4BC253AE11F38496FF5E534F.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.10.31-12.45.34:856][  0]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.10.31-12.45.34:856][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.10.31-12.45.34:861][  0]Cmd: MAP LOAD FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-12.45.34:861][  0]LightingResults: New page: Lighting Build
+[2018.10.31-12.45.34:916][  0]MapCheck: New page: Map Check
+[2018.10.31-12.45.34:916][  0]LightingResults: New page: Lighting Build
+[2018.10.31-12.45.35:297][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.31-12.45.35:306][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-12.45.35:316][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-12.45.35:377][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.716ms to complete.
+[2018.10.31-12.45.35:377][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.516
+[2018.10.31-12.45.35:474][  0]LogCollectionManager: Loaded 0 collections in 0.000835 seconds
+[2018.10.31-12.45.35:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Collections/' took 0.01s
+[2018.10.31-12.45.35:570][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Developers/Servets/Collections/' took 0.01s
+[2018.10.31-12.45.35:570][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Collections/' took 0.01s
+[2018.10.31-12.45.35:570][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.31-12.45.35:581][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2364 classes and 521 folders.
+[2018.10.31-12.45.35:664][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.31-12.45.35:706][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.31-12.45.35:807][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.10.31-12.45.35:929][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.31-12.45.35:931][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.31-12.45.35:932][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.31-12.45.35:940][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.10.31-12.45.36:045][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.31-12.45.36:074][  0]LogRenderer: Reallocating scene render targets to support 824x720 Format 10 NumSamples 1 (Frame:1).
+[2018.10.31-12.45.36:274][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.10.31-12.45.36:275][  0]LogLoad: (Engine Initialization) Total time: 23.60 seconds
+[2018.10.31-12.45.36:275][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.31-12.45.36:275][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.10.31-12.45.36:641][  0]LogAssetRegistry: Asset discovery search completed in 15.7786 seconds
+[2018.10.31-12.45.36:644][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.31-12.45.36:644][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000305 seconds (updated 0 objects)
+[2018.10.31-12.45.36:847][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.31-12.52.54:698][918]LightingResults: New page: Lighting Build
+[2018.10.31-12.52.54:699][918]MapCheck: New page: Map Check
+[2018.10.31-12.52.54:699][918]LightingResults: New page: Lighting Build
+[2018.10.31-12.52.54:709][918]LogAIModule: Creating AISystem for world Untitled
+[2018.10.31-12.52.54:760][918]LoadErrors: New page: New Map
+[2018.10.31-12.52.59:505][ 64]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/VR-Basic.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-12.52.59:508][ 64]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.31-12.52.59:525][ 64]LightingResults: New page: Lighting Build
+[2018.10.31-12.52.59:526][ 64]LoadErrors: New page: Loading map: VR-Basic.umap
+[2018.10.31-12.52.59:529][ 64]MapCheck: New page: Map Check
+[2018.10.31-12.52.59:529][ 64]LightingResults: New page: Lighting Build
+[2018.10.31-12.52.59:764][ 64]LogMaterial: Missing cached shader map for material M_Floor_01, compiling. 
+[2018.10.31-12.53.00:071][ 64]LogAIModule: Creating AISystem for world Untitled_2
+[2018.10.31-12.53.00:171][ 64]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-12.53.00:189][ 64]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-12.53.00:256][ 64]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.94ms to complete.
+[2018.10.31-12.53.00:256][ 64]LogFileHelpers: Loading map 'VR-Basic' took 0.752
+[2018.10.31-12.53.04:409][310]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-12.53.04:480][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-12.53.04:481][310]PIE: New page: PIE session: Untitled_2 (31 Oct 2018 14:53:04)
+[2018.10.31-12.53.04:481][310]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2018.10.31-12.53.04:483][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002322s)
+[2018.10.31-12.53.04:484][310]LogAIModule: Creating AISystem for world Untitled_2
+[2018.10.31-12.53.04:484][310]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.10.31-12.53.04:484][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.003265s)
+[2018.10.31-12.53.04:495][310]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-12.53.04:519][310]LogInit: FAudioDevice initialized.
+[2018.10.31-12.53.04:560][310]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/Arcada.ArcadaGameMode'
+[2018.10.31-12.53.04:560][310]LogLoad: Game class is 'GameModeBase'
+[2018.10.31-12.53.04:563][310]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 60) at 2018.10.31-13.53.04
+[2018.10.31-12.53.04:563][310]LogWorld: Bringing up level for play took: 0.001217
+[2018.10.31-12.53.04:604][310]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.10.31-12.53.04:605][310]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0.519
+[2018.10.31-12.53.11:278][660]LightingResults: New page: Lighting Build
+[2018.10.31-12.53.11:279][660]MapCheck: New page: Map Check
+[2018.10.31-12.53.11:279][660]LightingResults: New page: Lighting Build
+[2018.10.31-12.53.11:287][660]LogAIModule: Creating AISystem for world Untitled
+[2018.10.31-12.53.11:358][660]LoadErrors: New page: New Map
+[2018.10.31-12.53.16:515][967]LogRenderer: Reallocating scene render targets to support 844x720 Format 10 NumSamples 1 (Frame:309).
+[2018.10.31-12.53.16:552][968]LogRenderer: Reallocating scene render targets to support 872x720 Format 10 NumSamples 1 (Frame:311).
+[2018.10.31-12.53.16:594][969]LogRenderer: Reallocating scene render targets to support 876x720 Format 10 NumSamples 1 (Frame:313).
+[2018.10.31-12.54.14:004][319]LogMaterial: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2018.10.31-12.54.14:192][319]LogMaterial: Missing cached shader map for material M_GreyBall, compiling. 
+[2018.10.31-12.54.14:242][319]LogMaterial: Missing cached shader map for material M_ColorGrid, compiling. 
+[2018.10.31-12.54.14:335][319]LogMaterial: Missing cached shader map for material M_ClearCoatBlack, compiling. 
+[2018.10.31-12.54.14:378][319]LogMaterial: Missing cached shader map for material M_ClearCoat, compiling. 
+[2018.10.31-12.54.14:560][319]LogMaterial: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2018.10.31-12.54.14:617][319]LogMaterial: Missing cached shader map for material M_ChromeBall, compiling. 
+[2018.10.31-12.54.14:839][319]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2018.10.31-12.54.14:987][319]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.31-12.54.16:903][319]LogMaterial: Missing cached shader map for material M_Spark, compiling. 
+[2018.10.31-12.54.17:559][319]LogMaterial: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2018.10.31-12.54.18:058][319]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2018.10.31-12.54.18:289][319]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2018.10.31-12.54.18:346][319]LogMaterial: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.10.31-12.54.18:418][319]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2018.10.31-12.54.18:496][319]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2018.10.31-12.54.18:587][319]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2018.10.31-12.54.18:640][319]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2018.10.31-12.54.18:697][319]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2018.10.31-12.54.18:755][319]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2018.10.31-12.54.18:820][319]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2018.10.31-12.54.18:884][319]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2018.10.31-12.54.18:938][319]LogMaterial: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2018.10.31-12.54.18:987][319]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2018.10.31-12.54.19:036][319]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2018.10.31-12.54.19:098][319]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2018.10.31-12.54.19:159][319]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.10.31-12.54.19:244][319]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2018.10.31-12.54.19:322][319]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2018.10.31-12.54.19:458][319]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2018.10.31-12.54.19:509][319]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.10.31-12.54.19:558][319]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2018.10.31-12.54.19:627][319]LogMaterial: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2018.10.31-12.54.19:696][319]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2018.10.31-12.54.19:750][319]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2018.10.31-12.54.19:799][319]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2018.10.31-12.54.19:852][319]LogAIModule: Creating AISystem for world StarterMap
+[2018.10.31-12.54.26:170][540]LogEditorViewport: Clicking Background
+[2018.10.31-12.54.42:074][423]LightingResults: New page: Lighting Build
+[2018.10.31-12.54.42:074][423]MapCheck: New page: Map Check
+[2018.10.31-12.54.42:074][423]LightingResults: New page: Lighting Build
+[2018.10.31-12.54.42:088][423]LogAIModule: Creating AISystem for world Untitled
+[2018.10.31-12.54.42:252][423]LoadErrors: New page: New Map
+[2018.10.31-12.55.12:099][651]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.31-12.55.41:812][893]LogSavePackage: Save=27.66ms
+[2018.10.31-12.55.41:812][893]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_GamePlay1BAFA40549E91BB492335093E002F63F.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap'
+[2018.10.31-12.55.41:814][893]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap
+[2018.10.31-12.55.41:857][893]LogFileHelpers: Saving map 'M_GamePlay' took 0.227
+[2018.10.31-12.59.16:168][336]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.10.31-13.00.34:763][369]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.10.31-13.00.39:334][634]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.10.31-13.00.40:837][722]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.10.31-13.00.42:643][827]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.10.31-13.00.46:550][ 57]LogEditorViewport: Clicking Background
+[2018.10.31-13.00.46:910][ 78]LogEditorViewport: Clicking Background
+[2018.10.31-13.01.55:051][ 14]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.31-13.01.55:393][ 14]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.10.31-13.01.57:917][ 14]LogSlate: Took 0.012603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.31-13.01.58:901][ 15]LogSlate: Took 0.021858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.31-13.02.28:352][494]Cmd: TRANSACTION UNDO
+[2018.10.31-13.02.28:352][494]LogEditorTransaction: Undo Edit Sun Brightness
+[2018.10.31-13.02.37:840][ 60]Cmd: TRANSACTION UNDO
+[2018.10.31-13.02.37:840][ 60]LogEditorTransaction: Undo Edit Sun Brightness
+[2018.10.31-13.02.44:015][430]Cmd: TRANSACTION UNDO
+[2018.10.31-13.02.44:015][430]LogEditorTransaction: Undo Edit Horizon Falloff
+[2018.10.31-13.04.51:888][688]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2018.10.31-13.04.51:901][688]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.04.52:805][688]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.04.54:619][748]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.31-13.04.54:619][748]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.31-13.04.54:619][748]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.10.31-13.04.54:619][748]MaterialEditorStats: Texture samplers: 2/16
+[2018.10.31-13.05.03:623][275]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.03:643][275]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.31-13.05.03:676][275]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.31-13.05.04:902][342]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.31-13.05.04:902][342]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.31-13.05.04:902][342]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.10.31-13.05.04:902][342]MaterialEditorStats: Texture samplers: 2/16
+[2018.10.31-13.05.05:204][360]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.05:233][360]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.31-13.05.06:583][437]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-13.05.06:583][437]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-13.05.06:583][437]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.05.06:583][437]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-13.05.06:583][437]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.05.14:480][910]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-13.05.16:923][ 46]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.10.31-13.05.16:942][ 46]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2018.10.31-13.05.18:998][170]LogMaterialEditor: Applying material M_Stars
+[2018.10.31-13.05.19:423][170]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.19:479][170]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.19:523][170]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.19:614][170]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Stars, compiling. 
+[2018.10.31-13.05.20:708][170]TextureStreamingBuild: Display: Compiling optional shaders took 1.134 seconds.
+[2018.10.31-13.05.21:147][194]LogMaterialEditor: Saving and Compiling material M_Stars
+[2018.10.31-13.05.23:221][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mateials/M_Stars" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset" SILENT=true
+[2018.10.31-13.05.23:242][194]LogSavePackage: Save=18.37ms
+[2018.10.31-13.05.23:242][194]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_StarsC4DE468C415D21D05F8622813B4FD64F.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset'
+[2018.10.31-13.05.23:245][194]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset
+[2018.10.31-13.05.23:254][194]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-13.05.23:255][194]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-13.05.23:255][194]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.05.23:255][194]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.31-13.05.23:255][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.05.29:170][450]LogEditorViewport: Clicking Background
+[2018.10.31-13.05.43:514][ 61]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.43:526][ 61]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.44:117][ 94]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.10.31-13.05.44:117][ 94]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.10.31-13.05.44:117][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2018.10.31-13.05.46:267][223]LogMaterialEditor: Applying material M_Stars
+[2018.10.31-13.05.46:751][223]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.46:777][223]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.46:791][223]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.05.46:822][223]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Stars, compiling. 
+[2018.10.31-13.05.47:098][223]TextureStreamingBuild: Display: Compiling optional shaders took 0.281 seconds.
+[2018.10.31-13.05.47:529][248]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.10.31-13.05.47:529][248]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.10.31-13.05.47:529][248]MaterialEditorStats: Texture samplers: 0/16
+[2018.10.31-13.06.02:867][636]LogMaterialEditor: Saving and Compiling material M_Stars
+[2018.10.31-13.06.02:905][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mateials/M_Stars" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset" SILENT=true
+[2018.10.31-13.06.02:931][636]LogSavePackage: Save=14.81ms
+[2018.10.31-13.06.02:931][636]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_StarsC9F7314E44C5229DF9E5C3925E501E62.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset'
+[2018.10.31-13.06.02:934][636]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset
+[2018.10.31-13.06.48:720][969]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.10.31-13.06.48:736][969]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.10.31-13.06.54:306][295]LogSavePackage: Save=16.77ms
+[2018.10.31-13.06.54:306][295]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_GamePlay_Auto1555990E84562816D6A6C0B9778647238.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Autosaves/Game/StarterContent/Maps/M_GamePlay_Auto1.umap'
+[2018.10.31-13.06.54:307][295]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Autosaves/Game/StarterContent/Maps/M_GamePlay_Auto1.umap
+[2018.10.31-13.06.54:310][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/M_GamePlay' took 0.095
+[2018.10.31-13.06.54:310][295]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.095
+[2018.10.31-13.06.57:318][475]LogActorFactory: Actor Factory created SM_SkySphere
+[2018.10.31-13.06.57:809][504]LogActorFactory: Actor Factory created SM_SkySphere
+[2018.10.31-13.07.25:514][152]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.07.25:552][152]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.07.27:404][259]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-13.07.27:404][259]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-13.07.27:404][259]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.07.27:404][259]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-13.07.27:404][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.08.00:623][921]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.00:645][921]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.31-13.08.02:093][  1]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.03:777][ 96]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.10.31-13.08.03:777][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.10.31-13.08.03:777][ 96]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.08.03:777][ 96]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-13.08.03:777][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.08.04:829][159]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.04:840][159]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.05:176][177]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.10.31-13.08.05:176][177]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.08.05:176][177]MaterialEditorStats: Texture samplers: 1/16
+[2018.10.31-13.08.05:176][177]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.08.06:709][269]LogMaterialEditor: Applying material M_Stars
+[2018.10.31-13.08.07:147][269]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.07:174][269]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.07:188][269]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.07:222][269]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Stars, compiling. 
+[2018.10.31-13.08.07:556][269]TextureStreamingBuild: Display: Compiling optional shaders took 0.339 seconds.
+[2018.10.31-13.08.07:937][291]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.10.31-13.08.07:937][291]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.08.07:937][291]MaterialEditorStats: Texture samplers: 1/16
+[2018.10.31-13.08.07:937][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.08.11:104][480]LogMaterialEditor: Saving and Compiling material M_Stars
+[2018.10.31-13.08.11:136][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mateials/M_Stars" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset" SILENT=true
+[2018.10.31-13.08.11:153][480]LogSavePackage: Save=13.69ms
+[2018.10.31-13.08.11:153][480]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_StarsA5C2038E48D323069013C7860D28D5A8.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset'
+[2018.10.31-13.08.11:156][480]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset
+[2018.10.31-13.08.45:911][ 38]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.45:920][ 38]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.46:502][ 72]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.10.31-13.08.46:502][ 72]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.08.46:502][ 72]MaterialEditorStats: Texture samplers: 1/16
+[2018.10.31-13.08.46:502][ 72]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.08.47:737][146]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.08.48:070][166]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.10.31-13.08.48:070][166]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.08.48:070][166]MaterialEditorStats: Texture samplers: 1/16
+[2018.10.31-13.08.48:070][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.09.12:873][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SkySphere)
+[2018.10.31-13.09.15:956][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.31-13.09.15:972][746]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.10.31-13.09.23:796][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mateials/Cube" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/Cube.uasset" SILENT=true
+[2018.10.31-13.09.23:814][205]LogSavePackage: Save=15.34ms
+[2018.10.31-13.09.23:814][205]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Cube8FDF94FC46D3AAE3DFC1BDA86FDF5D79.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/Cube.uasset'
+[2018.10.31-13.09.23:816][205]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/Cube.uasset
+[2018.10.31-13.09.24:119][205]LogSavePackage: Save=74.43ms
+[2018.10.31-13.09.24:119][205]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/IWBE_Blutility81B7D5EB462EE049A39E15A747A5444E.tmp' to '../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset'
+[2018.10.31-13.09.24:123][205]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset
+[2018.10.31-13.09.30:233][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mateials/Sky" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/Sky.uasset" SILENT=true
+[2018.10.31-13.09.30:255][554]LogSavePackage: Save=19.32ms
+[2018.10.31-13.09.30:255][554]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/SkyB81972AD474E56C0C8191994ADAE3E66.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/Sky.uasset'
+[2018.10.31-13.09.30:259][554]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/Sky.uasset
+[2018.10.31-13.09.30:459][554]LogSavePackage: Save=55.22ms
+[2018.10.31-13.09.30:459][554]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/IWBE_BlutilityDA29C6D34F440A722199789347505AF6.tmp' to '../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset'
+[2018.10.31-13.09.30:463][554]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset
+[2018.10.31-13.09.31:767][620]LogActorFactory: Actor Factory created Sky
+[2018.10.31-13.09.32:354][655]LogActorFactory: Actor Factory created Sky
+[2018.10.31-13.09.56:268][ 56]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.09.56:275][ 56]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.09.56:852][ 90]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.10.31-13.09.56:852][ 90]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.10.31-13.09.56:852][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2018.10.31-13.09.58:606][195]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.09.58:614][195]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.09.58:930][213]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.10.31-13.09.58:931][213]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.10.31-13.09.58:931][213]MaterialEditorStats: Texture samplers: 1/16
+[2018.10.31-13.09.58:931][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.10.00:613][314]LogMaterialEditor: Applying material M_Stars
+[2018.10.31-13.10.01:046][314]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.10.01:085][314]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.10.01:112][314]LogMaterial: Missing cached shader map for material M_Stars, compiling. 
+[2018.10.31-13.10.01:151][314]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Stars, compiling. 
+[2018.10.31-13.10.01:363][314]TextureStreamingBuild: Display: Compiling optional shaders took 0.218 seconds.
+[2018.10.31-13.10.01:741][336]LogMaterialEditor: Saving and Compiling material M_Stars
+[2018.10.31-13.10.02:564][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mateials/M_Stars" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset" SILENT=true
+[2018.10.31-13.10.02:582][336]LogSavePackage: Save=14.29ms
+[2018.10.31-13.10.02:582][336]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_Stars1E37634940D671DCDB2AFDA96AC4C448.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset'
+[2018.10.31-13.10.02:585][336]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Assets/Mateials/M_Stars.uasset
+[2018.10.31-13.10.02:593][336]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.10.31-13.10.02:593][336]MaterialEditorStats: Vertex shader: 35 instructions
+[2018.10.31-13.10.02:593][336]MaterialEditorStats: Texture samplers: 1/16
+[2018.10.31-13.10.02:593][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.10.08:683][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sky)
+[2018.10.31-13.10.21:812][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sky)
+[2018.10.31-13.16.55:079][613]LogSavePackage: Save=19.06ms
+[2018.10.31-13.16.55:080][613]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_GamePlay_Auto2871B261E4402514371F27098297EEB17.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Autosaves/Game/StarterContent/Maps/M_GamePlay_Auto2.umap'
+[2018.10.31-13.16.55:081][613]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Autosaves/Game/StarterContent/Maps/M_GamePlay_Auto2.umap
+[2018.10.31-13.16.55:085][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/M_GamePlay' took 0.051
+[2018.10.31-13.16.55:085][613]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2018.10.31-13.22.20:012][404]Running E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada Win64 Development -editorrecompile "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" -invalidatemakefilesonly
+[2018.10.31-13.22.20:218][404]Invalidating makefiles only in this run.
+[2018.10.31-13.22.20:459][404]Candidate modules for hot reload:
+[2018.10.31-13.22.20:459][404]  Arcada
+[2018.10.31-13.22.20:460][404]Launching UnrealBuildTool... [E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada -ModuleWithSuffix Arcada 2344 Win64 Development -editorrecompile -canskiplink "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" ]
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: New page: Compilation - 31 Oct 2018 15:22:37
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: Creating makefile for hot reloading Arcada (no existing makefile)
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: Parsing headers for ArcadaEditor
+[2018.10.31-13.22.37:357][404]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Servets\Documents\Unreal Projects\Arcada\Arcada.uproject" "C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\ArcadaEditor\Development\ArcadaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: Reflection code generated for ArcadaEditor in 9.9938709 seconds
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: PlayerPawn.cpp
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: PlayerPawn.gen.cpp
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: Arcada.init.gen.cpp
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: [4/5] Link UE4Editor-Arcada-2344.dll
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: [5/5] Link UE4Editor-Arcada-2344.lib
+[2018.10.31-13.22.37:357][404]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-2344.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-2344.exp
+[2018.10.31-13.22.37:357][404]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-2344.suppressed.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-2344.suppressed.exp
+[2018.10.31-13.22.37:357][404]CompilerResultsLog: Total build time: 16.68 seconds (Local executor: 1.62 seconds)
+[2018.10.31-13.22.37:357][404]LogMainFrame: MainFrame: Module compiling took 16.902 seconds
+[2018.10.31-13.22.37:477][404]LogClass: Could not find existing class PlayerPawn in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-13.22.37:479][404]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2018.10.31-13.22.37:483][404]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-13.22.38:123][404]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2367 classes and 526 folders.
+[2018.10.31-13.22.38:126][404]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.10.31-13.22.38:126][404]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.10.31-13.22.38:126][404]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2018.10.31-13.22.38:132][404]Display: HotReload took 17.7s.
+[2018.10.31-13.22.38:133][404]Warning: HotReload operation took 17.7s.
+[2018.10.31-13.22.39:152][404]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Pawns/PlayerPawn.h'
+[2018.10.31-13.22.39:319][404]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Pawns/PlayerPawn.cpp'
+[2018.10.31-13.22.39:366][404]LogHotReload: New module detected: UE4Editor-Arcada-2344.dll
+[2018.10.31-13.22.39:411][405]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-13.22.39:565][405]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 2 classes and 3 folders.
+[2018.10.31-13.22.39:568][405]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-13.22.39:936][405]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2367 classes and 526 folders.
+[2018.10.31-13.22.39:950][405]Display: HotReload took  0.5s.
+[2018.10.31-13.25.02:753][284]LogSavePackage: Save=24.81ms
+[2018.10.31-13.25.02:754][284]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/M_GamePlay0721E8564F62AB3DCDE1F19913E327A4.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap'
+[2018.10.31-13.25.02:758][284]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap
+[2018.10.31-13.27.26:589][581]LogRenderer: Reallocating scene render targets to support 1028x720 Format 10 NumSamples 1 (Frame:1).
+[2018.10.31-13.32.02:797][479]LogHotReload: New module detected: UE4Editor-Arcada-3830.dll
+[2018.10.31-13.32.03:815][483]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-13.32.03:927][483]LogClass: Could not find existing class PlayerPawn in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-13.32.03:932][483]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-13.32.04:368][483]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0008 seconds. Added 2 classes and 3 folders.
+[2018.10.31-13.32.04:371][483]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-13.32.04:691][483]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2367 classes and 526 folders.
+[2018.10.31-13.32.04:702][483]Display: HotReload took  0.9s.
+[2018.10.31-13.33.49:683][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-13.33.49:734][979]LogSavePackage: Save=48.97ms
+[2018.10.31-13.33.49:734][979]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawn5953F3354B0EFF6DD83BF29D91DD95AA.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-13.33.49:737][979]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-13.37.25:744][424]LogHotReload: New module detected: UE4Editor-Arcada-6954.dll
+[2018.10.31-13.37.26:420][427]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-13.37.26:549][427]LogClass: Could not find existing class PlayerPawn in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-13.37.26:554][427]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-13.37.26:558][427]LogActor: Warning: BP_PlayerPawn_C /Engine/Transient.World_5:PersistentLevel.BP_PlayerPawn_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.31-13.37.26:904][427]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2018.10.31-13.37.26:906][427]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-13.37.27:187][427]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2367 classes and 526 folders.
+[2018.10.31-13.37.27:199][427]Display: HotReload took  0.8s.
+[2018.10.31-13.55.20:141][456]LogHotReload: New module detected: UE4Editor-Arcada-394.dll
+[2018.10.31-13.55.20:820][459]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-13.55.20:944][459]LogClass: Could not find existing class PlayerPawn in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-13.55.20:949][459]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-13.55.21:333][459]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2018.10.31-13.55.21:336][459]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-13.55.21:687][459]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2367 classes and 526 folders.
+[2018.10.31-13.55.21:703][459]Display: HotReload took  0.9s.
+[2018.10.31-13.57.02:565][512]LogEditorTransaction: Undo Set Scale
+[2018.10.31-13.57.03:560][512]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.991 s
+[2018.10.31-13.57.03:566][512]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.31-13.57.03:566][512]LogOutputDevice: Error: 
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: 
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: Stack: 
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000D052786 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000CDF123A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000CE0B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FBDE0B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FBD8DD9F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000F550C07B UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000F550CE85 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000F54AFB10 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000F54B4747 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C301290 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C2F5FD1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C2C4A47 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C2C6C17 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C363675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C178CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C118824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FACC9844 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FAA61859 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FA9F092C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FA9F562C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FADBAC89 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FAD60AAB UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FAD64A4A UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FAD62DD7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FADC12CC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FA99D7B0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FAA1DA3D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FAA6E0CD UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FBD8EA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FBDB6112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FBD9DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FBD9E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FBE028FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FBE45A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FA9F0FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FA9F5D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C119636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C1583A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FC5FBE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000FC5E7803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C1063A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C0D700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C0D8C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C15988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000000C14BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000003169E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x0000000031691A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000316A03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x000000003168D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x0000000073E06D41 USER32.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x0000000073E06713 USER32.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000316A1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000CB3B50C8 UE4Editor.exe!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000CB3C5430 UE4Editor.exe!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000CB3C54AA UE4Editor.exe!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000CB3D2379 UE4Editor.exe!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000CB3D3D57 UE4Editor.exe!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x00000000749C3034 KERNEL32.DLL!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: [Callstack] 0x0000000076621471 ntdll.dll!UnknownFunction []
+[2018.10.31-13.57.03:567][512]LogOutputDevice: Error: 
+[2018.10.31-13.57.03:570][512]LogStats:                SubmitErrorReport -  0.000 s

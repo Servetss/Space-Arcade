@@ -1,0 +1,1334 @@
+﻿Log file open, 10/31/18 19:02:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Arcada
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(817026850) SRandInit(817026850).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.171354
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file C:/Users/Servets/Documents/Unreal Projects/Arcada/Binaries/Win64/UE4Editor-Arcada-4338.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: E:/Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.31-18.02.25:853][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.31-18.02.25:853][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.31-18.02.25:866][  0]LogInit: Computer: DESKTOP-C8BO9BR
+[2018.10.31-18.02.25:866][  0]LogInit: User: Servets
+[2018.10.31-18.02.25:866][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.31-18.02.25:866][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.10.31-18.02.25:866][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.31-18.02.25:866][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.31-18.02.25:866][  0]LogMemory: Process Physical Memory: 272.18 MB used, 272.18 MB peak
+[2018.10.31-18.02.25:866][  0]LogMemory: Process Virtual Memory: 269.95 MB used, 269.95 MB peak
+[2018.10.31-18.02.25:866][  0]LogMemory: Physical Memory: 6755.80 MB used,  9509.28 MB free, 16265.08 MB total
+[2018.10.31-18.02.25:866][  0]LogMemory: Virtual Memory: 4779.89 MB used,  9509.28 MB free, 134217728.00 MB total
+[2018.10.31-18.02.26:009][  0]LogInit: Using OS detected language (en-GB).
+[2018.10.31-18.02.26:009][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.31-18.02.26:013][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.10.31-18.02.26:457][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.31-18.02.26:738][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.31-18.02.26:788][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.10.31-18.02.26:788][  0]LogD3D11RHI:       4065/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.31-18.02.26:795][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.10.31-18.02.26:795][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.31-18.02.26:796][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.31-18.02.26:796][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.31-18.02.26:797][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.31-18.02.26:817][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.31-18.02.26:817][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.10.31-18.02.26:817][  0]LogWindows: EnumDisplayDevices:
+[2018.10.31-18.02.26:817][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.10.31-18.02.26:818][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.31-18.02.26:818][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.31-18.02.26:818][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.31-18.02.26:818][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.10.31-18.02.26:818][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.31-18.02.26:818][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.31-18.02.26:818][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.10.31-18.02.26:843][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.31-18.02.26:855][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.31-18.02.26:856][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/Servets/Documents/Unreal Projects/Arcada/Intermediate/Shaders/WorkingDirectory/16492/).
+[2018.10.31-18.02.26:856][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Servets/AppData/Local/Temp/UnrealShaderWorkingDir/4A61F6FC4EB2389B1CF8A1828EB30C82/'.
+[2018.10.31-18.02.26:856][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.31-18.02.27:755][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.31-18.02.27:810][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.31-18.02.27:857][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.31-18.02.27:904][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.31-18.02.27:952][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.31-18.02.28:000][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.31-18.02.28:055][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.31-18.02.28:109][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.31-18.02.28:151][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.31-18.02.28:199][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.31-18.02.28:247][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.31-18.02.28:306][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.31-18.02.28:355][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.31-18.02.28:405][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.31-18.02.28:513][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.31-18.02.28:513][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.31-18.02.28:581][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.02.28:625][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.31-18.02.28:717][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.31-18.02.28:753][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.31-18.02.28:810][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.31-18.02.28:863][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.31-18.02.28:916][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.31-18.02.28:973][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.31-18.02.28:973][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.31-18.02.29:554][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.31-18.02.29:633][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.10.31-18.02.29:633][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.10.31-18.02.29:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Servets/Documents/Unreal Projects/Arcada/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.31-18.02.29:633][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.31-18.02.29:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Servets/Documents/Unreal Projects/Arcada/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.31-18.02.29:633][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.31-18.02.29:661][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.31-18.02.29:673][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Servets/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.31-18.02.29:685][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.31-18.02.29:686][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.31-18.02.29:686][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.31-18.02.29:686][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.31-18.02.30:182][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.31-18.02.30:532][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.31-18.02.30:571][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.31-18.02.30:571][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.31-18.02.30:571][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.31-18.02.30:571][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.31-18.02.30:571][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.31-18.02.30:601][  0]LogNetVersion: Arcada , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2674010682)
+[2018.10.31-18.02.30:772][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.10.31-18.02.31:284][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.060361 seconds
+[2018.10.31-18.02.31:289][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.10.31-18.02.31:289][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.10.31-18.02.31:289][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.31-18.02.31:340][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.10.31-18.02.34:284][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.31-18.02.34:329][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.31-18.02.35:136][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.10.31-18.02.35:594][  0]SourceControl: Source control is disabled
+[2018.10.31-18.02.35:595][  0]SourceControl: Source control is disabled
+[2018.10.31-18.02.35:649][  0]SourceControl: Source control is disabled
+[2018.10.31-18.02.35:712][  0]SourceControl: Source control is disabled
+[2018.10.31-18.02.36:554][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.31-18.02.36:807][  0]LogOcInput: OculusInput pre-init called
+[2018.10.31-18.02.37:061][  0]LogEngine: Initializing Engine...
+[2018.10.31-18.02.37:063][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.31-18.02.37:284][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.31-18.02.37:284][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.31-18.02.37:404][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.31-18.02.37:415][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.02.37:494][  0]LogInit: FAudioDevice initialized.
+[2018.10.31-18.02.37:666][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.10.31-18.02.37:682][  0]LogInit: Texture streaming: Enabled
+[2018.10.31-18.02.37:781][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.31-18.02.37:781][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={7872DFFB-4CD8-D4F1-2B62-CEA2B046AB0E}
+[2018.10.31-18.02.37:910][  0]LogInit: Transaction tracking system initialized
+[2018.10.31-18.02.38:221][  0]BlueprintLog: New page: Editor Load
+[2018.10.31-18.02.39:122][  0]LocalizationService: Localization service is disabled
+[2018.10.31-18.02.40:161][  0]LogConsoleResponse: Display: 
+[2018.10.31-18.02.40:350][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.31-18.02.40:350][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.31-18.02.40:351][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.31-18.02.40:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/' took 0.01s
+[2018.10.31-18.02.41:029][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.10.31-18.02.41:029][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.10.31-18.02.41:030][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2018.10.31-18.02.41:566][  0]SourceControl: Source control is disabled
+[2018.10.31-18.02.41:642][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.31-18.02.47:495][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.02.47:509][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.02.51:892][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.02.51:906][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.02.51:907][  0]Cmd: MAP LOAD FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-18.02.51:908][  0]LightingResults: New page: Lighting Build
+[2018.10.31-18.02.51:953][  0]MapCheck: New page: Map Check
+[2018.10.31-18.02.51:953][  0]LightingResults: New page: Lighting Build
+[2018.10.31-18.02.51:978][  0]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.02.51:983][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-18.02.51:994][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-18.02.52:038][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.602ms to complete.
+[2018.10.31-18.02.52:038][  0]LogFileHelpers: Loading map 'M_GamePlay' took 0.131
+[2018.10.31-18.02.52:082][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2af4_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_27c0_0///####STATCAT_Advanced####
+[2018.10.31-18.02.52:082][  0]LogCollectionManager: Loaded 0 collections in 0.001082 seconds
+[2018.10.31-18.02.52:164][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Collections/' took 0.01s
+[2018.10.31-18.02.52:164][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Developers/Servets/Collections/' took 0.01s
+[2018.10.31-18.02.52:164][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Collections/' took 0.01s
+[2018.10.31-18.02.52:164][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.31-18.02.52:173][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2367 classes and 524 folders.
+[2018.10.31-18.02.52:236][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.10.31-18.02.52:271][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.10.31-18.02.52:352][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.10.31-18.02.52:423][  0]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.31-18.02.52:425][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.31-18.02.52:545][  0]LogRenderer: Reallocating scene render targets to support 860x720 Format 9 NumSamples 1 (Frame:1).
+[2018.10.31-18.02.52:709][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.10.31-18.02.52:709][  0]LogLoad: (Engine Initialization) Total time: 29.47 seconds
+[2018.10.31-18.02.52:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.31-18.02.52:709][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.10.31-18.02.52:745][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.10.31-18.02.53:060][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.31-18.02.53:082][  1]LogAssetRegistry: Asset discovery search completed in 22.3328 seconds
+[2018.10.31-18.02.53:083][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.31-18.02.53:083][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2018.10.31-18.02.53:740][ 38]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.31-18.02.56:179][183]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.31-18.02.56:531][183]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.10.31-18.03.02:454][468]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.31-18.03.12:039][996]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.31-18.03.17:596][325]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.31-18.03.18:751][392]LogRenderer: Reallocating scene render targets to support 968x720 Format 9 NumSamples 1 (Frame:1).
+[2018.10.31-18.04.15:791][218]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-18.04.16:531][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-18.04.16:565][239]LogSavePackage: Save=25.10ms
+[2018.10.31-18.04.16:565][239]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawn26CEB211480BB4A6EDA5449F2400C787.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-18.04.16:570][239]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-18.05.16:973][698]BlueprintLog: New page: Compile BP_ShootProjectile
+[2018.10.31-18.05.17:698][719]LogSavePackage: Save=19.38ms
+[2018.10.31-18.05.17:698][719]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_ShootProjectileB31D52A44B6BA12561399986749DCE58.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset'
+[2018.10.31-18.05.17:701][719]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset
+[2018.10.31-18.06.13:737][927]LogHotReload: New module detected: UE4Editor-Arcada-417.dll
+[2018.10.31-18.06.14:421][930]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.06.14:523][930]LogClass: Could not find existing class ShootProjectile in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-18.06.14:527][930]LogHotReload: Re-instancing ShootProjectile after hot-reload.
+[2018.10.31-18.06.14:903][930]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0011 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.06.14:905][930]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.06.15:257][930]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.06.15:261][930]Display: HotReload took  0.8s.
+[2018.10.31-18.06.23:832][ 92]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.31-18.07.18:403][539]LogHotReload: New module detected: UE4Editor-Arcada-2321.dll
+[2018.10.31-18.07.19:097][542]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.07.19:199][542]LogClass: Could not find existing class ShootProjectile in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-18.07.19:204][542]LogHotReload: Re-instancing ShootProjectile after hot-reload.
+[2018.10.31-18.07.19:655][542]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0011 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.07.19:657][542]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.07.19:977][542]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.07.19:981][542]Display: HotReload took  0.9s.
+[2018.10.31-18.07.36:705][344]LogSavePackage: Save=16.48ms
+[2018.10.31-18.07.36:705][344]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_ShootProjectile08D0EE1A4AF15E5CCE185482A6952925.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset'
+[2018.10.31-18.07.36:709][344]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset
+[2018.10.31-18.07.39:524][513]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.07.39:573][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.07.39:573][513]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:07:39)
+[2018.10.31-18.07.39:573][513]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.07.39:574][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000792s)
+[2018.10.31-18.07.39:574][513]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.07.39:575][513]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2018.10.31-18.07.39:575][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001675s)
+[2018.10.31-18.07.39:624][513]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.07.39:647][513]LogInit: FAudioDevice initialized.
+[2018.10.31-18.07.39:699][513]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.07.39:701][513]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.07.39
+[2018.10.31-18.07.39:701][513]LogWorld: Bringing up level for play took: 0.000557
+[2018.10.31-18.07.39:761][513]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.10.31-18.07.39:762][513]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.323
+[2018.10.31-18.08.07:961][133]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.08.07:986][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.08.07:986][133]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:08:07)
+[2018.10.31-18.08.07:986][133]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.08.07:987][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001446s)
+[2018.10.31-18.08.07:988][133]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.08.07:988][133]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.10.31-18.08.07:988][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002457s)
+[2018.10.31-18.08.08:013][133]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.08.08:035][133]LogInit: FAudioDevice initialized.
+[2018.10.31-18.08.08:066][133]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.08.08:067][133]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.08.08
+[2018.10.31-18.08.08:068][133]LogWorld: Bringing up level for play took: 0.000435
+[2018.10.31-18.08.08:069][133]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.017
+[2018.10.31-18.08.27:461][262]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.08.27:481][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.08.27:481][262]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:08:27)
+[2018.10.31-18.08.27:481][262]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.08.27:482][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000770s)
+[2018.10.31-18.08.27:483][262]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.08.27:483][262]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2018.10.31-18.08.27:483][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001757s)
+[2018.10.31-18.08.27:503][262]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.08.27:526][262]LogInit: FAudioDevice initialized.
+[2018.10.31-18.08.27:556][262]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.08.27:557][262]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.08.27
+[2018.10.31-18.08.27:557][262]LogWorld: Bringing up level for play took: 0.000545
+[2018.10.31-18.08.27:559][262]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.527
+[2018.10.31-18.08.53:465][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.08.53:485][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.08.53:485][781]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:08:53)
+[2018.10.31-18.08.53:485][781]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.08.53:486][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000940s)
+[2018.10.31-18.08.53:487][781]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.08.53:487][781]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.10.31-18.08.53:487][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001912s)
+[2018.10.31-18.08.53:511][781]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.08.53:533][781]LogInit: FAudioDevice initialized.
+[2018.10.31-18.08.53:565][781]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.08.53:567][781]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.08.53
+[2018.10.31-18.08.53:567][781]LogWorld: Bringing up level for play took: 0.000492
+[2018.10.31-18.08.53:568][781]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.518
+[2018.10.31-18.09.08:660][654]BlueprintLog: New page: Compile BP_ShootProjectile
+[2018.10.31-18.09.09:626][668]LogSavePackage: Save=17.66ms
+[2018.10.31-18.09.09:626][668]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_ShootProjectile5E3143E342203FBA7BAAAA997ECA16B2.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset'
+[2018.10.31-18.09.09:630][668]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset
+[2018.10.31-18.09.11:566][784]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.09.11:590][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.09.11:590][784]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:09:11)
+[2018.10.31-18.09.11:590][784]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.09.11:591][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000986s)
+[2018.10.31-18.09.11:591][784]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.09.11:592][784]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2018.10.31-18.09.11:592][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001911s)
+[2018.10.31-18.09.11:618][784]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.09.11:642][784]LogInit: FAudioDevice initialized.
+[2018.10.31-18.09.11:674][784]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.09.11:675][784]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.09.11
+[2018.10.31-18.09.11:675][784]LogWorld: Bringing up level for play took: 0.000512
+[2018.10.31-18.09.11:676][784]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.409
+[2018.10.31-18.11.54:949][445]LogHotReload: New module detected: UE4Editor-Arcada-3461.dll
+[2018.10.31-18.11.55:629][448]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.11.55:723][448]LogClass: Could not find existing class ShootProjectile in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-18.11.55:728][448]LogHotReload: Re-instancing ShootProjectile after hot-reload.
+[2018.10.31-18.11.56:119][448]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0014 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.11.56:121][448]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.11.56:397][448]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.11.56:401][448]Display: HotReload took  0.8s.
+[2018.10.31-18.12.20:409][520]LogHotReload: New module detected: UE4Editor-Arcada-2263.dll
+[2018.10.31-18.12.21:096][523]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.12.21:232][523]LogClass: Could not find existing class ShootComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-18.12.21:232][523]LogClass: Function StartShooting is new.
+[2018.10.31-18.12.21:232][523]LogClass: Function StopShooting is new.
+[2018.10.31-18.12.21:236][523]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-18.12.21:753][523]LogHotReload: Re-instancing ShootComponent after hot-reload.
+[2018.10.31-18.12.21:911][523]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.12.21:914][523]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.12.22:247][523]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.12.22:251][523]Display: HotReload took  1.2s.
+[2018.10.31-18.13.04:258][649]LogHotReload: New module detected: UE4Editor-Arcada-2534.dll
+[2018.10.31-18.13.04:941][652]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.13.05:065][652]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0017 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.13.05:069][652]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.13.05:373][652]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.13.05:375][652]Display: HotReload took  0.4s.
+[2018.10.31-18.13.11:770][799]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.13.11:792][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.13.11:792][799]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:13:11)
+[2018.10.31-18.13.11:792][799]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.13.11:793][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000876s)
+[2018.10.31-18.13.11:794][799]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.13.11:794][799]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.10.31-18.13.11:794][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001799s)
+[2018.10.31-18.13.11:839][799]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.13.11:861][799]LogInit: FAudioDevice initialized.
+[2018.10.31-18.13.11:897][799]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.13.11:899][799]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.13.11
+[2018.10.31-18.13.11:899][799]LogWorld: Bringing up level for play took: 0.000458
+[2018.10.31-18.13.11:900][799]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.186
+[2018.10.31-18.13.30:641][101]LogHotReload: New module detected: UE4Editor-Arcada-5721.dll
+[2018.10.31-18.13.31:321][104]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.13.31:426][104]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0018 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.13.31:430][104]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.13.31:739][104]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.13.31:741][104]Display: HotReload took  0.4s.
+[2018.10.31-18.13.36:346][170]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.13.36:368][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.13.36:368][170]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:13:36)
+[2018.10.31-18.13.36:369][170]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.13.36:369][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000818s)
+[2018.10.31-18.13.36:370][170]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.13.36:370][170]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2018.10.31-18.13.36:370][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001784s)
+[2018.10.31-18.13.36:426][170]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.13.36:448][170]LogInit: FAudioDevice initialized.
+[2018.10.31-18.13.36:481][170]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.13.36:483][170]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.13.36
+[2018.10.31-18.13.36:483][170]LogWorld: Bringing up level for play took: 0.000548
+[2018.10.31-18.13.36:484][170]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.399
+[2018.10.31-18.14.32:565][952]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.14.32:589][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.14.32:590][952]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:14:32)
+[2018.10.31-18.14.32:590][952]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.14.32:591][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000799s)
+[2018.10.31-18.14.32:591][952]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.14.32:591][952]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.10.31-18.14.32:592][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001869s)
+[2018.10.31-18.14.32:616][952]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.14.32:638][952]LogInit: FAudioDevice initialized.
+[2018.10.31-18.14.32:672][952]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.14.32:674][952]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.14.32
+[2018.10.31-18.14.32:674][952]LogWorld: Bringing up level for play took: 0.000519
+[2018.10.31-18.14.32:675][952]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.59
+[2018.10.31-18.15.15:191][608]BlueprintLog: New page: Compile BP_ShootProjectile
+[2018.10.31-18.15.16:159][636]LogSavePackage: Save=14.26ms
+[2018.10.31-18.15.16:159][636]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_ShootProjectileFDCC01C4497888937F0D1AB8AEEF44FF.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset'
+[2018.10.31-18.15.16:163][636]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset
+[2018.10.31-18.15.21:564][959]LogHotReload: New module detected: UE4Editor-Arcada-5306.dll
+[2018.10.31-18.15.22:399][  6]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.15.22:511][  6]LogClass: Could not find existing class ShootComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-18.15.22:511][  6]LogClass: Function StartShooting is new.
+[2018.10.31-18.15.22:511][  6]LogClass: Function StopShooting is new.
+[2018.10.31-18.15.22:517][  6]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-18.15.23:135][  6]LogHotReload: Re-instancing ShootComponent after hot-reload.
+[2018.10.31-18.15.23:246][  6]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.15.23:248][  6]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.15.23:589][  6]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.15.23:593][  6]Display: HotReload took  1.2s.
+[2018.10.31-18.15.24:077][ 34]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-18.15.25:421][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-18.15.25:448][ 72]LogSavePackage: Save=17.66ms
+[2018.10.31-18.15.25:448][ 72]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawn1768D4E743D230F186A8D0818455279D.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-18.15.25:451][ 72]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-18.15.28:214][238]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.15.28:234][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.15.28:234][238]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:15:28)
+[2018.10.31-18.15.28:234][238]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.15.28:235][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000714s)
+[2018.10.31-18.15.28:235][238]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.15.28:235][238]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.10.31-18.15.28:236][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001532s)
+[2018.10.31-18.15.28:268][238]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.15.28:290][238]LogInit: FAudioDevice initialized.
+[2018.10.31-18.15.28:323][238]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.15.28:325][238]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.15.28
+[2018.10.31-18.15.28:325][238]LogWorld: Bringing up level for play took: 0.000524
+[2018.10.31-18.15.28:326][238]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.241
+[2018.10.31-18.16.11:286][985]LogHotReload: New module detected: UE4Editor-Arcada-2451.dll
+[2018.10.31-18.16.11:970][988]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.16.12:085][988]LogClass: Could not find existing class ShootComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-18.16.12:085][988]LogClass: Function StartShooting is new.
+[2018.10.31-18.16.12:085][988]LogClass: Function StopShooting is new.
+[2018.10.31-18.16.12:090][988]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-18.16.12:480][988]LogHotReload: Re-instancing ShootComponent after hot-reload.
+[2018.10.31-18.16.12:594][988]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0011 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.16.12:598][988]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.16.12:901][988]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.16.12:904][988]Display: HotReload took  0.9s.
+[2018.10.31-18.16.15:216][ 64]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.31-18.16.15:862][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.16.15:884][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.16.15:885][ 99]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:16:15)
+[2018.10.31-18.16.15:885][ 99]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.16.15:886][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000786s)
+[2018.10.31-18.16.15:886][ 99]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.16.15:886][ 99]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2018.10.31-18.16.15:886][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001637s)
+[2018.10.31-18.16.15:964][ 99]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.16.15:988][ 99]LogInit: FAudioDevice initialized.
+[2018.10.31-18.16.16:019][ 99]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.16.16:020][ 99]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.16.16
+[2018.10.31-18.16.16:020][ 99]LogWorld: Bringing up level for play took: 0.000443
+[2018.10.31-18.16.16:022][ 99]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.064
+[2018.10.31-18.16.34:893][540]LogHotReload: New module detected: UE4Editor-Arcada-4881.dll
+[2018.10.31-18.16.35:569][543]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.16.35:659][543]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0015 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.16.35:662][543]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.16.35:963][543]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.16.35:966][543]Display: HotReload took  0.4s.
+[2018.10.31-18.32.22:609][567]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.31-18.32.22:670][568]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Arcada
+[2018.10.31-18.32.22:670][568]LogTemp: CWD: E:\Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.10.31-18.32.22:670][568]LogTemp: Initial Dir: E:\Games\UE_4.18
+[2018.10.31-18.32.22:670][568]LogTemp: Env CWD: E:\Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.10.31-18.32.22:686][569]LogTemp: BranchPath = DESKTOP-C8BO9BR/E/Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-C8BO9BR/E/Games/UE_4.18/Engine/Binaries
+[2018.10.31-18.32.22:688][569]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Servets\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.31-18.32.32:616][150]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.32.32:632][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.32.32:632][150]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:32:32)
+[2018.10.31-18.32.32:632][150]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.32.32:633][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000995s)
+[2018.10.31-18.32.32:634][150]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.32.32:634][150]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2018.10.31-18.32.32:635][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002203s)
+[2018.10.31-18.32.32:686][150]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.32.32:712][150]LogInit: FAudioDevice initialized.
+[2018.10.31-18.32.32:748][150]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.32.32:749][150]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.32.32
+[2018.10.31-18.32.32:749][150]LogWorld: Bringing up level for play took: 0.000580
+[2018.10.31-18.32.32:751][150]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.665
+[2018.10.31-18.33.04:223][964]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.33.04:246][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.33.04:246][964]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:33:04)
+[2018.10.31-18.33.04:246][964]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.33.04:247][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000753s)
+[2018.10.31-18.33.04:248][964]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.33.04:248][964]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.10.31-18.33.04:248][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001750s)
+[2018.10.31-18.33.04:269][964]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.33.04:293][964]LogInit: FAudioDevice initialized.
+[2018.10.31-18.33.04:329][964]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.33.04:330][964]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.33.04
+[2018.10.31-18.33.04:330][964]LogWorld: Bringing up level for play took: 0.000488
+[2018.10.31-18.33.04:331][964]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.245
+[2018.10.31-18.33.43:822][214]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-18.33.44:667][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-18.33.44:701][231]LogSavePackage: Save=21.13ms
+[2018.10.31-18.33.44:701][231]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnBA2ED9B74BCAAA233F130AB139476928.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-18.33.44:704][231]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-18.33.47:540][394]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.33.47:562][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.33.47:562][394]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:33:47)
+[2018.10.31-18.33.47:562][394]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.33.47:563][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000783s)
+[2018.10.31-18.33.47:563][394]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.33.47:563][394]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.10.31-18.33.47:563][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001588s)
+[2018.10.31-18.33.47:582][394]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.33.47:605][394]LogInit: FAudioDevice initialized.
+[2018.10.31-18.33.47:635][394]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.33.47:636][394]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.33.47
+[2018.10.31-18.33.47:636][394]LogWorld: Bringing up level for play took: 0.000536
+[2018.10.31-18.33.47:637][394]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.448
+[2018.10.31-18.34.10:697][652]LogHotReload: New module detected: UE4Editor-Arcada-7443.dll
+[2018.10.31-18.34.11:375][655]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.34.11:463][655]LogClass: Could not find existing class ShootComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-18.34.11:463][655]LogClass: Function StartShooting is new.
+[2018.10.31-18.34.11:463][655]LogClass: Function StopShooting is new.
+[2018.10.31-18.34.11:468][655]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-18.34.11:855][655]LogHotReload: Re-instancing ShootComponent after hot-reload.
+[2018.10.31-18.34.11:932][655]LogHotReload: Re-instancing ShootProjectile after hot-reload.
+[2018.10.31-18.34.12:161][655]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0013 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.34.12:162][655]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.34.12:446][655]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.34.12:450][655]Display: HotReload took  1.1s.
+[2018.10.31-18.34.18:791][674]LogHotReload: New module detected: UE4Editor-Arcada-5831.dll
+[2018.10.31-18.34.19:530][693]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.34.19:650][693]LogHotReload: Re-instancing ShootProjectile after hot-reload.
+[2018.10.31-18.34.19:874][693]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0010 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.34.19:875][693]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.34.20:145][693]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.34.20:150][693]Display: HotReload took  0.6s.
+[2018.10.31-18.34.21:193][749]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.34.21:209][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.34.21:209][749]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:34:21)
+[2018.10.31-18.34.21:209][749]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.34.21:210][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000764s)
+[2018.10.31-18.34.21:211][749]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.34.21:211][749]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2018.10.31-18.34.21:211][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001513s)
+[2018.10.31-18.34.21:248][749]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.34.21:270][749]LogInit: FAudioDevice initialized.
+[2018.10.31-18.34.21:305][749]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.34.21:307][749]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.34.21
+[2018.10.31-18.34.21:307][749]LogWorld: Bringing up level for play took: 0.000619
+[2018.10.31-18.34.21:309][749]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.777
+[2018.10.31-18.34.53:111][360]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.34.53:111][360]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.34.54:061][415]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.34.54:077][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.34.54:077][415]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:34:54)
+[2018.10.31-18.34.54:077][415]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.34.54:078][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000737s)
+[2018.10.31-18.34.54:078][415]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.34.54:078][415]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.10.31-18.34.54:079][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001621s)
+[2018.10.31-18.34.54:096][415]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.34.54:121][415]LogInit: FAudioDevice initialized.
+[2018.10.31-18.34.54:154][415]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.34.54:156][415]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.34.54
+[2018.10.31-18.34.54:156][415]LogWorld: Bringing up level for play took: 0.000434
+[2018.10.31-18.34.54:157][415]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.071
+[2018.10.31-18.35.03:658][642]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.35.03:658][642]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.35.05:801][766]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.35.05:801][766]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.35.10:239][842]LogHotReload: New module detected: UE4Editor-Arcada-7979.dll
+[2018.10.31-18.35.10:919][845]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.35.11:024][845]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0010 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.35.11:026][845]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.35.11:335][845]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.35.11:338][845]Display: HotReload took  0.4s.
+[2018.10.31-18.35.14:222][922]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.35.14:255][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.35.14:255][922]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:35:14)
+[2018.10.31-18.35.14:255][922]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.35.14:256][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000767s)
+[2018.10.31-18.35.14:256][922]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.35.14:256][922]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.10.31-18.35.14:257][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001552s)
+[2018.10.31-18.35.14:298][922]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.35.14:322][922]LogInit: FAudioDevice initialized.
+[2018.10.31-18.35.14:356][922]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.35.14:357][922]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.35.14
+[2018.10.31-18.35.14:357][922]LogWorld: Bringing up level for play took: 0.000486
+[2018.10.31-18.35.14:358][922]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.273
+[2018.10.31-18.35.36:861][916]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-18.35.37:570][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-18.35.37:597][929]LogSavePackage: Save=21.50ms
+[2018.10.31-18.35.37:597][929]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnF3D4BA014BA66BB8947F05BD8EC0A865.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-18.35.37:600][929]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-18.35.39:184][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.35.39:207][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.35.39:207][ 24]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:35:39)
+[2018.10.31-18.35.39:207][ 24]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.35.39:208][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000825s)
+[2018.10.31-18.35.39:208][ 24]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.35.39:208][ 24]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2018.10.31-18.35.39:209][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001730s)
+[2018.10.31-18.35.39:229][ 24]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.35.39:257][ 24]LogInit: FAudioDevice initialized.
+[2018.10.31-18.35.39:291][ 24]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.35.39:292][ 24]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.35.39
+[2018.10.31-18.35.39:292][ 24]LogWorld: Bringing up level for play took: 0.000484
+[2018.10.31-18.35.39:294][ 24]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.792
+[2018.10.31-18.36.12:814][997]LogHotReload: New module detected: UE4Editor-Arcada-5276.dll
+[2018.10.31-18.36.13:832][  1]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.36.13:933][  1]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-18.36.14:426][  1]LogHotReload: Re-instancing ShootComponent after hot-reload.
+[2018.10.31-18.36.15:036][  1]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.609 s
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: 
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: Ensure condition failed: bArchetypeReinstanced [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp] [Line: 1563]
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: Reinstancing non-actor (/Engine/Transient.BP_PlayerPawn_C_8:ShootComponent); failed to resolve archetype object - property values may be lost.
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: Stack: 
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x000000000EFF2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x000000000ED9123A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x000000000EDAB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000003C6E29E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000003C6C686 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000003C6BA28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000003C6684A UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000003C67AB0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000F3E8CB3F UE4Editor-HotReload.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000F3E8CE05 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000F3E84DE6 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000016F69AC5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000017267D18 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x000000001724B426 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000016FF2547 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x000000000EC2E6C0 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x000000000EE82282 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x000000000EE81593 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000F3E8309F UE4Editor-HotReload.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000F3E82D1B UE4Editor-HotReload.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000F3E941BA UE4Editor-HotReload.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x000000000EC722B8 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000CB3B7A32 UE4Editor.exe!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000CB3C5430 UE4Editor.exe!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000CB3C54AA UE4Editor.exe!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000CB3D2379 UE4Editor.exe!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000CB3D3D57 UE4Editor.exe!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x00000000749C3034 KERNEL32.DLL!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: [Callstack] 0x0000000076621471 ntdll.dll!UnknownFunction []
+[2018.10.31-18.36.15:036][  1]LogOutputDevice: Error: 
+[2018.10.31-18.36.15:042][  1]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.31-18.36.15:399][  1]LogStats:                    SendNewReport -  0.357 s
+[2018.10.31-18.36.15:399][  1]LogStats:             FDebug::EnsureFailed -  0.973 s
+[2018.10.31-18.36.15:497][  1]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0010 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.36.15:499][  1]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.36.15:817][  1]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.36.15:821][  1]Display: HotReload took  2.0s.
+[2018.10.31-18.36.17:641][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-18.36.17:669][106]LogSavePackage: Save=23.44ms
+[2018.10.31-18.36.17:670][106]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnB5B898E14B143525BA675B8D15FE7D85.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-18.36.17:673][106]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-18.36.19:346][206]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.36.19:365][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.36.19:365][206]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:36:19)
+[2018.10.31-18.36.19:365][206]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.36.19:366][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000900s)
+[2018.10.31-18.36.19:367][206]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.36.19:367][206]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2018.10.31-18.36.19:367][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001820s)
+[2018.10.31-18.36.19:401][206]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.36.19:424][206]LogInit: FAudioDevice initialized.
+[2018.10.31-18.36.19:456][206]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.36.19:458][206]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.36.19
+[2018.10.31-18.36.19:458][206]LogWorld: Bringing up level for play took: 0.000601
+[2018.10.31-18.36.19:459][206]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.626
+[2018.10.31-18.36.31:450][539]LogHotReload: New module detected: UE4Editor-Arcada-8147.dll
+[2018.10.31-18.36.32:130][542]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.36.32:234][542]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-18.36.32:821][542]LogHotReload: Re-instancing ShootComponent after hot-reload.
+[2018.10.31-18.36.32:932][542]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0011 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.36.32:934][542]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.10.31-18.36.33:258][542]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.36.33:262][542]Display: HotReload took  1.1s.
+[2018.10.31-18.36.38:617][673]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.36.38:637][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.36.38:637][673]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:36:38)
+[2018.10.31-18.36.38:637][673]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.36.38:638][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001037s)
+[2018.10.31-18.36.38:639][673]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.36.38:639][673]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2018.10.31-18.36.38:639][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001899s)
+[2018.10.31-18.36.38:684][673]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.36.38:707][673]LogInit: FAudioDevice initialized.
+[2018.10.31-18.36.38:740][673]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.36.38:742][673]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.36.38
+[2018.10.31-18.36.38:742][673]LogWorld: Bringing up level for play took: 0.000714
+[2018.10.31-18.36.38:744][673]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.658
+[2018.10.31-18.44.10:529][823]BlueprintLog: New page: Compile BP_ShootProjectile
+[2018.10.31-18.44.11:312][840]LogSavePackage: Save=17.10ms
+[2018.10.31-18.44.11:312][840]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_ShootProjectileD0AE72EE46078D00C25973B547849B10.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset'
+[2018.10.31-18.44.11:315][840]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/ProjectTiles/BP_ShootProjectile.uasset
+[2018.10.31-18.44.13:221][954]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-18.44.13:247][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-18.44.13:247][954]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 20:44:13)
+[2018.10.31-18.44.13:247][954]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-18.44.13:248][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001122s)
+[2018.10.31-18.44.13:249][954]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-18.44.13:249][954]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2018.10.31-18.44.13:249][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002076s)
+[2018.10.31-18.44.13:276][954]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-18.44.13:300][954]LogInit: FAudioDevice initialized.
+[2018.10.31-18.44.13:337][954]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-18.44.13:338][954]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-19.44.13
+[2018.10.31-18.44.13:338][954]LogWorld: Bringing up level for play took: 0.000474
+[2018.10.31-18.44.13:339][954]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.746
+[2018.10.31-18.51.17:423][717]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.51.17:423][717]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.53.38:694][211]LogHotReload: New module detected: UE4Editor-Arcada-5611.dll
+[2018.10.31-18.53.39:379][214]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.53.39:506][214]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0015 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.53.39:509][214]Display: HotReload successful (2 functions remapped  1 scriptstructs remapped)
+[2018.10.31-18.53.39:848][214]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.53.39:852][214]Display: HotReload took  0.5s.
+[2018.10.31-18.55.25:531][531]LogHotReload: New module detected: UE4Editor-Arcada-1387.dll
+[2018.10.31-18.55.26:220][534]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-18.55.26:352][534]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0018 seconds. Added 4 classes and 5 folders.
+[2018.10.31-18.55.26:356][534]Display: HotReload successful (2 functions remapped  1 scriptstructs remapped)
+[2018.10.31-18.55.26:679][534]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-18.55.26:682][534]Display: HotReload took  0.5s.
+[2018.10.31-19.01.37:027][645]LogHotReload: New module detected: UE4Editor-Arcada-1389.dll
+[2018.10.31-19.01.38:047][649]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-19.01.38:203][649]LogClass: Could not find existing class ShootComponent in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-19.01.38:203][649]LogClass: Function StartShooting is new.
+[2018.10.31-19.01.38:203][649]LogClass: Function StopShooting is new.
+[2018.10.31-19.01.38:205][649]LogClass: ShootInfo HotReload.
+[2018.10.31-19.01.38:207][649]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.10.31-19.01.39:198][649]LogHotReload: Re-instancing ShootComponent after hot-reload.
+[2018.10.31-19.01.39:335][649]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0010 seconds. Added 4 classes and 5 folders.
+[2018.10.31-19.01.39:338][649]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2018.10.31-19.01.39:650][649]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-19.01.39:653][649]Display: HotReload took  1.6s.
+[2018.10.31-19.03.35:106][ 19]LogHotReload: New module detected: UE4Editor-Arcada-1246.dll
+[2018.10.31-19.03.36:121][ 23]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-19.03.36:285][ 23]LogClass: ShootInfo HotReload.
+[2018.10.31-19.03.36:289][ 23]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 4 classes and 5 folders.
+[2018.10.31-19.03.36:293][ 23]Display: HotReload successful (2 functions remapped  1 scriptstructs remapped)
+[2018.10.31-19.03.36:659][ 23]LogContentBrowser: Native class hierarchy populated in 0.0158 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-19.03.36:666][ 23]Display: HotReload took  0.5s.
+[2018.10.31-19.04.47:906][ 56]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.31-19.05.14:982][649]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-19.05.15:007][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-19.05.15:007][649]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 21:05:15)
+[2018.10.31-19.05.15:007][649]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-19.05.15:008][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000860s)
+[2018.10.31-19.05.15:009][649]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-19.05.15:009][649]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2018.10.31-19.05.15:009][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002152s)
+[2018.10.31-19.05.15:065][649]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-19.05.15:091][649]LogInit: FAudioDevice initialized.
+[2018.10.31-19.05.15:125][649]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-19.05.15:127][649]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-20.05.15
+[2018.10.31-19.05.15:127][649]LogWorld: Bringing up level for play took: 0.000495
+[2018.10.31-19.05.15:128][649]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 1.043
+[2018.10.31-19.05.57:553][997]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-19.05.58:874][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-19.05.58:907][ 18]LogSavePackage: Save=22.67ms
+[2018.10.31-19.05.58:907][ 18]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawn0695831049A3D97497123BA2DA8151CA.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-19.05.58:911][ 18]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-19.06.11:185][222]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-19.06.11:207][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-19.06.11:207][222]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 21:06:11)
+[2018.10.31-19.06.11:207][222]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-19.06.11:208][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000814s)
+[2018.10.31-19.06.11:208][222]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-19.06.11:208][222]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2018.10.31-19.06.11:209][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001741s)
+[2018.10.31-19.06.11:236][222]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-19.06.11:260][222]LogInit: FAudioDevice initialized.
+[2018.10.31-19.06.11:292][222]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-19.06.11:293][222]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-20.06.11
+[2018.10.31-19.06.11:293][222]LogWorld: Bringing up level for play took: 0.000554
+[2018.10.31-19.06.11:295][222]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.791
+[2018.10.31-19.06.38:116][273]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-19.06.39:635][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-19.06.39:656][298]LogSavePackage: Save=16.92ms
+[2018.10.31-19.06.39:656][298]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnC102E8D64DF01C81F48F3887F0E8B5CE.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-19.06.39:659][298]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-19.06.41:627][416]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-19.06.41:650][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-19.06.41:650][416]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 21:06:41)
+[2018.10.31-19.06.41:650][416]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-19.06.41:651][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000880s)
+[2018.10.31-19.06.41:653][416]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-19.06.41:653][416]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2018.10.31-19.06.41:653][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002637s)
+[2018.10.31-19.06.41:681][416]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-19.06.41:705][416]LogInit: FAudioDevice initialized.
+[2018.10.31-19.06.41:737][416]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-19.06.41:739][416]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-20.06.41
+[2018.10.31-19.06.41:739][416]LogWorld: Bringing up level for play took: 0.000544
+[2018.10.31-19.06.41:741][416]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.345
+[2018.10.31-19.06.42:127][421]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.42:135][422]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.42:236][428]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.42:436][440]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.42:636][452]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.42:836][464]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.43:036][476]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.43:236][488]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.43:436][500]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.43:636][512]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.43:836][524]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.44:036][536]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.44:236][548]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.31-19.06.48:777][794]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.31-19.06.50:495][896]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-19.06.52:100][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-19.06.52:128][910]LogSavePackage: Save=23.46ms
+[2018.10.31-19.06.52:128][910]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnFFFF800F40398971884FFBA0F70B3B3E.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-19.06.52:132][910]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-19.06.53:745][  7]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-19.06.53:774][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-19.06.53:774][  7]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 21:06:53)
+[2018.10.31-19.06.53:774][  7]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-19.06.53:775][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2018.10.31-19.06.53:776][  7]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-19.06.53:776][  7]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.10.31-19.06.53:777][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002673s)
+[2018.10.31-19.06.53:804][  7]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-19.06.53:829][  7]LogInit: FAudioDevice initialized.
+[2018.10.31-19.06.53:860][  7]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-19.06.53:862][  7]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-20.06.53
+[2018.10.31-19.06.53:862][  7]LogWorld: Bringing up level for play took: 0.000777
+[2018.10.31-19.06.53:864][  7]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.221
+[2018.10.31-19.12.46:409][674]LogHotReload: New module detected: UE4Editor-Arcada-9334.dll
+[2018.10.31-19.12.47:366][719]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-19.12.47:491][719]LogClass: ShootInfo HotReload.
+[2018.10.31-19.12.47:495][719]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0011 seconds. Added 4 classes and 5 folders.
+[2018.10.31-19.12.47:498][719]Display: HotReload successful (2 functions remapped  1 scriptstructs remapped)
+[2018.10.31-19.12.47:869][719]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2369 classes and 528 folders.
+[2018.10.31-19.12.47:874][719]Display: HotReload took  0.5s.
+[2018.10.31-19.12.54:256][ 98]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-19.12.56:414][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-19.12.56:446][117]LogSavePackage: Save=19.57ms
+[2018.10.31-19.12.56:446][117]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawnEAAA51C6452581C9B428AF90F311C30A.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-19.12.56:449][117]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-19.12.58:248][225]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-19.12.58:270][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-19.12.58:270][225]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 21:12:58)
+[2018.10.31-19.12.58:270][225]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-19.12.58:271][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000804s)
+[2018.10.31-19.12.58:272][225]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-19.12.58:272][225]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.10.31-19.12.58:272][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001755s)
+[2018.10.31-19.12.58:310][225]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-19.12.58:332][225]LogInit: FAudioDevice initialized.
+[2018.10.31-19.12.58:361][225]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-19.12.58:362][225]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-20.12.58
+[2018.10.31-19.12.58:362][225]LogWorld: Bringing up level for play took: 0.000454
+[2018.10.31-19.12.58:363][225]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.278
+[2018.10.31-19.14.19:924][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/M_GamePlay' took 0.026
+[2018.10.31-19.14.19:926][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_PlayerPawn] ([1] browsable assets)...
+[2018.10.31-19.14.19:942][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_PlayerPawn.BP_PlayerPawn]
+[2018.10.31-19.14.19:942][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_PlayerPawn]
+[2018.10.31-19.14.19:963][ 40]LogSavePackage: Save=16.84ms
+[2018.10.31-19.14.19:963][ 40]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawn_Auto1BB0C23324E86CA12FAB5C8ABC27273FC.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Autosaves/Game/Blueprints/Pawns/BP_PlayerPawn_Auto1.uasset'
+[2018.10.31-19.14.19:964][ 40]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Autosaves/Game/Blueprints/Pawns/BP_PlayerPawn_Auto1.uasset
+[2018.10.31-19.14.19:965][ 40]LogFileHelpers: Auto-saving content packages took 0.040
+[2018.10.31-19.19.41:633][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-19.19.41:661][102]LogSavePackage: Save=15.98ms
+[2018.10.31-19.19.41:661][102]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawn6D8D67F54ABD37C2408C92981A47BFFE.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-19.19.41:665][102]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-19.19.42:212][135]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-19.19.44:040][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-19.19.44:061][157]LogSavePackage: Save=16.77ms
+[2018.10.31-19.19.44:061][157]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawn09D6CB324B9CB9D73C9FC9BE29AAADFD.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-19.19.44:062][157]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-19.19.45:091][214]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.31-19.19.46:587][292]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-19.19.46:604][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-19.19.46:604][292]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 21:19:46)
+[2018.10.31-19.19.46:604][292]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-19.19.46:605][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000885s)
+[2018.10.31-19.19.46:605][292]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-19.19.46:606][292]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2018.10.31-19.19.46:606][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002018s)
+[2018.10.31-19.19.46:657][292]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-19.19.46:681][292]LogInit: FAudioDevice initialized.
+[2018.10.31-19.19.46:713][292]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-19.19.46:714][292]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-20.19.46
+[2018.10.31-19.19.46:714][292]LogWorld: Bringing up level for play took: 0.000560
+[2018.10.31-19.19.46:716][292]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.63
+[2018.10.31-19.20.08:709][551]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-19.20.08:728][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-19.20.08:729][551]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 21:20:08)
+[2018.10.31-19.20.08:729][551]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-19.20.08:730][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000776s)
+[2018.10.31-19.20.08:730][551]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-19.20.08:730][551]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.10.31-19.20.08:730][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001710s)
+[2018.10.31-19.20.08:750][551]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-19.20.08:773][551]LogInit: FAudioDevice initialized.
+[2018.10.31-19.20.08:805][551]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-19.20.08:806][551]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-20.20.08
+[2018.10.31-19.20.08:806][551]LogWorld: Bringing up level for play took: 0.000568
+[2018.10.31-19.20.08:808][551]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.722
+[2018.10.31-19.20.15:983][843]BlueprintLog: New page: Compile BP_PlayerPawn
+[2018.10.31-19.20.17:611][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PlayerPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset" SILENT=true
+[2018.10.31-19.20.17:632][872]LogSavePackage: Save=16.47ms
+[2018.10.31-19.20.17:633][872]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_PlayerPawn863980754EC53879233B08A0310467BE.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset'
+[2018.10.31-19.20.17:635][872]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_PlayerPawn.uasset
+[2018.10.31-19.21.13:651][495]Running E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada Win64 Development -editorrecompile "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" -invalidatemakefilesonly
+[2018.10.31-19.21.13:956][495]Invalidating makefiles only in this run.
+[2018.10.31-19.21.14:202][495]Candidate modules for hot reload:
+[2018.10.31-19.21.14:202][495]  Arcada
+[2018.10.31-19.21.14:202][495]Launching UnrealBuildTool... [E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada -ModuleWithSuffix Arcada 8691 Win64 Development -editorrecompile -canskiplink "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" ]
+[2018.10.31-19.21.15:094][495]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: New page: Compilation - 31 Oct 2018 21:21:31
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: Creating makefile for hot reloading Arcada (no existing makefile)
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: Parsing headers for ArcadaEditor
+[2018.10.31-19.21.31:435][495]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Servets\Documents\Unreal Projects\Arcada\Arcada.uproject" "C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\ArcadaEditor\Development\ArcadaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: Reflection code generated for ArcadaEditor in 10.133186 seconds
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: Arcada.init.gen.cpp
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: EnemysSpawnController.cpp
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: EnemysSpawnController.gen.cpp
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: ShootComponent.cpp
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: [5/6] Link UE4Editor-Arcada-8691.dll
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: [6/6] Link UE4Editor-Arcada-8691.lib
+[2018.10.31-19.21.31:435][495]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-8691.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-8691.exp
+[2018.10.31-19.21.31:435][495]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-8691.suppressed.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-8691.suppressed.exp
+[2018.10.31-19.21.31:435][495]CompilerResultsLog: Total build time: 17.01 seconds (Local executor: 1.72 seconds)
+[2018.10.31-19.21.31:435][495]LogMainFrame: MainFrame: Module compiling took 17.238 seconds
+[2018.10.31-19.21.31:525][495]LogClass: Could not find existing class EnemysSpawnController in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-19.21.31:530][495]LogClass: ShootInfo HotReload.
+[2018.10.31-19.21.31:534][495]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 5 classes and 6 folders.
+[2018.10.31-19.21.31:537][495]Display: HotReload successful (2 functions remapped  1 scriptstructs remapped)
+[2018.10.31-19.21.31:902][495]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2370 classes and 529 folders.
+[2018.10.31-19.21.31:902][495]Display: HotReload took 17.8s.
+[2018.10.31-19.21.31:903][495]Warning: HotReload operation took 17.8s.
+[2018.10.31-19.21.32:057][495]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/EnemysSpawnController.h'
+[2018.10.31-19.21.32:177][495]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Components/EnemysSpawnController.cpp'
+[2018.10.31-19.21.32:205][495]LogHotReload: New module detected: UE4Editor-Arcada-8691.dll
+[2018.10.31-19.21.32:258][496]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-19.21.32:407][496]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0018 seconds. Added 5 classes and 6 folders.
+[2018.10.31-19.21.32:414][496]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2018.10.31-19.21.32:792][496]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2370 classes and 529 folders.
+[2018.10.31-19.21.32:795][496]Display: HotReload took  0.5s.
+[2018.10.31-19.35.10:230][ 10]LogHotReload: New module detected: UE4Editor-Arcada-5616.dll
+[2018.10.31-19.35.10:918][ 13]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-19.35.11:060][ 13]LogClass: Could not find existing class EnemysSpawnController in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-19.35.11:064][ 13]LogClass: ShootInfo HotReload.
+[2018.10.31-19.35.11:070][ 13]LogHotReload: Re-instancing EnemysSpawnController after hot-reload.
+[2018.10.31-19.35.11:220][ 13]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 5 classes and 6 folders.
+[2018.10.31-19.35.11:223][ 13]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-19.35.11:557][ 13]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2370 classes and 529 folders.
+[2018.10.31-19.35.11:560][ 13]Display: HotReload took  0.6s.
+[2018.10.31-19.42.56:911][409]LogHotReload: New module detected: UE4Editor-Arcada-5185.dll
+[2018.10.31-19.42.57:595][412]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-19.42.57:732][412]LogClass: Could not find existing class EnemysSpawnController in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-19.42.57:737][412]LogClass: ShootInfo HotReload.
+[2018.10.31-19.42.57:741][412]LogHotReload: Re-instancing EnemysSpawnController after hot-reload.
+[2018.10.31-19.42.57:902][412]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 5 classes and 6 folders.
+[2018.10.31-19.42.57:905][412]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-19.42.58:264][412]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2370 classes and 529 folders.
+[2018.10.31-19.42.58:268][412]Display: HotReload took  0.7s.
+[2018.10.31-19.54.31:285][491]LogHotReload: New module detected: UE4Editor-Arcada-3394.dll
+[2018.10.31-19.54.31:965][494]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-19.54.32:108][494]LogClass: Could not find existing class ArcadaGameModeBase in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-19.54.32:114][494]LogClass: EnemySpawnInfo HotReload.
+[2018.10.31-19.54.32:114][494]LogClass: ShootInfo HotReload.
+[2018.10.31-19.54.32:118][494]LogHotReload: Re-instancing ArcadaGameModeBase after hot-reload.
+[2018.10.31-19.54.32:254][494]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0020 seconds. Added 5 classes and 6 folders.
+[2018.10.31-19.54.32:258][494]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-19.54.32:594][494]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2370 classes and 529 folders.
+[2018.10.31-19.54.32:597][494]Display: HotReload took  0.6s.
+[2018.10.31-19.56.46:274][895]LogHotReload: New module detected: UE4Editor-Arcada-2796.dll
+[2018.10.31-19.56.46:956][898]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-19.56.47:100][898]LogClass: EnemySpawnInfo HotReload.
+[2018.10.31-19.56.47:100][898]LogClass: ShootInfo HotReload.
+[2018.10.31-19.56.47:102][898]LogHotReload: Re-instancing ArcadaGameModeBase after hot-reload.
+[2018.10.31-19.56.47:241][898]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0018 seconds. Added 5 classes and 6 folders.
+[2018.10.31-19.56.47:245][898]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-19.56.47:601][898]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2370 classes and 529 folders.
+[2018.10.31-19.56.47:605][898]Display: HotReload took  0.6s.
+[2018.10.31-20.11.42:011][146]LogHotReload: New module detected: UE4Editor-Arcada-5957.dll
+[2018.10.31-20.11.42:582][173]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-20.11.42:744][173]LogClass: EnemySpawnInfo HotReload.
+[2018.10.31-20.11.42:744][173]LogClass: ShootInfo HotReload.
+[2018.10.31-20.11.42:748][173]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 5 classes and 6 folders.
+[2018.10.31-20.11.42:751][173]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-20.11.43:078][173]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2370 classes and 529 folders.
+[2018.10.31-20.11.43:083][173]Display: HotReload took  0.5s.
+[2018.10.31-20.11.54:210][825]Running E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada Win64 Development -editorrecompile "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" -invalidatemakefilesonly
+[2018.10.31-20.11.54:515][825]Invalidating makefiles only in this run.
+[2018.10.31-20.11.54:802][825]Candidate modules for hot reload:
+[2018.10.31-20.11.54:802][825]  Arcada
+[2018.10.31-20.11.54:802][825]Launching UnrealBuildTool... [E:/Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Arcada -ModuleWithSuffix Arcada 2159 Win64 Development -editorrecompile -canskiplink "C:/Users/Servets/Documents/Unreal Projects/Arcada/Arcada.uproject" ]
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: New page: Compilation - 31 Oct 2018 22:12:12
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: Creating makefile for hot reloading Arcada (no existing makefile)
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: Parsing headers for ArcadaEditor
+[2018.10.31-20.12.12:054][825]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Servets\Documents\Unreal Projects\Arcada\Arcada.uproject" "C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\ArcadaEditor\Development\ArcadaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: Reflection code generated for ArcadaEditor in 9.9574372 seconds
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: Arcada.init.gen.cpp
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: BasePawn.cpp
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: BasePawn.gen.cpp
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: [4/5] Link UE4Editor-Arcada-2159.dll
+[2018.10.31-20.12.12:054][825]CompilerResultsLog: [5/5] Link UE4Editor-Arcada-2159.lib
+[2018.10.31-20.12.12:054][825]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-2159.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-2159.exp
+[2018.10.31-20.12.12:055][825]CompilerResultsLog:    Creating library C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-2159.suppressed.lib and object C:\Users\Servets\Documents\Unreal Projects\Arcada\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Arcada-2159.suppressed.exp
+[2018.10.31-20.12.12:055][825]CompilerResultsLog: Total build time: 17.03 seconds (Local executor: 1.62 seconds)
+[2018.10.31-20.12.12:055][825]LogMainFrame: MainFrame: Module compiling took 17.256 seconds
+[2018.10.31-20.12.12:181][825]LogClass: Could not find existing class BasePawn in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-20.12.12:188][825]LogClass: EnemySpawnInfo HotReload.
+[2018.10.31-20.12.12:188][825]LogClass: ShootInfo HotReload.
+[2018.10.31-20.12.12:192][825]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 6 classes and 6 folders.
+[2018.10.31-20.12.12:195][825]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-20.12.12:593][825]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2371 classes and 529 folders.
+[2018.10.31-20.12.12:593][825]Display: HotReload took 18.0s.
+[2018.10.31-20.12.12:594][825]Warning: HotReload operation took 18.0s.
+[2018.10.31-20.12.12:893][825]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Pawns/BasePawn.h'
+[2018.10.31-20.12.13:108][825]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Pawns/BasePawn.cpp'
+[2018.10.31-20.12.13:142][825]LogHotReload: New module detected: UE4Editor-Arcada-2159.dll
+[2018.10.31-20.12.13:194][826]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-20.12.13:343][826]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0017 seconds. Added 6 classes and 6 folders.
+[2018.10.31-20.12.13:346][826]Display: HotReload successful (0 functions remapped  2 scriptstructs remapped)
+[2018.10.31-20.12.13:662][826]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2371 classes and 529 folders.
+[2018.10.31-20.12.13:668][826]Display: HotReload took  0.5s.
+[2018.10.31-20.12.43:339][ 68]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Pawns/BasePawn.h'
+[2018.10.31-20.12.43:494][ 68]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/Pawns/BasePawn.cpp'
+[2018.10.31-20.15.18:308][830]LogHotReload: New module detected: UE4Editor-Arcada-7492.dll
+[2018.10.31-20.15.18:988][833]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-20.15.19:140][833]LogClass: ShootInfo HotReload.
+[2018.10.31-20.15.19:144][833]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0013 seconds. Added 6 classes and 6 folders.
+[2018.10.31-20.15.19:147][833]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-20.15.19:471][833]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2371 classes and 529 folders.
+[2018.10.31-20.15.19:475][833]Display: HotReload took  0.5s.
+[2018.10.31-20.18.53:796][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.BP_EnemyPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.SKEL_BP_EnemyPawn_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.SKEL_BP_EnemyPawn_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.SKEL_BP_EnemyPawn_C' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.BP_EnemyPawn_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.BP_EnemyPawn_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.BP_EnemyPawn_C' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.BP_EnemyPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.BP_EnemyPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:797][572]LogMetaData: Removing '/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn.BP_EnemyPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Pawns/BP_EnemyPawn.PackageMetaData'
+[2018.10.31-20.18.53:830][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset" SILENT=true
+[2018.10.31-20.18.53:845][572]LogSavePackage: Save=13.49ms
+[2018.10.31-20.18.53:845][572]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_EnemyPawn12CD737D41D428556EC844B65B444A0E.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset'
+[2018.10.31-20.18.53:848][572]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset
+[2018.10.31-20.19.52:668][851]BlueprintLog: New page: Compile BP_EnemyPawn
+[2018.10.31-20.20.01:220][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset" SILENT=true
+[2018.10.31-20.20.01:259][334]LogSavePackage: Save=13.77ms
+[2018.10.31-20.20.01:259][334]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_EnemyPawn2A4CA3B048ADAB0DB3593A9506890F09.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset'
+[2018.10.31-20.20.01:262][334]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset
+[2018.10.31-20.20.03:630][476]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-20.20.03:652][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-20.20.03:652][476]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 22:20:03)
+[2018.10.31-20.20.03:652][476]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-20.20.03:654][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001808s)
+[2018.10.31-20.20.03:655][476]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-20.20.03:656][476]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2018.10.31-20.20.03:656][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.003705s)
+[2018.10.31-20.20.03:683][476]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-20.20.03:708][476]LogInit: FAudioDevice initialized.
+[2018.10.31-20.20.03:741][476]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-20.20.03:743][476]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-21.20.03
+[2018.10.31-20.20.03:743][476]LogWorld: Bringing up level for play took: 0.000495
+[2018.10.31-20.20.03:744][476]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.341
+[2018.10.31-20.20.15:919][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-20.20.15:920][200]PIE: New page: SIE session: M_GamePlay (31 Oct 2018 22:20:15)
+[2018.10.31-20.20.15:920][200]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-20.20.15:921][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000836s)
+[2018.10.31-20.20.15:921][200]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-20.20.15:921][200]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2018.10.31-20.20.15:921][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001624s)
+[2018.10.31-20.20.15:945][200]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-20.20.15:968][200]LogInit: FAudioDevice initialized.
+[2018.10.31-20.20.15:997][200]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-20.20.15:999][200]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-21.20.15
+[2018.10.31-20.20.15:999][200]LogWorld: Bringing up level for play took: 0.000444
+[2018.10.31-20.20.16:000][200]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.086
+[2018.10.31-20.20.18:352][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sky)
+[2018.10.31-20.20.27:283][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-20.20.27:283][745]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 22:20:27)
+[2018.10.31-20.20.27:283][745]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-20.20.27:284][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000916s)
+[2018.10.31-20.20.27:285][745]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-20.20.27:285][745]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2018.10.31-20.20.27:285][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001825s)
+[2018.10.31-20.20.27:318][745]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-20.20.27:344][745]LogInit: FAudioDevice initialized.
+[2018.10.31-20.20.27:468][745]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-20.20.27:470][745]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-21.20.27
+[2018.10.31-20.20.27:470][745]LogWorld: Bringing up level for play took: 0.000494
+[2018.10.31-20.20.27:475][745]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.611
+[2018.10.31-20.20.34:731][166]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.31-20.20.34:752][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-20.20.34:752][166]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 22:20:34)
+[2018.10.31-20.20.34:752][166]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-20.20.34:753][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000727s)
+[2018.10.31-20.20.34:754][166]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-20.20.34:754][166]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.10.31-20.20.34:754][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001777s)
+[2018.10.31-20.20.34:779][166]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-20.20.34:804][166]LogInit: FAudioDevice initialized.
+[2018.10.31-20.20.34:888][166]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-20.20.34:889][166]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-21.20.34
+[2018.10.31-20.20.34:889][166]LogWorld: Bringing up level for play took: 0.000604
+[2018.10.31-20.20.34:895][166]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.809
+[2018.10.31-20.20.37:641][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-20.20.37:641][316]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 22:20:37)
+[2018.10.31-20.20.37:641][316]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-20.20.37:642][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000832s)
+[2018.10.31-20.20.37:642][316]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-20.20.37:643][316]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2018.10.31-20.20.37:643][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002149s)
+[2018.10.31-20.20.37:669][316]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-20.20.37:693][316]LogInit: FAudioDevice initialized.
+[2018.10.31-20.20.37:725][316]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-20.20.37:727][316]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-21.20.37
+[2018.10.31-20.20.37:727][316]LogWorld: Bringing up level for play took: 0.000574
+[2018.10.31-20.20.37:728][316]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.357
+[2018.10.31-20.21.11:000][951]BlueprintLog: New page: Compile BP_EnemyPawn
+[2018.10.31-20.21.11:960][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset" SILENT=true
+[2018.10.31-20.21.11:983][977]LogSavePackage: Save=18.54ms
+[2018.10.31-20.21.11:983][977]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_EnemyPawn898F547E4F244F36B2B3CA86DC10DF1F.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset'
+[2018.10.31-20.21.11:986][977]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset
+[2018.10.31-20.21.15:625][193]BlueprintLog: New page: Compile BP_EnemyPawn
+[2018.10.31-20.21.16:357][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/Enemies/BP_EnemyPawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset" SILENT=true
+[2018.10.31-20.21.16:375][205]LogSavePackage: Save=13.61ms
+[2018.10.31-20.21.16:375][205]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_EnemyPawn8E3130A4479238147A84C1BA4EF135B5.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset'
+[2018.10.31-20.21.16:379][205]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/Enemies/BP_EnemyPawn.uasset
+[2018.10.31-20.22.43:651][482]LogHotReload: New module detected: UE4Editor-Arcada-1560.dll
+[2018.10.31-20.22.44:668][486]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-20.22.44:792][486]LogClass: Could not find existing class EnemysSpawnController in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-20.22.44:797][486]LogClass: EnemySpawnInfo HotReload.
+[2018.10.31-20.22.44:797][486]LogClass: ShootInfo HotReload.
+[2018.10.31-20.22.44:799][486]LogHotReload: Re-instancing ArcadaGameModeBase after hot-reload.
+[2018.10.31-20.22.44:802][486]LogClass: Warning: Property SpawnStages of SpawnStages has a struct type mismatch (tag HOTRELOADED_EnemySpawnInfo_2 != prop EnemySpawnInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.10.31-20.22.44:933][486]LogHotReload: Re-instancing EnemysSpawnController after hot-reload.
+[2018.10.31-20.22.45:089][486]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0022 seconds. Added 6 classes and 6 folders.
+[2018.10.31-20.22.45:096][486]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-20.22.45:486][486]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2371 classes and 529 folders.
+[2018.10.31-20.22.45:489][486]Display: HotReload took  0.8s.
+[2018.10.31-20.23.32:043][651]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/ArcadaGameModeBase.h'
+[2018.10.31-20.23.32:146][651]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Source/Arcada/ArcadaGameModeBase.cpp'
+[2018.10.31-20.35.18:746][911]LogHotReload: New module detected: UE4Editor-Arcada-4929.dll
+[2018.10.31-20.35.19:429][914]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-20.35.19:572][914]LogClass: Could not find existing class EnemysSpawnController in package /Script/Arcada for HotReload, assuming new class
+[2018.10.31-20.35.19:578][914]LogClass: EnemySpawnInfo HotReload.
+[2018.10.31-20.35.19:578][914]LogClass: ShootInfo HotReload.
+[2018.10.31-20.35.19:580][914]LogHotReload: Re-instancing ArcadaGameModeBase after hot-reload.
+[2018.10.31-20.35.20:083][914]LogHotReload: Re-instancing EnemysSpawnController after hot-reload.
+[2018.10.31-20.35.20:278][914]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0020 seconds. Added 6 classes and 6 folders.
+[2018.10.31-20.35.20:284][914]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-20.35.20:630][914]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2371 classes and 529 folders.
+[2018.10.31-20.35.20:634][914]Display: HotReload took  1.2s.
+[2018.10.31-20.35.29:600][351]BlueprintLog: New page: Compile BP_MyArcadaGameMode
+[2018.10.31-20.35.30:363][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MyArcadaGameMode" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/BP_MyArcadaGameMode.uasset" SILENT=true
+[2018.10.31-20.35.30:387][370]LogSavePackage: Save=11.15ms
+[2018.10.31-20.35.30:387][370]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_MyArcadaGameMode076B572F46B1F96C03C9A38068E30E9A.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/BP_MyArcadaGameMode.uasset'
+[2018.10.31-20.35.30:390][370]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/BP_MyArcadaGameMode.uasset
+[2018.10.31-20.45.33:103][128]LogHotReload: New module detected: UE4Editor-Arcada-2869.dll
+[2018.10.31-20.45.33:802][131]LogHotReload: Starting Hot-Reload from IDE
+[2018.10.31-20.45.33:942][131]LogClass: EnemySpawnInfo HotReload.
+[2018.10.31-20.45.33:942][131]LogClass: ShootInfo HotReload.
+[2018.10.31-20.45.33:947][131]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 6 classes and 6 folders.
+[2018.10.31-20.45.33:951][131]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.10.31-20.45.34:411][131]LogContentBrowser: Native class hierarchy populated in 0.0194 seconds. Added 2371 classes and 529 folders.
+[2018.10.31-20.45.34:415][131]Display: HotReload took  0.6s.
+[2018.10.31-20.48.37:223][738]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-20.48.37:269][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-20.48.37:269][738]PIE: New page: PIE session: M_GamePlay (31 Oct 2018 22:48:37)
+[2018.10.31-20.48.37:269][738]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.10.31-20.48.37:271][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001145s)
+[2018.10.31-20.48.37:271][738]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.10.31-20.48.37:272][738]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.10.31-20.48.37:272][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002568s)
+[2018.10.31-20.48.37:339][738]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-20.48.37:364][738]LogInit: FAudioDevice initialized.
+[2018.10.31-20.48.37:397][738]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.10.31-20.48.37:399][738]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.10.31-21.48.37
+[2018.10.31-20.48.37:399][738]LogWorld: Bringing up level for play took: 0.000488
+[2018.10.31-20.48.37:400][738]LogWindows: Windows GetLastError: The operation completed successfully. (0)

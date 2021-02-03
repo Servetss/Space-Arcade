@@ -1,0 +1,972 @@
+﻿Log file open, 11/01/18 20:34:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Arcada
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(673434057) SRandInit(673434057).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.194897
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file C:/Users/Servets/Documents/Unreal Projects/Arcada/Binaries/Win64/UE4Editor-Arcada-4289.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: E:/Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.01-19.34.45:232][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.01-19.34.45:232][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.01-19.34.45:243][  0]LogInit: Computer: DESKTOP-C8BO9BR
+[2018.11.01-19.34.45:243][  0]LogInit: User: Servets
+[2018.11.01-19.34.45:243][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.01-19.34.45:243][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.11.01-19.34.45:243][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.01-19.34.45:243][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.01-19.34.45:243][  0]LogMemory: Process Physical Memory: 272.13 MB used, 272.13 MB peak
+[2018.11.01-19.34.45:243][  0]LogMemory: Process Virtual Memory: 270.10 MB used, 270.10 MB peak
+[2018.11.01-19.34.45:243][  0]LogMemory: Physical Memory: 6299.06 MB used,  9966.02 MB free, 16265.08 MB total
+[2018.11.01-19.34.45:243][  0]LogMemory: Virtual Memory: 4779.89 MB used,  9966.02 MB free, 134217728.00 MB total
+[2018.11.01-19.34.45:753][  0]LogInit: Using OS detected language (en-GB).
+[2018.11.01-19.34.45:754][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.01-19.34.45:757][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.11.01-19.34.46:130][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.01-19.34.46:436][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.01-19.34.46:708][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.11.01-19.34.46:708][  0]LogD3D11RHI:       4065/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.01-19.34.46:716][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.01-19.34.46:716][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.01-19.34.46:718][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.01-19.34.46:718][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.01-19.34.46:718][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.01-19.34.46:738][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.01-19.34.46:738][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.11.01-19.34.46:738][  0]LogWindows: EnumDisplayDevices:
+[2018.11.01-19.34.46:738][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.01-19.34.46:738][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.01-19.34.46:739][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.01-19.34.46:739][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.01-19.34.46:739][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.11.01-19.34.46:739][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.01-19.34.46:739][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.01-19.34.46:739][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.11.01-19.34.46:765][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.01-19.34.46:777][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.01-19.34.46:778][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Servets/Documents/Unreal Projects/Arcada/Intermediate/Shaders/WorkingDirectory/9992/).
+[2018.11.01-19.34.46:778][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Servets/AppData/Local/Temp/UnrealShaderWorkingDir/BB7E7D36479B20DE3B85708A09AEADF7/'.
+[2018.11.01-19.34.46:778][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.01-19.34.47:650][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.01-19.34.47:698][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.01-19.34.47:747][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.01-19.34.47:801][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.01-19.34.47:858][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.01-19.34.47:913][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.01-19.34.47:968][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.01-19.34.48:015][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.01-19.34.48:055][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.01-19.34.48:104][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.01-19.34.48:152][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.01-19.34.48:204][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.01-19.34.48:249][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.01-19.34.48:296][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.01-19.34.48:387][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.01-19.34.48:387][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.01-19.34.48:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.01-19.34.48:480][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.01-19.34.48:578][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.01-19.34.48:603][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.01-19.34.48:648][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.01-19.34.48:694][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.01-19.34.48:740][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.01-19.34.48:790][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.01-19.34.48:790][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.01-19.34.49:254][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.01-19.34.49:321][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.01-19.34.49:321][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.01-19.34.49:322][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Servets/Documents/Unreal Projects/Arcada/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.01-19.34.49:322][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.01-19.34.49:322][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Servets/Documents/Unreal Projects/Arcada/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.01-19.34.49:322][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.01-19.34.49:337][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.01-19.34.49:349][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Servets/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.01-19.34.49:358][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.01-19.34.49:359][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.01-19.34.49:359][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.01-19.34.49:359][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.01-19.34.49:703][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.01-19.34.50:033][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.01-19.34.50:076][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.01-19.34.50:076][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.01-19.34.50:076][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.01-19.34.50:076][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.01-19.34.50:076][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.01-19.34.50:103][  0]LogNetVersion: Arcada , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2674010682)
+[2018.11.01-19.34.50:262][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.11.01-19.34.50:755][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.062914 seconds
+[2018.11.01-19.34.50:760][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.11.01-19.34.50:761][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.11.01-19.34.50:761][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.01-19.34.50:806][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.01-19.34.53:449][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.01-19.34.53:489][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.01-19.34.54:249][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.01-19.34.54:661][  0]SourceControl: Source control is disabled
+[2018.11.01-19.34.54:661][  0]SourceControl: Source control is disabled
+[2018.11.01-19.34.54:711][  0]SourceControl: Source control is disabled
+[2018.11.01-19.34.54:774][  0]SourceControl: Source control is disabled
+[2018.11.01-19.34.55:615][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.01-19.34.55:904][  0]LogOcInput: OculusInput pre-init called
+[2018.11.01-19.34.56:199][  0]LogEngine: Initializing Engine...
+[2018.11.01-19.34.56:201][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.01-19.34.56:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.01-19.34.56:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.01-19.34.56:535][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.01-19.34.56:547][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-19.34.56:623][  0]LogInit: FAudioDevice initialized.
+[2018.11.01-19.34.56:696][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/Servets/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.01-19.34.56:709][  0]LogInit: Texture streaming: Enabled
+[2018.11.01-19.34.56:813][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.01-19.34.56:813][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={6F028887-4294-89FA-71FD-4EBA39AAFC44}
+[2018.11.01-19.34.56:953][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.01-19.34.56:985][  0]LogInit: Transaction tracking system initialized
+[2018.11.01-19.34.57:302][  0]BlueprintLog: New page: Editor Load
+[2018.11.01-19.34.58:253][  0]LocalizationService: Localization service is disabled
+[2018.11.01-19.34.59:344][  0]LogConsoleResponse: Display: 
+[2018.11.01-19.34.59:534][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.01-19.34.59:534][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.01-19.34.59:534][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.01-19.35.00:027][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/' took 0.02s
+[2018.11.01-19.35.00:301][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.11.01-19.35.00:301][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.11.01-19.35.00:301][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2018.11.01-19.35.00:849][  0]SourceControl: Source control is disabled
+[2018.11.01-19.35.00:849][  0]Cmd: MAP LOAD FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/StarterContent/Maps/M_GamePlay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.01-19.35.00:850][  0]LightingResults: New page: Lighting Build
+[2018.11.01-19.35.00:904][  0]MapCheck: New page: Map Check
+[2018.11.01-19.35.00:904][  0]LightingResults: New page: Lighting Build
+[2018.11.01-19.35.00:925][  0]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-19.35.00:930][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.01-19.35.00:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.01-19.35.00:981][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.775ms to complete.
+[2018.11.01-19.35.00:981][  0]LogFileHelpers: Loading map 'M_GamePlay' took 0.132
+[2018.11.01-19.35.01:115][  0]LogCollectionManager: Loaded 0 collections in 0.001186 seconds
+[2018.11.01-19.35.01:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/Collections/' took 0.01s
+[2018.11.01-19.35.01:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Developers/Servets/Collections/' took 0.01s
+[2018.11.01-19.35.01:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Collections/' took 0.01s
+[2018.11.01-19.35.01:196][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.01-19.35.01:209][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2369 classes and 525 folders.
+[2018.11.01-19.35.01:277][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.11.01-19.35.01:318][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.11.01-19.35.01:406][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2018.11.01-19.35.01:491][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.01-19.35.01:494][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.01-19.35.01:496][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.01-19.35.01:612][  0]LogRenderer: Reallocating scene render targets to support 860x720 Format 9 NumSamples 1 (Frame:1).
+[2018.11.01-19.35.01:818][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.11.01-19.35.01:818][  0]LogLoad: (Engine Initialization) Total time: 19.41 seconds
+[2018.11.01-19.35.01:818][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.01-19.35.01:818][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.01-19.35.01:854][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.11.01-19.35.01:876][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.01-19.35.01:907][  1]LogAssetRegistry: Asset discovery search completed in 11.6676 seconds
+[2018.11.01-19.35.01:908][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.01-19.35.01:909][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.11.01-19.35.02:846][ 45]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.01-19.35.12:726][636]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.01-19.35.13:097][636]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2018.11.01-19.35.13:698][636]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.01-19.35.13:765][636]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.01-19.35.13:815][637]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.01-19.35.20:929][ 57]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.11.01-19.35.20:929][ 57]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.11.01-19.35.20:930][ 57]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.11.01-19.35.20:930][ 57]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.11.01-19.35.25:566][332]BlueprintLog: New page: Compile BP_BasePawn
+[2018.11.01-19.35.26:335][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BasePawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset" SILENT=true
+[2018.11.01-19.35.26:373][352]LogSavePackage: Save=29.58ms
+[2018.11.01-19.35.26:373][352]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_BasePawn3D1132714FAA57B1CDBBD2B2A93565CD.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset'
+[2018.11.01-19.35.26:377][352]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset
+[2018.11.01-19.35.28:074][454]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.01-19.35.28:119][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.01-19.35.28:119][454]PIE: New page: PIE session: M_GamePlay (1 Nov 2018 21:35:28)
+[2018.11.01-19.35.28:119][454]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.11.01-19.35.28:120][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000902s)
+[2018.11.01-19.35.28:121][454]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-19.35.28:121][454]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2018.11.01-19.35.28:121][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.001794s)
+[2018.11.01-19.35.28:142][454]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-19.35.28:166][454]LogInit: FAudioDevice initialized.
+[2018.11.01-19.35.28:278][454]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.11.01-19.35.28:280][454]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.11.01-20.35.28
+[2018.11.01-19.35.28:280][454]LogWorld: Bringing up level for play took: 0.000634
+[2018.11.01-19.35.28:325][454]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2018.11.01-19.35.28:329][454]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay 0.244
+[2018.11.01-19.35.28:479][456]LogTemp: OVERLAP
+[2018.11.01-19.35.28:711][469]LogTemp: OVERLAP
+[2018.11.01-19.35.28:928][482]LogTemp: OVERLAP
+[2018.11.01-19.35.29:094][492]LogTemp: OVERLAP
+[2018.11.01-19.35.29:094][492]LogTemp: OVERLAP
+[2018.11.01-19.35.29:110][493]LogTemp: OVERLAP
+[2018.11.01-19.35.29:194][498]LogTemp: OVERLAP
+[2018.11.01-19.35.29:544][519]LogTemp: OVERLAP
+[2018.11.01-19.35.30:094][552]LogTemp: OVERLAP
+[2018.11.01-19.35.30:095][552]LogTemp: OVERLAP
+[2018.11.01-19.35.30:111][553]LogTemp: OVERLAP
+[2018.11.01-19.35.30:112][553]LogTemp: OVERLAP
+[2018.11.01-19.35.30:161][556]LogTemp: OVERLAP
+[2018.11.01-19.35.31:095][593]LogTemp: OVERLAP
+[2018.11.01-19.35.31:095][593]LogTemp: OVERLAP
+[2018.11.01-19.35.31:095][593]LogTemp: OVERLAP
+[2018.11.01-19.35.31:111][594]LogTemp: OVERLAP
+[2018.11.01-19.35.31:160][597]LogTemp: OVERLAP
+[2018.11.01-19.35.31:244][602]LogTemp: OVERLAP
+[2018.11.01-19.35.31:378][610]LogTemp: OVERLAP
+[2018.11.01-19.35.31:395][611]LogTemp: OVERLAP
+[2018.11.01-19.35.34:898][818]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.01-19.35.35:333][841]LogTemp: OVERLAP
+[2018.11.01-19.35.35:334][841]LogTemp: OVERLAP
+[2018.11.01-19.35.35:334][841]LogTemp: OVERLAP
+[2018.11.01-19.35.35:334][841]LogTemp: OVERLAP
+[2018.11.01-19.35.35:350][842]LogTemp: OVERLAP
+[2018.11.01-19.35.35:350][842]LogTemp: OVERLAP
+[2018.11.01-19.35.35:400][845]LogTemp: OVERLAP
+[2018.11.01-19.35.35:416][846]LogTemp: OVERLAP
+[2018.11.01-19.35.35:483][850]LogTemp: OVERLAP
+[2018.11.01-19.35.35:483][850]LogTemp: OVERLAP
+[2018.11.01-19.35.35:617][858]LogTemp: OVERLAP
+[2018.11.01-19.35.35:633][859]LogTemp: OVERLAP
+[2018.11.01-19.35.35:633][859]LogTemp: OVERLAP
+[2018.11.01-19.35.35:766][867]LogTemp: OVERLAP
+[2018.11.01-19.35.35:783][868]LogTemp: OVERLAP
+[2018.11.01-19.35.38:050][  2]LogTemp: OVERLAP
+[2018.11.01-19.35.38:050][  2]LogTemp: OVERLAP
+[2018.11.01-19.35.38:050][  2]LogTemp: OVERLAP
+[2018.11.01-19.35.38:050][  2]LogTemp: OVERLAP
+[2018.11.01-19.35.38:050][  2]LogTemp: OVERLAP
+[2018.11.01-19.35.38:067][  3]LogTemp: OVERLAP
+[2018.11.01-19.35.38:067][  3]LogTemp: OVERLAP
+[2018.11.01-19.35.38:067][  3]LogTemp: OVERLAP
+[2018.11.01-19.35.38:117][  6]LogTemp: OVERLAP
+[2018.11.01-19.35.38:134][  7]LogTemp: OVERLAP
+[2018.11.01-19.35.38:200][ 11]LogTemp: OVERLAP
+[2018.11.01-19.35.38:200][ 11]LogTemp: OVERLAP
+[2018.11.01-19.35.38:333][ 19]LogTemp: OVERLAP
+[2018.11.01-19.35.38:350][ 20]LogTemp: OVERLAP
+[2018.11.01-19.35.38:350][ 20]LogTemp: OVERLAP
+[2018.11.01-19.35.38:350][ 20]LogTemp: OVERLAP
+[2018.11.01-19.35.38:483][ 28]LogTemp: OVERLAP
+[2018.11.01-19.35.38:499][ 29]LogTemp: OVERLAP
+[2018.11.01-19.35.38:566][ 33]LogTemp: OVERLAP
+[2018.11.01-19.35.38:700][ 41]LogTemp: OVERLAP
+[2018.11.01-19.35.38:783][ 46]LogTemp: OVERLAP
+[2018.11.01-19.35.39:053][ 62]LogTemp: OVERLAP
+[2018.11.01-19.35.39:054][ 62]LogTemp: OVERLAP
+[2018.11.01-19.35.39:054][ 62]LogTemp: OVERLAP
+[2018.11.01-19.35.39:054][ 62]LogTemp: OVERLAP
+[2018.11.01-19.35.39:071][ 63]LogTemp: OVERLAP
+[2018.11.01-19.35.39:071][ 63]LogTemp: OVERLAP
+[2018.11.01-19.35.39:071][ 63]LogTemp: OVERLAP
+[2018.11.01-19.35.39:071][ 63]LogTemp: OVERLAP
+[2018.11.01-19.35.39:120][ 66]LogTemp: OVERLAP
+[2018.11.01-19.35.39:137][ 67]LogTemp: OVERLAP
+[2018.11.01-19.35.39:187][ 70]LogTemp: OVERLAP
+[2018.11.01-19.35.39:203][ 71]LogTemp: OVERLAP
+[2018.11.01-19.35.39:203][ 71]LogTemp: OVERLAP
+[2018.11.01-19.35.39:220][ 72]LogTemp: OVERLAP
+[2018.11.01-19.35.39:286][ 76]LogTemp: OVERLAP
+[2018.11.01-19.35.39:337][ 79]LogTemp: OVERLAP
+[2018.11.01-19.35.39:337][ 79]LogTemp: OVERLAP
+[2018.11.01-19.35.39:354][ 80]LogTemp: OVERLAP
+[2018.11.01-19.35.39:437][ 85]LogTemp: OVERLAP
+[2018.11.01-19.35.39:487][ 88]LogTemp: OVERLAP
+[2018.11.01-19.35.39:553][ 92]LogTemp: OVERLAP
+[2018.11.01-19.35.39:570][ 93]LogTemp: OVERLAP
+[2018.11.01-19.35.39:704][101]LogTemp: OVERLAP
+[2018.11.01-19.35.40:095][105]LogTemp: OVERLAP
+[2018.11.01-19.35.41:095][108]LogTemp: OVERLAP
+[2018.11.01-19.35.42:035][142]LogTemp: OVERLAP
+[2018.11.01-19.35.42:052][143]LogTemp: OVERLAP
+[2018.11.01-19.35.42:052][143]LogTemp: OVERLAP
+[2018.11.01-19.35.42:052][143]LogTemp: OVERLAP
+[2018.11.01-19.35.42:052][143]LogTemp: OVERLAP
+[2018.11.01-19.35.42:052][143]LogTemp: OVERLAP
+[2018.11.01-19.35.42:068][144]LogTemp: OVERLAP
+[2018.11.01-19.35.42:069][144]LogTemp: OVERLAP
+[2018.11.01-19.35.42:069][144]LogTemp: OVERLAP
+[2018.11.01-19.35.42:084][145]LogTemp: OVERLAP
+[2018.11.01-19.35.42:118][147]LogTemp: OVERLAP
+[2018.11.01-19.35.42:118][147]LogTemp: OVERLAP
+[2018.11.01-19.35.42:118][147]LogTemp: OVERLAP
+[2018.11.01-19.35.42:134][148]LogTemp: OVERLAP
+[2018.11.01-19.35.42:134][148]LogTemp: OVERLAP
+[2018.11.01-19.35.42:135][148]LogTemp: OVERLAP
+[2018.11.01-19.35.42:201][152]LogTemp: OVERLAP
+[2018.11.01-19.35.42:201][152]LogTemp: OVERLAP
+[2018.11.01-19.35.42:201][152]LogTemp: OVERLAP
+[2018.11.01-19.35.42:218][153]LogTemp: OVERLAP
+[2018.11.01-19.35.42:335][160]LogTemp: OVERLAP
+[2018.11.01-19.35.42:352][161]LogTemp: OVERLAP
+[2018.11.01-19.35.42:352][161]LogTemp: OVERLAP
+[2018.11.01-19.35.42:352][161]LogTemp: OVERLAP
+[2018.11.01-19.35.42:484][169]LogTemp: OVERLAP
+[2018.11.01-19.35.42:501][170]LogTemp: OVERLAP
+[2018.11.01-19.35.42:568][174]LogTemp: OVERLAP
+[2018.11.01-19.35.42:701][182]LogTemp: OVERLAP
+[2018.11.01-19.35.42:785][187]LogTemp: OVERLAP
+[2018.11.01-19.35.43:034][202]LogTemp: OVERLAP
+[2018.11.01-19.35.43:051][203]LogTemp: OVERLAP
+[2018.11.01-19.35.43:051][203]LogTemp: OVERLAP
+[2018.11.01-19.35.43:051][203]LogTemp: OVERLAP
+[2018.11.01-19.35.43:052][203]LogTemp: OVERLAP
+[2018.11.01-19.35.43:068][204]LogTemp: OVERLAP
+[2018.11.01-19.35.43:069][204]LogTemp: OVERLAP
+[2018.11.01-19.35.43:069][204]LogTemp: OVERLAP
+[2018.11.01-19.35.43:069][204]LogTemp: OVERLAP
+[2018.11.01-19.35.43:069][204]LogTemp: OVERLAP
+[2018.11.01-19.35.43:119][207]LogTemp: OVERLAP
+[2018.11.01-19.35.43:119][207]LogTemp: OVERLAP
+[2018.11.01-19.35.43:119][207]LogTemp: OVERLAP
+[2018.11.01-19.35.43:120][207]LogTemp: OVERLAP
+[2018.11.01-19.35.43:135][208]LogTemp: OVERLAP
+[2018.11.01-19.35.43:135][208]LogTemp: OVERLAP
+[2018.11.01-19.35.43:202][212]LogTemp: OVERLAP
+[2018.11.01-19.35.43:202][212]LogTemp: OVERLAP
+[2018.11.01-19.35.43:203][212]LogTemp: OVERLAP
+[2018.11.01-19.35.43:218][213]LogTemp: OVERLAP
+[2018.11.01-19.35.43:334][220]LogTemp: OVERLAP
+[2018.11.01-19.35.43:351][221]LogTemp: OVERLAP
+[2018.11.01-19.35.43:351][221]LogTemp: OVERLAP
+[2018.11.01-19.35.43:351][221]LogTemp: OVERLAP
+[2018.11.01-19.35.43:368][222]LogTemp: OVERLAP
+[2018.11.01-19.35.43:485][229]LogTemp: OVERLAP
+[2018.11.01-19.35.43:502][230]LogTemp: OVERLAP
+[2018.11.01-19.35.43:561][233]LogTemp: OVERLAP
+[2018.11.01-19.35.43:693][241]LogTemp: OVERLAP
+[2018.11.01-19.35.44:043][262]LogTemp: OVERLAP
+[2018.11.01-19.35.44:044][262]LogTemp: OVERLAP
+[2018.11.01-19.35.44:044][262]LogTemp: OVERLAP
+[2018.11.01-19.35.44:044][262]LogTemp: OVERLAP
+[2018.11.01-19.35.44:060][263]LogTemp: OVERLAP
+[2018.11.01-19.35.44:060][263]LogTemp: OVERLAP
+[2018.11.01-19.35.44:061][263]LogTemp: OVERLAP
+[2018.11.01-19.35.44:061][263]LogTemp: OVERLAP
+[2018.11.01-19.35.44:077][264]LogTemp: OVERLAP
+[2018.11.01-19.35.44:110][266]LogTemp: OVERLAP
+[2018.11.01-19.35.44:110][266]LogTemp: OVERLAP
+[2018.11.01-19.35.44:111][266]LogTemp: OVERLAP
+[2018.11.01-19.35.44:127][267]LogTemp: OVERLAP
+[2018.11.01-19.35.44:127][267]LogTemp: OVERLAP
+[2018.11.01-19.35.44:127][267]LogTemp: OVERLAP
+[2018.11.01-19.35.44:194][271]LogTemp: OVERLAP
+[2018.11.01-19.35.44:194][271]LogTemp: OVERLAP
+[2018.11.01-19.35.44:194][271]LogTemp: OVERLAP
+[2018.11.01-19.35.44:194][271]LogTemp: OVERLAP
+[2018.11.01-19.35.44:210][272]LogTemp: OVERLAP
+[2018.11.01-19.35.44:211][272]LogTemp: OVERLAP
+[2018.11.01-19.35.44:211][272]LogTemp: OVERLAP
+[2018.11.01-19.35.44:277][276]LogTemp: OVERLAP
+[2018.11.01-19.35.44:327][279]LogTemp: OVERLAP
+[2018.11.01-19.35.44:343][280]LogTemp: OVERLAP
+[2018.11.01-19.35.44:343][280]LogTemp: OVERLAP
+[2018.11.01-19.35.44:343][280]LogTemp: OVERLAP
+[2018.11.01-19.35.44:360][281]LogTemp: OVERLAP
+[2018.11.01-19.35.44:377][282]LogTemp: OVERLAP
+[2018.11.01-19.35.44:427][285]LogTemp: OVERLAP
+[2018.11.01-19.35.44:477][288]LogTemp: OVERLAP
+[2018.11.01-19.35.44:494][289]LogTemp: OVERLAP
+[2018.11.01-19.35.44:560][293]LogTemp: OVERLAP
+[2018.11.01-19.35.44:577][294]LogTemp: OVERLAP
+[2018.11.01-19.35.44:594][295]LogTemp: OVERLAP
+[2018.11.01-19.35.44:677][300]LogTemp: OVERLAP
+[2018.11.01-19.35.44:710][302]LogTemp: OVERLAP
+[2018.11.01-19.35.45:044][322]LogTemp: OVERLAP
+[2018.11.01-19.35.45:044][322]LogTemp: OVERLAP
+[2018.11.01-19.35.45:044][322]LogTemp: OVERLAP
+[2018.11.01-19.35.45:044][322]LogTemp: OVERLAP
+[2018.11.01-19.35.45:060][323]LogTemp: OVERLAP
+[2018.11.01-19.35.45:061][323]LogTemp: OVERLAP
+[2018.11.01-19.35.45:061][323]LogTemp: OVERLAP
+[2018.11.01-19.35.45:061][323]LogTemp: OVERLAP
+[2018.11.01-19.35.45:061][323]LogTemp: OVERLAP
+[2018.11.01-19.35.45:061][323]LogTemp: OVERLAP
+[2018.11.01-19.35.45:111][326]LogTemp: OVERLAP
+[2018.11.01-19.35.45:111][326]LogTemp: OVERLAP
+[2018.11.01-19.35.45:111][326]LogTemp: OVERLAP
+[2018.11.01-19.35.45:127][327]LogTemp: OVERLAP
+[2018.11.01-19.35.45:128][327]LogTemp: OVERLAP
+[2018.11.01-19.35.45:128][327]LogTemp: OVERLAP
+[2018.11.01-19.35.45:128][327]LogTemp: OVERLAP
+[2018.11.01-19.35.45:128][327]LogTemp: OVERLAP
+[2018.11.01-19.35.45:143][328]LogTemp: OVERLAP
+[2018.11.01-19.35.45:194][331]LogTemp: OVERLAP
+[2018.11.01-19.35.45:210][332]LogTemp: OVERLAP
+[2018.11.01-19.35.45:211][332]LogTemp: OVERLAP
+[2018.11.01-19.35.45:211][332]LogTemp: OVERLAP
+[2018.11.01-19.35.45:277][336]LogTemp: OVERLAP
+[2018.11.01-19.35.45:278][336]LogTemp: OVERLAP
+[2018.11.01-19.35.45:278][336]LogTemp: OVERLAP
+[2018.11.01-19.35.45:327][339]LogTemp: OVERLAP
+[2018.11.01-19.35.45:344][340]LogTemp: OVERLAP
+[2018.11.01-19.35.45:344][340]LogTemp: OVERLAP
+[2018.11.01-19.35.45:361][341]LogTemp: OVERLAP
+[2018.11.01-19.35.45:361][341]LogTemp: OVERLAP
+[2018.11.01-19.35.45:377][342]LogTemp: OVERLAP
+[2018.11.01-19.35.45:427][345]LogTemp: OVERLAP
+[2018.11.01-19.35.45:478][348]LogTemp: OVERLAP
+[2018.11.01-19.35.45:494][349]LogTemp: OVERLAP
+[2018.11.01-19.35.45:495][349]LogTemp: OVERLAP
+[2018.11.01-19.35.45:577][354]LogTemp: OVERLAP
+[2018.11.01-19.35.45:594][355]LogTemp: OVERLAP
+[2018.11.01-19.35.45:644][358]LogTemp: OVERLAP
+[2018.11.01-19.35.45:661][359]LogTemp: OVERLAP
+[2018.11.01-19.35.45:711][362]LogTemp: OVERLAP
+[2018.11.01-19.35.45:794][367]LogTemp: OVERLAP
+[2018.11.01-19.35.45:811][368]LogTemp: OVERLAP
+[2018.11.01-19.35.46:044][382]LogTemp: OVERLAP
+[2018.11.01-19.35.46:044][382]LogTemp: OVERLAP
+[2018.11.01-19.35.46:045][382]LogTemp: OVERLAP
+[2018.11.01-19.35.46:045][382]LogTemp: OVERLAP
+[2018.11.01-19.35.46:061][383]LogTemp: OVERLAP
+[2018.11.01-19.35.46:061][383]LogTemp: OVERLAP
+[2018.11.01-19.35.46:061][383]LogTemp: OVERLAP
+[2018.11.01-19.35.46:061][383]LogTemp: OVERLAP
+[2018.11.01-19.35.46:062][383]LogTemp: OVERLAP
+[2018.11.01-19.35.46:110][386]LogTemp: OVERLAP
+[2018.11.01-19.35.46:111][386]LogTemp: OVERLAP
+[2018.11.01-19.35.46:111][386]LogTemp: OVERLAP
+[2018.11.01-19.35.46:127][387]LogTemp: OVERLAP
+[2018.11.01-19.35.46:127][387]LogTemp: OVERLAP
+[2018.11.01-19.35.46:127][387]LogTemp: OVERLAP
+[2018.11.01-19.35.46:127][387]LogTemp: OVERLAP
+[2018.11.01-19.35.46:128][387]LogTemp: OVERLAP
+[2018.11.01-19.35.46:144][388]LogTemp: OVERLAP
+[2018.11.01-19.35.46:160][389]LogTemp: OVERLAP
+[2018.11.01-19.35.46:194][391]LogTemp: OVERLAP
+[2018.11.01-19.35.46:194][391]LogTemp: OVERLAP
+[2018.11.01-19.35.46:210][392]LogTemp: OVERLAP
+[2018.11.01-19.35.46:211][392]LogTemp: OVERLAP
+[2018.11.01-19.35.46:211][392]LogTemp: OVERLAP
+[2018.11.01-19.35.46:277][396]LogTemp: OVERLAP
+[2018.11.01-19.35.46:278][396]LogTemp: OVERLAP
+[2018.11.01-19.35.46:278][396]LogTemp: OVERLAP
+[2018.11.01-19.35.46:278][396]LogTemp: OVERLAP
+[2018.11.01-19.35.46:328][399]LogTemp: OVERLAP
+[2018.11.01-19.35.46:344][400]LogTemp: OVERLAP
+[2018.11.01-19.35.46:344][400]LogTemp: OVERLAP
+[2018.11.01-19.35.46:345][400]LogTemp: OVERLAP
+[2018.11.01-19.35.46:361][401]LogTemp: OVERLAP
+[2018.11.01-19.35.46:361][401]LogTemp: OVERLAP
+[2018.11.01-19.35.46:378][402]LogTemp: OVERLAP
+[2018.11.01-19.35.46:428][405]LogTemp: OVERLAP
+[2018.11.01-19.35.46:477][408]LogTemp: OVERLAP
+[2018.11.01-19.35.46:494][409]LogTemp: OVERLAP
+[2018.11.01-19.35.46:494][409]LogTemp: OVERLAP
+[2018.11.01-19.35.46:495][409]LogTemp: OVERLAP
+[2018.11.01-19.35.46:544][412]LogTemp: OVERLAP
+[2018.11.01-19.35.46:578][414]LogTemp: OVERLAP
+[2018.11.01-19.35.46:594][415]LogTemp: OVERLAP
+[2018.11.01-19.35.46:644][418]LogTemp: OVERLAP
+[2018.11.01-19.35.46:677][420]LogTemp: OVERLAP
+[2018.11.01-19.35.46:711][422]LogTemp: OVERLAP
+[2018.11.01-19.35.46:711][422]LogTemp: OVERLAP
+[2018.11.01-19.35.46:728][423]LogTemp: OVERLAP
+[2018.11.01-19.35.46:794][427]LogTemp: OVERLAP
+[2018.11.01-19.35.46:811][428]LogTemp: OVERLAP
+[2018.11.01-19.35.46:860][431]LogTemp: OVERLAP
+[2018.11.01-19.35.46:877][432]LogTemp: OVERLAP
+[2018.11.01-19.35.46:877][432]LogTemp: OVERLAP
+[2018.11.01-19.35.47:027][441]LogTemp: OVERLAP
+[2018.11.01-19.35.47:044][442]LogTemp: OVERLAP
+[2018.11.01-19.35.47:045][442]LogTemp: OVERLAP
+[2018.11.01-19.35.47:045][442]LogTemp: OVERLAP
+[2018.11.01-19.35.47:045][442]LogTemp: OVERLAP
+[2018.11.01-19.35.47:061][443]LogTemp: OVERLAP
+[2018.11.01-19.35.47:061][443]LogTemp: OVERLAP
+[2018.11.01-19.35.47:061][443]LogTemp: OVERLAP
+[2018.11.01-19.35.47:061][443]LogTemp: OVERLAP
+[2018.11.01-19.35.47:061][443]LogTemp: OVERLAP
+[2018.11.01-19.35.47:062][443]LogTemp: OVERLAP
+[2018.11.01-19.35.47:062][443]LogTemp: OVERLAP
+[2018.11.01-19.35.47:078][444]LogTemp: OVERLAP
+[2018.11.01-19.35.47:111][446]LogTemp: OVERLAP
+[2018.11.01-19.35.47:111][446]LogTemp: OVERLAP
+[2018.11.01-19.35.47:111][446]LogTemp: OVERLAP
+[2018.11.01-19.35.47:128][447]LogTemp: OVERLAP
+[2018.11.01-19.35.47:128][447]LogTemp: OVERLAP
+[2018.11.01-19.35.47:128][447]LogTemp: OVERLAP
+[2018.11.01-19.35.47:128][447]LogTemp: OVERLAP
+[2018.11.01-19.35.47:128][447]LogTemp: OVERLAP
+[2018.11.01-19.35.47:128][447]LogTemp: OVERLAP
+[2018.11.01-19.35.47:161][449]LogTemp: OVERLAP
+[2018.11.01-19.35.47:195][451]LogTemp: OVERLAP
+[2018.11.01-19.35.47:211][452]LogTemp: OVERLAP
+[2018.11.01-19.35.47:211][452]LogTemp: OVERLAP
+[2018.11.01-19.35.47:212][452]LogTemp: OVERLAP
+[2018.11.01-19.35.47:277][456]LogTemp: OVERLAP
+[2018.11.01-19.35.47:277][456]LogTemp: OVERLAP
+[2018.11.01-19.35.47:277][456]LogTemp: OVERLAP
+[2018.11.01-19.35.47:277][456]LogTemp: OVERLAP
+[2018.11.01-19.35.47:328][459]LogTemp: OVERLAP
+[2018.11.01-19.35.47:344][460]LogTemp: OVERLAP
+[2018.11.01-19.35.47:344][460]LogTemp: OVERLAP
+[2018.11.01-19.35.47:344][460]LogTemp: OVERLAP
+[2018.11.01-19.35.47:361][461]LogTemp: OVERLAP
+[2018.11.01-19.35.47:361][461]LogTemp: OVERLAP
+[2018.11.01-19.35.47:378][462]LogTemp: OVERLAP
+[2018.11.01-19.35.47:428][465]LogTemp: OVERLAP
+[2018.11.01-19.35.47:478][468]LogTemp: OVERLAP
+[2018.11.01-19.35.47:494][469]LogTemp: OVERLAP
+[2018.11.01-19.35.47:494][469]LogTemp: OVERLAP
+[2018.11.01-19.35.47:495][469]LogTemp: OVERLAP
+[2018.11.01-19.35.47:544][472]LogTemp: OVERLAP
+[2018.11.01-19.35.47:578][474]LogTemp: OVERLAP
+[2018.11.01-19.35.47:595][475]LogTemp: OVERLAP
+[2018.11.01-19.35.47:611][476]LogTemp: OVERLAP
+[2018.11.01-19.35.47:645][478]LogTemp: OVERLAP
+[2018.11.01-19.35.47:678][480]LogTemp: OVERLAP
+[2018.11.01-19.35.47:711][482]LogTemp: OVERLAP
+[2018.11.01-19.35.47:712][482]LogTemp: OVERLAP
+[2018.11.01-19.35.47:796][487]LogTemp: OVERLAP
+[2018.11.01-19.35.47:811][488]LogTemp: OVERLAP
+[2018.11.01-19.35.47:861][491]LogTemp: OVERLAP
+[2018.11.01-19.35.47:878][492]LogTemp: OVERLAP
+[2018.11.01-19.35.48:028][501]LogTemp: OVERLAP
+[2018.11.01-19.35.48:045][502]LogTemp: OVERLAP
+[2018.11.01-19.35.48:045][502]LogTemp: OVERLAP
+[2018.11.01-19.35.48:045][502]LogTemp: OVERLAP
+[2018.11.01-19.35.48:045][502]LogTemp: OVERLAP
+[2018.11.01-19.35.48:061][503]LogTemp: OVERLAP
+[2018.11.01-19.35.48:062][503]LogTemp: OVERLAP
+[2018.11.01-19.35.48:062][503]LogTemp: OVERLAP
+[2018.11.01-19.35.48:062][503]LogTemp: OVERLAP
+[2018.11.01-19.35.48:062][503]LogTemp: OVERLAP
+[2018.11.01-19.35.48:062][503]LogTemp: OVERLAP
+[2018.11.01-19.35.48:062][503]LogTemp: OVERLAP
+[2018.11.01-19.35.48:062][503]LogTemp: OVERLAP
+[2018.11.01-19.35.48:078][504]LogTemp: OVERLAP
+[2018.11.01-19.35.48:078][504]LogTemp: OVERLAP
+[2018.11.01-19.35.48:078][504]LogTemp: OVERLAP
+[2018.11.01-19.35.48:095][505]LogTemp: OVERLAP
+[2018.11.01-19.35.48:111][506]LogTemp: OVERLAP
+[2018.11.01-19.35.48:111][506]LogTemp: OVERLAP
+[2018.11.01-19.35.48:111][506]LogTemp: OVERLAP
+[2018.11.01-19.35.48:128][507]LogTemp: OVERLAP
+[2018.11.01-19.35.48:128][507]LogTemp: OVERLAP
+[2018.11.01-19.35.48:128][507]LogTemp: OVERLAP
+[2018.11.01-19.35.48:128][507]LogTemp: OVERLAP
+[2018.11.01-19.35.48:128][507]LogTemp: OVERLAP
+[2018.11.01-19.35.48:128][507]LogTemp: OVERLAP
+[2018.11.01-19.35.48:144][508]LogTemp: OVERLAP
+[2018.11.01-19.35.48:144][508]LogTemp: OVERLAP
+[2018.11.01-19.35.48:194][511]LogTemp: OVERLAP
+[2018.11.01-19.35.48:195][511]LogTemp: OVERLAP
+[2018.11.01-19.35.48:195][511]LogTemp: OVERLAP
+[2018.11.01-19.35.48:211][512]LogTemp: OVERLAP
+[2018.11.01-19.35.48:211][512]LogTemp: OVERLAP
+[2018.11.01-19.35.48:211][512]LogTemp: OVERLAP
+[2018.11.01-19.35.48:212][512]LogTemp: OVERLAP
+[2018.11.01-19.35.48:278][516]LogTemp: OVERLAP
+[2018.11.01-19.35.48:278][516]LogTemp: OVERLAP
+[2018.11.01-19.35.48:278][516]LogTemp: OVERLAP
+[2018.11.01-19.35.48:328][519]LogTemp: OVERLAP
+[2018.11.01-19.35.48:344][520]LogTemp: OVERLAP
+[2018.11.01-19.35.48:345][520]LogTemp: OVERLAP
+[2018.11.01-19.35.48:361][521]LogTemp: OVERLAP
+[2018.11.01-19.35.48:378][522]LogTemp: OVERLAP
+[2018.11.01-19.35.48:428][525]LogTemp: OVERLAP
+[2018.11.01-19.35.48:479][528]LogTemp: OVERLAP
+[2018.11.01-19.35.48:494][529]LogTemp: OVERLAP
+[2018.11.01-19.35.48:494][529]LogTemp: OVERLAP
+[2018.11.01-19.35.48:495][529]LogTemp: OVERLAP
+[2018.11.01-19.35.48:578][534]LogTemp: OVERLAP
+[2018.11.01-19.35.48:595][535]LogTemp: OVERLAP
+[2018.11.01-19.35.48:611][536]LogTemp: OVERLAP
+[2018.11.01-19.35.48:645][538]LogTemp: OVERLAP
+[2018.11.01-19.35.48:661][539]LogTemp: OVERLAP
+[2018.11.01-19.35.48:711][542]LogTemp: OVERLAP
+[2018.11.01-19.35.48:711][542]LogTemp: OVERLAP
+[2018.11.01-19.35.48:728][543]LogTemp: OVERLAP
+[2018.11.01-19.35.48:795][547]LogTemp: OVERLAP
+[2018.11.01-19.35.48:812][548]LogTemp: OVERLAP
+[2018.11.01-19.35.48:878][552]LogTemp: OVERLAP
+[2018.11.01-19.35.49:028][561]LogTemp: OVERLAP
+[2018.11.01-19.35.49:045][562]LogTemp: OVERLAP
+[2018.11.01-19.35.49:045][562]LogTemp: OVERLAP
+[2018.11.01-19.35.49:045][562]LogTemp: OVERLAP
+[2018.11.01-19.35.49:045][562]LogTemp: OVERLAP
+[2018.11.01-19.35.49:061][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:061][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:062][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:062][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:062][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:062][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:062][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:062][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:062][563]LogTemp: OVERLAP
+[2018.11.01-19.35.49:078][564]LogTemp: OVERLAP
+[2018.11.01-19.35.49:078][564]LogTemp: OVERLAP
+[2018.11.01-19.35.49:078][564]LogTemp: OVERLAP
+[2018.11.01-19.35.49:079][564]LogTemp: OVERLAP
+[2018.11.01-19.35.49:111][566]LogTemp: OVERLAP
+[2018.11.01-19.35.49:112][566]LogTemp: OVERLAP
+[2018.11.01-19.35.49:112][566]LogTemp: OVERLAP
+[2018.11.01-19.35.49:128][567]LogTemp: OVERLAP
+[2018.11.01-19.35.49:129][567]LogTemp: OVERLAP
+[2018.11.01-19.35.49:129][567]LogTemp: OVERLAP
+[2018.11.01-19.35.49:129][567]LogTemp: OVERLAP
+[2018.11.01-19.35.49:129][567]LogTemp: OVERLAP
+[2018.11.01-19.35.49:129][567]LogTemp: OVERLAP
+[2018.11.01-19.35.49:145][568]LogTemp: OVERLAP
+[2018.11.01-19.35.49:145][568]LogTemp: OVERLAP
+[2018.11.01-19.35.49:195][571]LogTemp: OVERLAP
+[2018.11.01-19.35.49:211][572]LogTemp: OVERLAP
+[2018.11.01-19.35.49:212][572]LogTemp: OVERLAP
+[2018.11.01-19.35.49:212][572]LogTemp: OVERLAP
+[2018.11.01-19.35.49:212][572]LogTemp: OVERLAP
+[2018.11.01-19.35.49:213][572]LogTemp: OVERLAP
+[2018.11.01-19.35.49:277][576]LogTemp: OVERLAP
+[2018.11.01-19.35.49:278][576]LogTemp: OVERLAP
+[2018.11.01-19.35.49:278][576]LogTemp: OVERLAP
+[2018.11.01-19.35.49:278][576]LogTemp: OVERLAP
+[2018.11.01-19.35.49:328][579]LogTemp: OVERLAP
+[2018.11.01-19.35.49:345][580]LogTemp: OVERLAP
+[2018.11.01-19.35.49:345][580]LogTemp: OVERLAP
+[2018.11.01-19.35.49:361][581]LogTemp: OVERLAP
+[2018.11.01-19.35.49:362][581]LogTemp: OVERLAP
+[2018.11.01-19.35.49:378][582]LogTemp: OVERLAP
+[2018.11.01-19.35.49:429][585]LogTemp: OVERLAP
+[2018.11.01-19.35.49:429][585]LogTemp: OVERLAP
+[2018.11.01-19.35.49:445][586]LogTemp: OVERLAP
+[2018.11.01-19.35.49:478][588]LogTemp: OVERLAP
+[2018.11.01-19.35.49:495][589]LogTemp: OVERLAP
+[2018.11.01-19.35.49:495][589]LogTemp: OVERLAP
+[2018.11.01-19.35.49:495][589]LogTemp: OVERLAP
+[2018.11.01-19.35.49:512][590]LogTemp: OVERLAP
+[2018.11.01-19.35.49:579][594]LogTemp: OVERLAP
+[2018.11.01-19.35.49:596][595]LogTemp: OVERLAP
+[2018.11.01-19.35.49:645][598]LogTemp: OVERLAP
+[2018.11.01-19.35.49:678][600]LogTemp: OVERLAP
+[2018.11.01-19.35.49:712][602]LogTemp: OVERLAP
+[2018.11.01-19.35.49:712][602]LogTemp: OVERLAP
+[2018.11.01-19.35.49:795][607]LogTemp: OVERLAP
+[2018.11.01-19.35.49:812][608]LogTemp: OVERLAP
+[2018.11.01-19.35.49:862][611]LogTemp: OVERLAP
+[2018.11.01-19.35.49:879][612]LogTemp: OVERLAP
+[2018.11.01-19.35.49:879][612]LogTemp: OVERLAP
+[2018.11.01-19.35.50:029][621]LogTemp: OVERLAP
+[2018.11.01-19.35.50:045][622]LogTemp: OVERLAP
+[2018.11.01-19.35.50:046][622]LogTemp: OVERLAP
+[2018.11.01-19.35.50:046][622]LogTemp: OVERLAP
+[2018.11.01-19.35.50:046][622]LogTemp: OVERLAP
+[2018.11.01-19.35.50:062][623]LogTemp: OVERLAP
+[2018.11.01-19.35.50:063][623]LogTemp: OVERLAP
+[2018.11.01-19.35.50:063][623]LogTemp: OVERLAP
+[2018.11.01-19.35.50:063][623]LogTemp: OVERLAP
+[2018.11.01-19.35.50:063][623]LogTemp: OVERLAP
+[2018.11.01-19.35.50:063][623]LogTemp: OVERLAP
+[2018.11.01-19.35.50:063][623]LogTemp: OVERLAP
+[2018.11.01-19.35.50:063][623]LogTemp: OVERLAP
+[2018.11.01-19.35.50:079][624]LogTemp: OVERLAP
+[2018.11.01-19.35.50:079][624]LogTemp: OVERLAP
+[2018.11.01-19.35.50:113][626]LogTemp: OVERLAP
+[2018.11.01-19.35.50:113][626]LogTemp: OVERLAP
+[2018.11.01-19.35.50:113][626]LogTemp: OVERLAP
+[2018.11.01-19.35.50:129][627]LogTemp: OVERLAP
+[2018.11.01-19.35.50:129][627]LogTemp: OVERLAP
+[2018.11.01-19.35.50:129][627]LogTemp: OVERLAP
+[2018.11.01-19.35.50:129][627]LogTemp: OVERLAP
+[2018.11.01-19.35.50:129][627]LogTemp: OVERLAP
+[2018.11.01-19.35.50:129][627]LogTemp: OVERLAP
+[2018.11.01-19.35.50:146][628]LogTemp: OVERLAP
+[2018.11.01-19.35.50:146][628]LogTemp: OVERLAP
+[2018.11.01-19.35.50:195][631]LogTemp: OVERLAP
+[2018.11.01-19.35.50:212][632]LogTemp: OVERLAP
+[2018.11.01-19.35.50:212][632]LogTemp: OVERLAP
+[2018.11.01-19.35.50:212][632]LogTemp: OVERLAP
+[2018.11.01-19.35.50:213][632]LogTemp: OVERLAP
+[2018.11.01-19.35.50:213][632]LogTemp: OVERLAP
+[2018.11.01-19.35.50:278][636]LogTemp: OVERLAP
+[2018.11.01-19.35.50:279][636]LogTemp: OVERLAP
+[2018.11.01-19.35.50:279][636]LogTemp: OVERLAP
+[2018.11.01-19.35.50:328][639]LogTemp: OVERLAP
+[2018.11.01-19.35.50:345][640]LogTemp: OVERLAP
+[2018.11.01-19.35.50:345][640]LogTemp: OVERLAP
+[2018.11.01-19.35.50:362][641]LogTemp: OVERLAP
+[2018.11.01-19.35.50:379][642]LogTemp: OVERLAP
+[2018.11.01-19.35.50:429][645]LogTemp: OVERLAP
+[2018.11.01-19.35.50:429][645]LogTemp: OVERLAP
+[2018.11.01-19.35.50:446][646]LogTemp: OVERLAP
+[2018.11.01-19.35.50:479][648]LogTemp: OVERLAP
+[2018.11.01-19.35.50:496][649]LogTemp: OVERLAP
+[2018.11.01-19.35.50:496][649]LogTemp: OVERLAP
+[2018.11.01-19.35.50:496][649]LogTemp: OVERLAP
+[2018.11.01-19.35.50:513][650]LogTemp: OVERLAP
+[2018.11.01-19.35.50:578][654]LogTemp: OVERLAP
+[2018.11.01-19.35.50:595][655]LogTemp: OVERLAP
+[2018.11.01-19.35.50:645][658]LogTemp: OVERLAP
+[2018.11.01-19.35.50:661][659]LogTemp: OVERLAP
+[2018.11.01-19.35.50:678][660]LogTemp: OVERLAP
+[2018.11.01-19.35.50:711][662]LogTemp: OVERLAP
+[2018.11.01-19.35.50:712][662]LogTemp: OVERLAP
+[2018.11.01-19.35.50:728][663]LogTemp: OVERLAP
+[2018.11.01-19.35.50:795][667]LogTemp: OVERLAP
+[2018.11.01-19.35.50:812][668]LogTemp: OVERLAP
+[2018.11.01-19.35.50:862][671]LogTemp: OVERLAP
+[2018.11.01-19.35.50:879][672]LogTemp: OVERLAP
+[2018.11.01-19.37.52:638][237]LogRenderer: Reallocating scene render targets to support 968x720 Format 9 NumSamples 1 (Frame:1).
+[2018.11.01-19.38.01:737][469]BlueprintLog: New page: Compile BP_BasePawn
+[2018.11.01-19.38.02:456][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BasePawn" FILE="C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset" SILENT=true
+[2018.11.01-19.38.02:485][486]LogSavePackage: Save=20.62ms
+[2018.11.01-19.38.02:485][486]LogSavePackage: Moving 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Saved/BP_BasePawn25F92DD149DF95846BF8ACBE67E6995A.tmp' to 'C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset'
+[2018.11.01-19.38.02:488][486]LogSavePackage: Display: Finished SavePackage C:/Users/Servets/Documents/Unreal Projects/Arcada/Content/Blueprints/Pawns/BP_BasePawn.uasset
+[2018.11.01-19.40.25:027][925]LogHotReload: New module detected: UE4Editor-Arcada-5818.dll
+[2018.11.01-19.40.26:043][929]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-19.40.26:171][929]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-19.40.26:176][929]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0013 seconds. Added 6 classes and 6 folders.
+[2018.11.01-19.40.26:178][929]Display: HotReload successful (3 functions remapped  2 scriptstructs remapped)
+[2018.11.01-19.40.26:561][929]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2371 classes and 529 folders.
+[2018.11.01-19.40.26:568][929]Display: HotReload took  0.5s.
+[2018.11.01-19.43.17:243][441]LogHotReload: New module detected: UE4Editor-Arcada-1968.dll
+[2018.11.01-19.43.17:928][444]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-19.43.18:056][444]LogClass: Could not find existing class ShootProjectile in package /Script/Arcada for HotReload, assuming new class
+[2018.11.01-19.43.18:056][444]LogClass: Function OnProjectileOverlape is new.
+[2018.11.01-19.43.18:056][444]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-19.43.18:056][444]LogClass: ShootInfo HotReload.
+[2018.11.01-19.43.18:062][444]LogHotReload: Re-instancing ShootProjectile after hot-reload.
+[2018.11.01-19.43.18:161][444]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0012 seconds. Added 6 classes and 6 folders.
+[2018.11.01-19.43.18:164][444]Display: HotReload successful (2 functions remapped  2 scriptstructs remapped)
+[2018.11.01-19.43.18:503][444]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2371 classes and 529 folders.
+[2018.11.01-19.43.18:507][444]Display: HotReload took  0.6s.
+[2018.11.01-19.50.56:183][817]LogHotReload: New module detected: UE4Editor-Arcada-7188.dll
+[2018.11.01-19.50.56:865][820]LogHotReload: Starting Hot-Reload from IDE
+[2018.11.01-19.50.57:023][820]LogClass: EnemySpawnInfo HotReload.
+[2018.11.01-19.50.57:024][820]LogClass: ShootInfo HotReload.
+[2018.11.01-19.50.57:029][820]LogContentBrowser: Native class hierarchy updated for 'Arcada' in 0.0018 seconds. Added 6 classes and 6 folders.
+[2018.11.01-19.50.57:033][820]Display: HotReload successful (3 functions remapped  2 scriptstructs remapped)
+[2018.11.01-19.50.57:383][820]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2371 classes and 529 folders.
+[2018.11.01-19.50.57:387][820]Display: HotReload took  0.5s.
+[2018.11.01-19.53.37:408][410]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.01-19.53.37:428][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.01-19.53.37:428][410]PIE: New page: PIE session: M_GamePlay (1 Nov 2018 21:53:37)
+[2018.11.01-19.53.37:428][410]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay
+[2018.11.01-19.53.37:429][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000801s)
+[2018.11.01-19.53.37:430][410]LogAIModule: Creating AISystem for world M_GamePlay
+[2018.11.01-19.53.37:430][410]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2018.11.01-19.53.37:430][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/M_GamePlay.M_GamePlay to /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay (0.002166s)
+[2018.11.01-19.53.37:479][410]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.01-19.53.37:502][410]LogInit: FAudioDevice initialized.
+[2018.11.01-19.53.37:578][410]LogLoad: Game class is 'BP_MyArcadaGameMode_C'
+[2018.11.01-19.53.37:580][410]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay.M_GamePlay up for play (max tick rate 60) at 2018.11.01-20.53.37
+[2018.11.01-19.53.37:580][410]LogWorld: Bringing up level for play took: 0.000896
+[2018.11.01-19.53.37:585][410]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_M_GamePlay -0.5
+[2018.11.01-19.53.38:228][411]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.550 s
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: 
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: Ensure condition failed: !RotationQuat.ContainsNaN() [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMath.cpp] [Line: 429]
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: Invalid input to FRotator::Quaternion - generated NaN output: X=nan Y=nan Z=nan W=-nan(ind)
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: Stack: 
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: [Callstack] 0x000000002BBD2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: [Callstack] 0x000000002B97123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: [Callstack] 0x000000002B98B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-19.53.38:228][411]LogOutputDevice: Error: [Callstack] 0x000000002B99092E UE4Editor-Core.dll!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x00000000278B6B4C UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x0000000038F03BB8 UE4Editor-Arcada-7188.dll!UShootComponent::Shoot() [c:\users\servets\documents\unreal projects\arcada\source\arcada\shootcomponent.cpp:38]
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x00000000280AD500 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x00000000281040AC UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x00000000279571BC UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x00000000252D6BA6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x0000000025B84AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x0000000073C35A26 UE4Editor.exe!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x0000000073C45430 UE4Editor.exe!UnknownFunction []
+[2018.11.01-19.53.38:229][411]LogOutputDevice: Error: [Callstack] 0x0000000073C454AA UE4Editor.exe!UnknownFunction []
+[2018.11.01-19.53.38:230][411]LogOutputDevice: Error: [Callstack] 0x0000000073C52379 UE4Editor.exe!UnknownFunction []
+[2018.11.01-19.53.38:230][411]LogOutputDevice: Error: [Callstack] 0x0000000073C53D57 UE4Editor.exe!UnknownFunction []
+[2018.11.01-19.53.38:230][411]LogOutputDevice: Error: [Callstack] 0x00000000795B3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.01-19.53.38:230][411]LogOutputDevice: Error: [Callstack] 0x0000000079D51471 ntdll.dll!UnknownFunction []
+[2018.11.01-19.53.38:230][411]LogOutputDevice: Error: 
+[2018.11.01-19.53.38:233][411]LogStats:                SubmitErrorReport -  0.000 s
+[2018.11.01-19.53.38:610][411]LogStats:                    SendNewReport -  0.377 s
+[2018.11.01-19.53.38:610][411]LogStats:             FDebug::EnsureFailed -  0.932 s
+[2018.11.01-19.53.38:610][411]LogSpawn: Warning: SpawnActor failed because the given transform (0.000000,0.000000,0.000000|-90.000000,0.000000,-0.000000|1.000000,1.000000,1.000000) is invalid
